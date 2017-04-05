@@ -1,0 +1,130 @@
+/* TEAM MEMBER */
+.yolo-teammember {
+	// Carousel
+	&.teammember-carousel {
+		background: @white;
+		padding: 40px 100px;
+		position: relative;
+		.teammember-list {
+			// padding: 0;
+		    margin: 20px 0 0 0;
+		    list-style: none;
+		    list-style-type: none;
+		    .teammember-item {
+		    	position: relative;
+		    	margin: 10%;
+		    	&:hover {
+		    		.teammember-content {
+		    			transform: translate(30px,30px);
+		    			-webkit-transition: all 0.5s;
+		    			-moz-transition: all 0.5s;
+		    			transition: all 0.5s;
+		    			.teammember-image {
+		    				&:before {
+		    					background: fade(@primary_color, 90%);
+	    					}
+		    			}
+		    			.teammember-meta {
+		    				right: 20px;
+		    				transition: all 0.5s;
+		    			}
+		    		}
+		    	}
+		    	.teammember-background {
+		    		position: absolute;
+		    		width: 100%;
+		    		height: 100%;
+		    		top: 0;
+		    		left: 0;
+		    		opacity: 0.2;
+		    		&:before {
+		    			content: "";
+		    			position: absolute;
+		    			width: 90%;
+		    			height: 94%;
+		    			margin: 5%;
+		    			background: @white;
+		    		}
+		    	}
+		    	.teammember-content {
+		    		position: relative;
+		    		transform: translate(0,0);
+	    			-webkit-transition: all 0.5s;
+	    			-moz-transition: all 0.5s;
+	    			transition: all 0.5s;
+	    			.teammember-image {
+	    				position: relative;
+	    				&:before {
+	    					content: "";
+	    					position: absolute;
+	    					height: 100%;
+	    					width: 100%;
+	    					top: 0;
+	    					left: 0;
+	    					background: transparent;
+	    				}
+	    			}
+			    	.teammember-meta {
+			    		position: absolute;
+					    bottom: 40px;
+					    left: 20px;
+					    color: @white;
+			    		.teammember-title {
+			    			color: @white;
+				    	}
+				    	.teammember-position {
+				    	}
+			    	}
+		    	}
+		    	
+		    }
+
+		}
+		.teammember-control {
+			color: #222222;
+			&:hover {
+				cursor: pointer;
+			}
+			.teammember-nav {
+				position: absolute;
+				display: block;
+				top: 50%;
+				z-index: 99;
+				.translateY(-50%);
+				margin: 0 5px;
+			    .box-shadow(1px 1px 1px 1px rgba(0, 0, 0, 0.1));
+			    &:hover{
+			    	i{
+			    		color: @primary_color;
+			    	}
+			    }
+			    i {
+			    	padding: 15px;
+					background: @white;
+					.transition(all 0.35s ease);
+			    }
+			    &.nav_next{
+			    	right: 0;
+			    }
+			    &.nav_prev{
+			    	left: 0;
+			    }
+			}
+		}
+		@media (max-width :1199px){
+			padding: 40px 0px;
+			.teammember-list{
+				padding: 0;
+			}
+		}
+		@media (max-width :991px){
+			padding: 0px;
+		}
+		@media (max-width :767px){
+			.teammember-list{
+				margin: 0;
+			}
+		}
+	}
+	//
+}

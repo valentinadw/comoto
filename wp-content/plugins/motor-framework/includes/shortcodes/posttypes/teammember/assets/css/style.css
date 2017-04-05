@@ -1,0 +1,272 @@
+/* TEAM MEMBER */
+
+.yolo-team-fix {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  background-color: rgba(0, 0, 0, 0.7);
+  background-image: url('../images/3.GIF');
+  background-position: center center;
+  background-repeat: no-repeat;
+  z-index: 99999 !important;
+}
+.yolo-team-fix.db {
+  display: block;
+}
+.yolo-team-fix.bk-noimage {
+  background-image: none;
+}
+.yolo-team-fix .yolo-team-wrap {
+  position: absolute;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -moz-opacity: 0;
+  -khtml-opacity: 0;
+  -webkit-opacity: 0;
+  opacity: 0;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+  filter: alpha(opacity=0);
+}
+@media (max-width: 767px) {
+  .yolo-team-fix .yolo-team-wrap {
+    -moz-transform: translate(0%, -50%);
+    -webkit-transform: translate(0%, -50%);
+    -ms-transform: translate(0%, -50%);
+    -o-transform: translate(0%, -50%);
+    transform: translate(0%, -50%);
+    left: 10px;
+    right: 10px;
+  }
+}
+.yolo-team-content {
+  background: #ffffff;
+  top: 10%;
+  bottom: 10%;
+  right: 10%;
+  left: 10%;
+  height: auto;
+  position: relative;
+  padding: 50px 20px 40px 0;
+  overflow-y: scroll;
+}
+.yolo-team-content .team-left .teammember-image img {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .yolo-team-content {
+    width: 100%;
+    top: auto;
+    bottom: auto;
+    right: auto;
+    left: auto;
+  }
+}
+@media (max-width: 480px) {
+  .yolo-team-content {
+    padding: 0;
+    height: 300px;
+  }
+  .yolo-team-content .team-right {
+    padding-top: 10px;
+    width: 100% !important;
+  }
+  .yolo-team-content .team-left {
+    padding-top: 20px;
+    width: 100% !important;
+  }
+  .yolo-team-content .team-left .yolo-team-image {
+    width: 60%;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 320px) {
+  .yolo-team-content {
+    padding: 0;
+    height: 300px;
+    overflow-y: scroll;
+  }
+  .yolo-team-content .team-right {
+    padding-top: 10px;
+    width: 100% !important;
+  }
+  .yolo-team-content .team-right .team-certificates {
+    display: none;
+  }
+  .yolo-team-content .team-left {
+    padding-top: 20px;
+    width: 100% !important;
+  }
+  .yolo-team-content .team-left .yolo-team-image {
+    width: 60%;
+    margin: 0 auto;
+  }
+}
+.yolo-team-content .team-remove {
+  width: 40px;
+  height: 40px;
+  background: #eeeff0;
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #606060;
+  border: 0;
+  -webkit-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+}
+@media (max-width: 480px) {
+  .yolo-team-content .team-remove {
+    margin-top: -40px;
+    position: fixed;
+  }
+}
+.yolo-team-content .team-remove:hover {
+  background: #000000;
+  color: #ffffff;
+}
+.yolo-team-content .team-left {
+  width: 40%;
+  float: left;
+  text-align: center;
+  padding-left: 30px;
+}
+.yolo-team-content .team-left h4 {
+  font-size: 24px;
+  margin: 22px 10px 8px;
+  padding: 0;
+  color: #fdb801;
+}
+.yolo-team-content .team-left .team_position {
+  display: block;
+  color: #606060;
+  text-transform: uppercase;
+}
+.yolo-team-content .team-right {
+  width: 60%;
+  float: left;
+  padding-left: 30px;
+}
+.yolo-team-content .team-right .team-title {
+  font-size: 24px;
+  position: relative;
+  color: #606060;
+  padding: 0;
+  margin: 0 0 15px 0;
+}
+.yolo-team-content .team-right .team-title:before {
+  width: 4px;
+  height: 4px;
+  -webkit-border-top-right-radius: 50%;
+  -webkit-border-bottom-right-radius: 0;
+  -webkit-border-bottom-left-radius: 0;
+  -webkit-border-top-left-radius: 0;
+  -moz-border-radius-topright: 50%;
+  -moz-border-radius-bottomright: 0;
+  -moz-border-radius-bottomleft: 0;
+  -moz-border-radius-topleft: 0;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+  -moz-background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -2px;
+}
+.yolo-team-content .team-right .team-contact ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.yolo-team-content .team-right .team-contact ul li {
+  line-height: 28px;
+}
+.yolo-team-content .team-right .team-contact ul li i {
+  color: #fdb801;
+  padding-right: 17px;
+}
+.yolo-team-content .team-right .team-contact .team_socials a {
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 13px;
+  color: #606060;
+  -webkit-transition: color 0.25s ease-in-out;
+  -o-transition: color 0.25s ease-in-out;
+  transition: color 0.25s ease-in-out;
+}
+.yolo-team-content .team-right .team-contact .team_socials a:hover {
+  color: #fdb801;
+}
+.yolo-team-content .team-specialty {
+  margin-top: 20px;
+}
+.yolo-team-content .team-specialty .team-specialty-attr {
+  margin-top: 13px;
+}
+.yolo-team-content .team-specialty .team-specialty-attr ul {
+  float: left;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  width: 50%;
+}
+.yolo-team-content .team-specialty .team-specialty-attr ul li {
+  line-height: 36px;
+  position: relative;
+  padding: 0 0 0 14px;
+}
+.yolo-team-content .team-specialty .team-specialty-attr ul li:before {
+  width: 4px;
+  height: 4px;
+  -webkit-border-top-right-radius: 50%;
+  -webkit-border-bottom-right-radius: 0;
+  -webkit-border-bottom-left-radius: 0;
+  -webkit-border-top-left-radius: 0;
+  -moz-border-radius-topright: 50%;
+  -moz-border-radius-bottomright: 0;
+  -moz-border-radius-bottomleft: 0;
+  -moz-border-radius-topleft: 0;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+  -moz-background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  background: #606060;
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -2px;
+}
+.yolo-team-content .team-certificates {
+  margin-top: 20px;
+  color: #606060;
+}
+.yolo-team-content .team-right .team-contact ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.yolo-team-content .team-right .team-contact ul li{
+  line-height: 28px;
+}
+.yolo-team-content .team-right .team-contact ul li i{
+  color: #fdb801;
+  padding-right: 17px;
+}
+.teammember-content{
+  cursor: pointer;
+}

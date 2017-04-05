@@ -1,0 +1,47 @@
+/* Clients Shortcode CSS */
+.clients-shortcode-wrap {
+	position: relative;
+	&.style_1 {
+		.clients-list {
+			.client-item {
+				text-align: center;
+			}
+		}
+		.clients-control {
+			.clients-nav {
+				z-index: 1;
+				position: absolute;
+				top: 50%;
+				z-index: 99;
+				-webkit-transform: translateY(-50%);
+				-moz-transform: translateY(-50%);
+				-o-transform: translateY(-50%);
+				-ms-transform: translateY(-50%);
+				transform: translateY(-50%);
+				-webkit-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+				-moz-box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+				box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
+				&:hover {
+					cursor: pointer;
+					i{
+						color: @primary_color;
+					}
+				}
+				&.nav_prev {
+					float: left;
+				}
+				&.nav_next {
+					float: right;
+					right: 0;
+				}
+				i {
+					-webkit-transition: all 0.35s ease;
+				    -o-transition: all 0.35s ease;
+				    transition: all 0.35s ease;
+					padding: 15px;
+					background: #ffffff;
+				}
+			}	
+		}
+	}
+}

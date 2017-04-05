@@ -1,0 +1,61 @@
+//-----------------------------------
+// YOLO TOP BAR
+//-----------------------------------
+.yolo-top-bar {
+    background-color: @top_bar_bg_color;
+    color: @top_bar_text_color;
+    .sidebar {
+        color: @top_bar_text_color;
+        h4.widget-title {
+            color: @top_bar_text_color;
+        }
+        #wp-calendar caption, #wp-calendar thead th {
+            color: @top_bar_text_color;
+        }
+        .widget_nav_menu > div > ul.menu {
+            > li {
+                + li {
+                    &:before when (lightness(@top_bar_bg_color) > 50) {
+                        background-color: darken(@top_bar_bg_color, 15%);
+                    }
+                    &:before when (lightness(@top_bar_bg_color) <=50) {
+                        background-color: lighten(@top_bar_bg_color, 15%);
+                    }
+                }
+            }
+        }
+        .widget.base-primary-color {
+            i.fa, a {
+                color: @top_bar_text_color;
+            }
+            &.widget_nav_menu > div > ul.menu > li + li:before, &.separate-left:before, &.separate-right:after {
+                background-color: @top_bar_text_color;
+            }
+        }
+        .separate-left {
+            &:before when (lightness(@top_bar_bg_color) > 50) {
+                background-color: darken(@top_bar_bg_color, 15%);
+            }
+            &:before when (lightness(@top_bar_bg_color) <=50) {
+                background-color: lighten(@top_bar_bg_color, 15%);
+            }
+        }
+        .separate-right {
+            &:after when (lightness(@top_bar_bg_color) > 50) {
+                background-color: darken(@top_bar_bg_color, 15%);
+            }
+            &:after when (lightness(@top_bar_bg_color) <=50) {
+                background-color: lighten(@top_bar_bg_color, 15%);
+            }
+        }
+    }
+    // Popup login menu
+    .top-sidebar {
+        color: @top_bar_text_color;
+        .widget_nav_menu > div > ul.menu {
+            >li {
+                ul {}
+            }
+        }
+    }
+}

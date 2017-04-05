@@ -1,0 +1,335 @@
+/* Icon Box Shortcode CSS */
+.icon-box-shortcode-wrap {
+  	// Style 1
+  	&.style_1 {
+  		position: relative;
+	  	text-align: center;
+	  	height: 150px;
+	  	&:after{
+	  		content: '';
+	  		height: 2px;
+	  		width: 50px;
+	  		position: absolute;
+	  		background-color: @primary_color;
+	  		bottom: 0px;
+	  		left: 50%;
+	  		.transition( all 0.35s ease);
+	  		opacity: 0;
+	  		.transform(translate(-50%, 0) scale(0));
+	  		@media (min-width:768px) and (max-width: 991px){
+                bottom: -20px;
+            }
+            @media (max-width: 479px){
+               bottom: -20px;
+            }
+	  	}
+	  	&:hover {
+	  		&:after{
+	  			opacity: 1;
+	  			.transform(translate(-50%, 0) scale(1));
+	  		}
+	  		.icon-box-container{
+	  			.icon-wrap {
+	  				top: 15%;
+			        .content-polygon{
+			        	opacity: 0;
+			        	visibility: hidden;
+			        }
+			        span {
+			          	color: @primary_color !important;
+			        }
+		      	}
+		      	.icon-title {
+		      		color: @text_color;
+		      		top: 40%;
+		      		position: absolute;
+		      		font-size: 18px;
+		      		font-weight: bold;
+		      		.transition(all 0.35s ease);
+		      		a{
+		      			color: @text_color !important;
+		      		}
+		     	}
+		      	.icon-description {
+		      		top: 53%;
+		        	height: auto;
+		        	opacity: 1;
+		      	}
+	  		}  	
+	    }
+	    .icon-box-container {
+	      	.icon-wrap {
+	      		.transition( all 0.35s ease);
+		        text-align: center;
+		        position: absolute;
+		        top: 50%;
+		        left: 50%;
+		        z-index: 1;
+		        .translate(-50%,-50%);
+		       	.content-polygon{
+		       		.transition( all 0.35s ease);
+		       		position: absolute;
+		       		top: 50%;
+		           	left: 50%;
+		           	content: '';
+		           	height: 72px;
+    				width: 72px;
+		           	background-color: @white;
+		           	.transform( translate(-50%,-50%) rotate(45deg));
+		           	.box-shadow(1px 1px 1px 1px rgba(0,0,0,0.1));
+		       	}
+		        span {
+		        	.transition( all 0.35s ease);
+		        	&:before{
+		        		font-size: 24px;
+		        		position: relative;
+		        		z-index: 1;
+		        	}
+
+		        }
+	      	}
+	      	.icon-title {
+	      		a{
+	      			color: darken(@border_color, 5%);
+	      			&:hover{
+	      				color: @primary_color !important
+	      			}
+	      		}
+	      		position: absolute;
+	      		top: 50%;
+	      		left: 0;
+	      		width: 100%;
+	      		.translate( 0, -50%);
+	        	text-transform: uppercase;
+		        color: darken(@border_color, 5%);
+		        margin: 0;
+		        margin-bottom: 10px;
+		        .transition( all 0.35s ease-in-out);
+		        font-size: 30px;
+	      	}
+	      	.icon-description {
+	      		width: 100%;
+	      		color: lighten(@text_color, 30%);
+	      		top: 60%;
+	      		position: absolute;
+	        	opacity: 0;
+	        	height: 0;
+	        	.transition( all 0.35s ease-in-out);
+	        	p{
+	        		text-align: center;
+	        	}
+	      	}
+	    } 
+  	}
+  	// Style 2
+  	&.style_2 {
+  		position: relative;
+	  	text-align: center;
+	  	height: 150px;
+	  	&:after{
+	  		content: '';
+	  		height: 2px;
+	  		width: 50px;
+	  		position: absolute;
+	  		background-color: @text_color;
+	  		top: 55%;
+	  		left: 50%;
+	  		.transition( all 0.35s ease);
+	  		opacity: 0;
+	  		.transform(translate(-50%, 0) scale(0));
+	  	}
+	  	&:hover {
+	  		&:after{
+	  			top: 55%;
+	  			opacity: 1;
+	  			.transform(translate(-50%, 0) scale(1));
+	  		}
+	  		.icon-box-container{
+	  			.icon-wrap {
+	  				top: 15%;
+			        .content-polygon{
+			        	opacity: 0;
+			        	visibility: hidden;
+			        }
+			        span {
+			          	color: @primary_color !important;
+			          	&:before{
+			          		font-size: 36px;
+			          		color: @text_color !important;
+			          	}
+			        }
+		      	}
+		      	.icon-title {
+		      		color: @text_color;
+		      		top: 40%;
+		      		position: absolute;
+		      		font-weight: bold;
+		      		.transition(all 0.35s ease);
+		      		a{
+		      			color: @text_color !important;
+		      		}
+		     	}
+		      	.icon-description{
+		      		top: 63%;
+		        	height: auto;
+		        	opacity: 1;
+		      	}
+	  		}  	
+	    }
+	    .icon-box-container {
+	      	.icon-wrap {
+	      		.transition( all 0.35s ease);
+		        text-align: center;
+		        position: absolute;
+		        top: 50%;
+		        left: 50%;
+		        .translate(-50%,-50%);
+		        span {
+		        	.transition( all 0.35s ease);
+		        	&:before{
+		        		font-size: 100px;
+		        		color: darken(@border_color, 5%);
+		        		position: relative;
+		        		z-index: 1;
+		        	}
+
+		        }
+	      	}
+	      	.icon-title {
+	      		a{	
+	      			color: @text_color;
+	      			&:hover{
+	      				color: @primary_color !important
+	      			}
+	      		}
+	      		font-size: 14px;
+	      		font-weight: 700;
+	      		position: absolute;
+	      		top: 50%;
+	      		left: 0;
+	      		width: 100%;
+	      		.translate( 0, -50%);
+	        	text-transform: uppercase;
+		        color: @text_color;
+		        margin: 0;
+		        margin-bottom: 10px;
+		        .transition( all 0.35s ease-in-out);
+	      	}
+	      	.icon-description{
+	      		color: lighten(@text_color, 30%);
+	      		top: 55%;
+	      		position: absolute;
+	        	opacity: 0;
+	        	height: 0;
+	        	.transition( all 0.35s ease-in-out);
+	        	width: 100%;
+	        	p{
+	        		text-align: center;
+	        	}
+	      	}
+	    } 
+  	}
+  	// Style 3
+  	&.style_3 {
+	    &:hover {
+	    	.icon-box-container {
+		    	&:before {
+		    		width: 100%;
+		    	}
+		      	.icon-wrap {
+			        span {
+			          	
+			        }
+		      	}
+		      	h2 {
+
+		     	}
+	     	}
+	    }
+	    .icon-box-container {
+	      	position: relative;
+	      	&:before {
+	      		content: "";
+	      		position: absolute;
+	      		display: block;
+	      		bottom: 0;
+	      		left: 0;
+	      		width: 42px;
+	      		height: 1px;
+	      		background-color: @text_color;
+	      		.transition( all 0.35s ease);
+	      	}
+	      	.icon-wrap {
+	      		span {
+	      			color: @text_color;
+	      			display: inline-block;
+	      			font-size: 36px;
+	      			padding-right: 15px;
+	      		}
+	      		.icon-title {
+	      			font-weight: bold;
+	      			line-height: 36px;
+		        	text-transform: uppercase;
+		        	display: inline-block;
+			        color: @text_color;
+			        margin: 0;
+			        font-size: 14px;
+		      	}
+	      	}
+	      	.icon-description{
+	      		color: lighten(@text_color, 25%);
+	      		margin-top: 10px;
+	      		padding-bottom: 20px;
+		    }      	
+	    }
+  	}
+  	// Style 4
+  	&.style_4 {
+	    &:hover {
+	    }
+	    .icon-box-container {
+	      	.icon-wrap {
+      			float: left;
+      			font-size: 35px;
+      			padding: 10px 30px;
+    			span {
+    				color: @primary_color;
+    			}
+    			@media( min-width:768px) and (max-width:991px){
+    				padding: 10px 5px;
+    			}
+	      	}
+	      	.icon-content {
+	      		margin-left: 100px;
+	      		border-left: 1px solid @border_color;
+	      		padding-left: 25px;
+	      		.icon-title {
+		        	text-transform: uppercase;
+			        color: @text_color;
+			        margin: 0;
+			        font-size: 18px;
+			        font-weight: bold;
+			        padding-bottom: 15px;
+		      	}
+		      	@media( min-width:768px) and (max-width:991px){
+    				padding-left: 15px;
+    				margin-left: 50px;
+    			}
+	      	}
+	      	@media( min-width:480px) and (max-width:767px){
+    			width: 100%;
+    			.icon-wrap{
+    				width: 50%;
+    				text-align: center;
+    			}
+    			.icon-content {
+    				width: 50%;
+    				float: left;
+    				margin-left: 0;
+    			}
+
+    		}
+	    }
+  	}
+  	// Style 4
+}

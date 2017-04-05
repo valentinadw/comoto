@@ -1,0 +1,741 @@
+//-----------------------------------
+// YOLO HEADER-SIDEBAR
+//-----------------------------------
+#yolo-header.header-sidebar {
+    background-color: @header_background_color ;
+    .vertical-header-wrapper {
+        .header-customize {
+            .header-customize-item {
+                > form {
+                    input {
+                        color: fade(@header_nav_text_color, 85%) ;
+                        &::-webkit-input-placeholder {
+                            color: fade(@header_nav_text_color, 60%) ;
+                        }
+                        &::-moz-placeholder {
+                            color: fade(@header_nav_text_color, 60%) ;
+                        }
+                    }
+                    button {
+                        i {
+                            color: @header_nav_text_color ;
+                            &:hover {
+                                color: @primary_color ;
+                            }
+                        }
+                    }
+                }
+                + .header-customize-item {
+                    color: @header_text_color ;
+                    a {
+                        i {
+                            color: @header_background_color ;
+                        }
+                        &:hover {
+                            i {
+                                color: @primary_color ;
+                            }
+                        }
+                    }
+                }
+            }
+            &.header-social-profile-wrapper {
+              color: @header_text_color;
+              li{
+                a {
+                  &:hover {
+                    i {
+                      color: @primary_color;
+                    }
+                  }
+                }
+              }
+            }
+        }
+        .header-top {
+            text-align: center;
+            .header-logo {
+                img {}
+            }
+        }
+        .header-bottom {
+            .menu-wrapper {
+                .navbar-nav.vertical-megamenu {
+                    > li {
+                        > a {
+                            color: @header_nav_text_color ;
+                            &:hover {
+                                color: @primary_color ;
+                            }
+                        }
+                        &:hover {
+                            > a {
+                                color: @primary_color ;
+                            }
+                            > b.menu-caret {
+                                color: @primary_color ;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .header-customize {
+            .canvas-menu-toggle-wrapper {
+                margin-left: 30px;
+                a {
+                    &:hover {
+                        i {
+                            color: @primary_color ;
+                        }
+                    }
+                }
+            }
+        }
+        .fb {
+            .header-customize-right {
+                height: auto;
+            }
+        }
+    }
+}
+
+//-----------------------------------
+// YOLO HEADER
+//-----------------------------------
+@media screen and (min-width: 1370px) {
+    header.yolo-main-header .yolo-header-nav-wrapper.nav-fullwith {
+        padding-left: @header_nav_layout_padding;
+        padding-right: @header_nav_layout_padding;
+    }
+    .yolo-top-bar .topbar-fullwith {
+        padding-left: @top_bar_layout_padding;
+        padding-right: @top_bar_layout_padding;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .header-mobile-before, .yolo-mobile-header-wrapper, li.menu-fly-search {
+        display: none;
+    }
+    .logo-sticky {
+        line-height: @main_menu_height;
+    }
+    .yolo-main-header;
+    header.yolo-main-header {
+        background-color: @header_background_color ;
+        .yolo-header-wrapper {
+            .yolo-main-menu {
+                > li {
+                    > a {
+                        color: @header_nav_text_color;
+                        font-family: @menu_font;
+                        font-weight: @menu_font_weight;
+                        font-size: @menu_font_size;
+                    }
+                }
+            }
+        }
+        .header-logo {
+            height: @logo_max_height;
+        }
+        .yolo-header-nav-wrapper {
+            background-color: @header_nav_bg_color ;
+        }
+        .header-customize {
+            color: fade(@header_text_color, 70%);
+        }
+        .header-customize-left, .header-customize-right {
+            color: fade(@header_text_color, 70%);
+            .search-box input {
+                color: fade(@header_text_color, 70%);
+            }
+        }
+        .header-customize-item {
+            font-family: @menu_font;
+            color: fade(@header_text_color, 70%);
+        }
+        .header-customize-item + .header-customize-item {
+            color: fade(@header_text_color, 70%);
+        }
+        .header-customize {
+            .header-customize-item + .shopping-cart-wrapper.with-price .widget_shopping_cart_icon > i {
+                color: fade(@header_text_color, 75%);
+            }
+        }
+        .header-customize-separate {
+            .header-customize-item + .header-customize-item {
+                &:before {
+                    background-color: @header_border_color;
+                }
+            }
+        }
+        .search-button-wrapper.style-bordered .icon-search-menu, .shopping-cart-wrapper.no-price.style-bordered .widget_shopping_cart_content .widget_shopping_cart_icon > i.wicon {
+            border: solid 2px @header_border_color;
+        }
+        ul.header-social-profile-wrapper {
+            li {
+                a {
+                    &:hover {
+                        color: @header_nav_text_color;
+                    }
+                }
+                + li {
+                    margin-left: 20px;
+                }
+            }
+        }
+        .search-box {
+            input {
+                border: solid 1px @header_border_color;
+                color: fade(@header_text_color, 70%);
+            }
+        }
+        .ajax-search-result {
+            border: solid 1px @header_border_color;
+            > ul {
+                > li {
+                    a {
+                        color: fade(@header_text_color, 70%);
+                    }
+                    + li:before {
+                        border-top: solid 1px @header_border_color;
+                    }
+                }
+            }
+            .search-view-more when (lightness(@menu_sub_bg_color) > 50) {
+                background-color: darken(@menu_sub_bg_color, 7%);
+                border-top: solid 1px darken(@menu_sub_bg_color, 15%);
+            }
+            .search-view-more when (lightness(@menu_sub_bg_color) <=50) {
+                background-color: lighten(@menu_sub_bg_color, 7%);
+                border-top: solid 1px lighten(@menu_sub_bg_color, 15%);
+            }
+        }
+        .search-with-category {
+            .form-search-left {
+                > span {
+                    border-color: @header_border_color;
+                }
+            }
+            .search-category-dropdown {
+                border-color: @header_border_color;
+            }
+        }
+        // addition
+        .yolo-header-nav-above {
+            border-bottom: solid 1px @header_border_color;
+        }
+        .header-customize-nav {
+            line-height: @main_menu_height;
+            input[type="text"]::-webkit-input-placeholder {
+                color: fade(@header_text_color, 70%);
+            }
+            input[type="text"]:-moz-placeholder {
+                color: fade(@header_text_color, 70%);
+            }
+            input[type="text"]::-moz-placeholder {
+                color: fade(@header_text_color, 70%);
+            }
+            input[type="text"]:-ms-input-placeholder {
+                color: fade(@header_text_color, 70%);
+            }
+        }
+        .header-customize-right, .header-customize-left {
+            height: @logo_max_height;
+        }
+        .custom-list {
+            color: @header_nav_text_color;
+        }
+        .custom-separate {
+            background-color: @header_border_color;
+        }
+    }
+    //set navigation distance
+    header.yolo-main-header .yolo-sticky-wrapper {
+        .yolo-header-nav-wrapper .yolo-header-wrapper .menu-wrapper .yolo-main-menu {
+            > li > a {
+                color: @header_nav_text_color;
+            }
+        }
+    }
+    header.header-6 {
+        .yolo-header-nav-wrapper {
+            > .container {
+                background-color: @header_nav_bg_color;
+            }
+        }
+        .header-customize-nav {
+            .search-with-category .form-search-left > span:after {
+                color: @header_nav_text_color;
+            }
+        }
+    }
+    body.header-4 .yolo-top-bar {
+        > .container {
+            background-color: @top_bar_bg_color;
+        }
+    }
+    body.header-6 .yolo-top-bar {
+        border-bottom: solid 1px @header_border_color;
+    }
+    // Sticky
+    //-----------------------------------
+    .yolo-sticky-wrapper.is-sticky > .yolo-header-nav-wrapper {
+        // STICKY SCHEME
+        &.sticky-scheme-inherit.sticky-on {
+            background-color: @header_nav_bg_color;
+            .menu-wrapper .yolo-main-menu {
+                > li > a {
+                    color: @header_nav_text_color ;
+                }
+            }
+        }
+    }
+    header.header-6 .yolo-sticky-wrapper.is-sticky .yolo-header-nav-wrapper {
+        background-color: @header_nav_bg_color;
+    }
+}
+
+//-----------------------------------
+// SHOPPING CART
+//-----------------------------------
+.shopping-cart-wrapper {
+    .widget_shopping_cart_content {
+        font-family: @secondary_font;
+        .widget_shopping_cart_icon > i.wicon {
+            color: fade(@header_text_color, 75%);
+        }
+        .widget_shopping_cart_icon > i.wicon + span.total when (lightness(@header_nav_text_color) > 90) {
+            color: fade(@header_text_color, 75%);
+        }
+        .cart_list_wrapper {
+            border: solid 2px @header_border_color;
+            li {
+                + li {
+                    border-top: solid 1px @header_border_color;
+                }
+            }
+        }
+        &.with-price {
+            .sub-total-text {
+                span.amount {
+                    color: fade(@header_text_color, 70%);
+                }
+            }
+        }
+    }
+}
+
+//-----------------------------------
+// WISHLIST CART
+//-----------------------------------
+.top-sidebar .widget-social-profile ul.social-profile li a, .wpb_widgetised_column .widget-social-profile ul.social-profile li a, .header-social-profile-wrapper li a {
+    &:hover i.fa {
+        color: @top_bar_text_color;
+    }
+}
+
+// Header-1
+header.header-1 {
+    .yolo-header-nav-above {
+        .container {
+            .fr {
+                .header-customize-right {
+                    .search-with-category {
+                        .search-box {
+                            .form-search-right {
+                                button {
+                                    i.wicon {
+                                        color: @header_text_color;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .custom-text-wrapper {
+                        i {
+                            color: @header_text_color;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .header-center {
+        .menu-wrapper {
+            #main-menu {
+                >li {
+                    > a {
+                        color: @header_nav_text_color;
+                    }
+                    &:hover {
+                        > a {
+                            color: @primary_color;
+                        }
+                    }
+                }
+                li.menu-item-has-children {
+                    &:hover {
+                        > a {
+                            color: @primary_color;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// Header-2
+.header-2 {
+    .yolo-header-nav-above {
+        .container {
+            .fr {
+                .header-customize-right {
+                    .custom-text-wrapper {
+                        color: fade(@header_text_color, 70%);
+                        i {
+                            color: @header_text_color;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .yolo-header-nav-wrapper {
+        .container {
+            clear: both;
+            .yolo-header-wrapper {
+                .header-left {
+                    float: left;
+                    .menu-wrapper {
+                        #main-menu {
+                            > li {
+                                >a {
+                                    color: @header_nav_text_color;
+                                }
+                                &:hover {
+                                    > a {
+                                        color: @primary_color;
+                                    }
+                                }
+                            }
+                            li.menu-item-has-children {
+                                &:hover {
+                                    > a {
+                                        color: @primary_color;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                .header-right {
+                    .header-customize-nav {
+                        .header-social-profile-wrapper {
+                            li {
+                                a {
+                                    i {
+                                        &:hover {
+                                            color: @primary_color;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// Header-3
+.header-3 {
+    .yolo-header-nav-above {
+        .container {
+            .fr {
+                .header-customize-right {
+                    .custom-text-wrapper {
+                        color: @top_bar_text_color;
+                        i {
+                            color: @header_text_color;
+                        }
+                    }
+                }
+            }
+            .fl {
+                .header-customize-left {
+                    .search-with-category {
+                        .search-box {
+                            .form-search-right {
+                                button {
+                                    i {
+                                        color: @header_text_color;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .yolo-sticky-wrapper {
+        .yolo-header-nav-wrapper {
+            .container {
+                .yolo-header-wrapper {
+                    border-color: @header_border_color;
+                    .header-left {}
+                    .header-right {
+                        .menu-wrapper {
+                            .yolo-main-menu {
+                                > li {
+                                    > a {
+                                        color: @header_nav_text_color ;
+                                    }
+                                    &:hover {
+                                        > a {
+                                            color: @primary_color;
+                                        }
+                                    }
+                                }
+                                li.menu-item-has-children {
+                                    &:hover {
+                                        > a {
+                                            color: @primary_color;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            &.sticky-on {}
+        }
+    }
+}
+
+// Header-4
+.header-4 {
+    .yolo-header-nav-above {}
+    .yolo-sticky-wrapper {
+        .yolo-header-nav-wrapper {
+            .container {
+                .yolo-header-wrapper {
+                    background-color: @header_nav_bg_color;
+                    .header-left {
+                        .menu-wrapper {
+                            .yolo-main-menu {
+                                >li {
+                                    >a {
+                                        color: @header_nav_text_color;
+                                    }
+                                    &:hover {
+                                        > a {
+                                            color: @primary_color;
+                                        }
+                                    }
+                                }
+                                li.menu-item-has-children {
+                                    &:hover {
+                                        > a {
+                                            color: @primary_color;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                .fr {
+                    .shopping-cart-wrapper {
+                        .widget_shopping_cart_content {
+                            .widget_shopping_cart_icon > i.wicon {
+                                color: fade(@header_text_color, 70%);
+                            }
+                        }
+                    }
+                }
+            }
+            &.sticky-on {
+                background-color: @header_nav_bg_color;
+            }
+        }
+    }
+}
+
+header.header-4, header.header-6 {
+    .yolo-header-nav-above {
+        .container {
+            .fr {
+                .header-customize-right {
+                    .custom-text-wrapper {
+                        i {
+                            color: @header_text_color;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+// Header-6
+.header-6 {
+    .yolo-sticky-wrapper {
+        .yolo-header-nav-wrapper {
+            background-color: @header_nav_bg_color;
+            .container {
+                .yolo-header-wrapper {
+                    .header-left {
+                        .menu-wrapper {
+                            .yolo-main-menu {
+                                >li {
+                                    >a {
+                                        color: @header_nav_text_color;
+                                    }
+                                    &:hover {
+                                        > a {
+                                            color: @primary_color;
+                                        }
+                                    }
+                                }
+                                li.menu-item-has-children {
+                                    &:hover {
+                                        > a {
+                                            color: @primary_color;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .header-right {
+                        .header-customize-nav {
+                            .search-box-wrapper {
+                                form {
+                                    background-color: lighten(@header_background_color, 10%);
+                                    input[type="text"] {
+                                        font-family: @primary_font;
+                                        color: @header_text_color;
+                                        &::-webkit-input-placeholder {
+                                            color: fade(@header_text_color, 70%);
+                                        }
+                                        &:-moz-placeholder {
+                                            color: fade(@header_text_color, 70%);
+                                        }
+                                        &::-moz-placeholder {
+                                            color: fade(@header_text_color, 70%);
+                                        }
+                                        &:-ms-input-placeholder {
+                                            color: fade(@header_text_color, 70%);
+                                        }
+                                    }
+                                    button {
+                                        i {
+                                            color: @header_text_color ;
+                                            &:hover {
+                                                color: @primary_color ;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            &.sticky-on {
+                background-color: @header_nav_bg_color ;
+            }
+        }
+    }
+}
+
+// Header-8
+header.header-8 {
+    .yolo-header-nav-wrapper {
+        .container {
+            .yolo-header-wrapper {
+                .header-center {
+                    .menu-wrapper {
+                        #main-menu {
+                            & > li {
+                                & > a {
+                                    color: @header_nav_text_color;
+                                }
+                                &:hover {
+                                    > a {
+                                        color: @primary_color ;
+                                    }
+                                }
+                                &.menu-item-has-children:hover{
+                                    > a{
+                                        color: @primary_color ;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    .header-customize {
+                        .search-button-wrapper {
+                            .icon-search-menu {
+                                i {
+                                    color: @header_nav_text_color ;
+                                    &:hover {
+                                        color: @primary_color ;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                .header-right {
+                    .header-customize-right {
+                        .shopping-cart-wrapper {
+                            .widget_shopping_cart_content {
+                                .sub-total-text span.amount {
+                                    color: fade(@header_nav_text_color, 75%);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+       
+    }
+    .yolo-sticky-wrapper {
+        &.sticky-on {
+            background-color: @header_background_color ;
+            .header-center {
+                .menu-wrapper {
+                    #main-menu {
+                        & > li {
+                            & > a {
+                                color: @header_nav_text_color ;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        &.sticky-out {
+            background-color: @header_background_color ;
+            .header-center {
+                .menu-wrapper {
+                    #main-menu {
+                        & > li {
+                            & > a {
+                                color: @header_nav_text_color ;
+                            }
+                        }
+                    }
+                }
+            }
+        }    
+    }
+}

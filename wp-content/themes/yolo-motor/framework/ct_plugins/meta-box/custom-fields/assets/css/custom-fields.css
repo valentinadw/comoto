@@ -1,0 +1,173 @@
+        /*  CSS Buttom set */
+
+/* button-set
+-------------------------------------*/
+.rwmb-button-set {
+}
+.rwmb-button-set label {
+	background-color: #F7F7F7;
+	display: inline-block;
+	padding: 5px 10px;
+	cursor: pointer;
+	border: solid 1px #ccc;
+}
+.rwmb-button-set label + label {
+	border-left: none;
+}
+.rwmb-button-set label:first-child {
+	-webkit-border-radius: 5px 0 0 5px;
+	-moz-border-radius: 5px 0 0 5px;
+	border-radius: 5px 0 0 5px;
+}
+.rwmb-button-set label:last-child {
+	-webkit-border-radius: 0 5px 5px 0;
+	-moz-border-radius: 0 5px 5px 0;
+	border-radius: 0 5px 5px 0;
+}
+.rwmb-button-set label > span {
+	color: #333;
+}
+.rwmb-button-set label.selected {
+	background-color: #007DB9;
+
+}
+.rwmb-button-set label.selected > span {
+	color: #fff;
+	position: relative;
+	padding-right: 15px;
+}
+.rwmb-button-set label.selected > span:before {
+	content: "\f00c";
+	display: block;
+	width: 15px;
+	height: 15px;
+	position: absolute;
+	background-color: #81B441;
+	top: -5px;
+	right: -10px;
+	font-size: 8px;
+	font-family: FontAwesome;
+	line-height: 15px;
+	text-align: center;
+	color: #fff;
+	border-radius: 0 0 0 5px;
+}
+
+
+		 /*  CSS Checkbox advanced */
+
+
+.rwmb-checkbox-wrapper .description {
+	display: inline;
+	font-style: normal;
+}
+
+	    /*  CSS Footer */
+
+
+.select2-container.rwmb-footer {
+	width: 40%;
+}
+
+
+
+		 /*  CSS Image set  */
+
+
+
+/* button-set
+-------------------------------------*/
+.rwmb-image-set {
+}
+.rwmb-image-set label {
+	background-color: #fff;
+	display: inline-block;
+	padding: 1px;
+	cursor: pointer;
+	border: solid 3px #ccc;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	max-width: 100%;
+}
+.rwmb-image-set label img {
+	display: block;
+	max-width: 100%;
+}
+
+.rwmb-image-set label.selected {
+	border-color: #007DB9;
+	color: #fff;
+	position: relative;
+}
+.rwmb-image-set label.selected:before {
+	content: "\f00c";
+	display: block;
+	width: 15px;
+	height: 15px;
+	position: absolute;
+	background-color: #007DB9;
+	top: -3px;
+	right: -3px;
+	font-size: 8px;
+	font-family: FontAwesome;
+	line-height: 15px;
+	text-align: center;
+	color: #fff;
+	border-radius: 0 0 0 5px;
+}
+
+
+			/*  CSS section  */
+
+
+.rwmb-section {
+	overflow: hidden;
+	border-bottom: solid 3px #59BEB1;
+}
+.rwmb-section span {
+    border-bottom: none!important;
+    margin: 0;
+    padding: 4px 10px;
+    background-color: #59BEB1;
+    display: inline-block;
+    border-radius: 5px 5px 0 0;
+    font-size: 12px;
+    font-weight: 600;
+    color: #FFFFFF;
+    line-height: 2em;
+}
+.rwmb-field.rwmb-section-wrapper {
+	border-bottom: none;
+}
+
+
+		/*  CSS Sorter  */
+
+
+ul.rwmb-sorter-inner {
+	display: inline-block;
+	padding: 3px;
+	margin: 0;
+	border: solid 1px #eee;
+}
+ul.rwmb-sorter-inner > li {
+	line-height: 36px;
+	margin: 0;
+	background-color: #eee;
+	padding: 0 15px;
+	vertical-align: middle;
+	cursor: move;
+	border: solid 1px #ddd;
+	margin-bottom: 3px;
+}
+
+ul.rwmb-sorter-inner > li > span {
+	display: inline-block;
+	min-width: 210px;
+	vertical-align: middle;
+}
+ul.rwmb-sorter-inner li.ui-sortable-placeholder {
+	border: 3px dashed #aaa;
+	height: 36px;
+	background: #777;
+}

@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO]]></tipodeproducto>
+		<trx420><![CDATA[CB1 11O  2017N]]></trx420>
+		<nombre><![CDATA[CB1 11O NEGRO]]></nombre>
+		<descripcincorta><![CDATA[
+
+MOTOR: 4 tiempos, monocilíndrico
+POTENCIA: 8.6 Hp / 8,720 rpm
+CILINDRADA: 109.1 cc
+TORQUE: 22.9 Nm / 7,000 rpm
+TRANSMISIÓN: 4 velocidades, tipo retorno
+SISTEMA DE ENFRIAMIENTO: Por aire
+SISTEMA DE LUBRICACIÓN: Forzada por bomba trocoidal con cárter húme]]></descripcincorta>
+		<descripcinlarga><![CDATA[]]></descripcinlarga>
+		<categoria><![CDATA[DEPORTIVA]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[22701]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cb1110-negro.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cb1-110-1.jpg | cb1-110-2.jpg | cb1-110-3.jpg | cb1-110-4.jpg | negro.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[negro]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO]]></tipodeproducto>
+		<trx420><![CDATA[CB1 11O  2017R]]></trx420>
+		<nombre><![CDATA[CB1 11O ROJO
+]]></nombre>
+		<descripcincorta><![CDATA[
+
+MOTOR: 4 tiempos, monocilíndrico
+POTENCIA: 8.6 Hp / 8,720 rpm
+CILINDRADA: 109.1 cc
+TORQUE: 22.9 Nm / 7,000 rpm
+TRANSMISIÓN: 4 velocidades, tipo retorno
+SISTEMA DE ENFRIAMIENTO: Por aire
+SISTEMA DE LUBRICACIÓN: Forzada por bomba trocoidal con cárter húme]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN ORDEN DE MARCHA: 108 Kg (incluye equipo estándar, todos los fluidos requeridos y tanque de combustible lleno)
+LARGO / ANCHO / ALTO: 1,967 mm / 742 mm / 1,075 mm
+ALTURA DEL ASIENTO: 794 mm
+DISTANCIA ENTRE EJES: 1,257 mm
+DISTANCIA LIB]]></descripcinlarga>
+		<categoria><![CDATA[DEPORTIVA]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[22701]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cb1110-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cb1-110-1.jpg | cb1-110-2.jpg | cb1-110-3.jpg | cb1-110-4.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[Rojo]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO]]></tipodeproducto>
+		<trx420><![CDATA[CB160 F]]></trx420>
+		<nombre><![CDATA[CB160 F  Negro]]></nombre>
+		<descripcincorta><![CDATA[MOTOR: 4 tiempos, monocilíndrico, OHC, 2 válvulas                                                                              
+ POTENCIA: 15.66 Hp / 8,500 rpm                                                                                                ]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+ PESO EN ORDEN DE MARCHA: 142 Kg (incluyendo equipo estándar, todos los fluidos y tanque de combustible lleno)                                                                                                                                  ]]></descripcinlarga>
+		<categoria><![CDATA[DEPORTIVA]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[39999]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cb160f-negro.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[partes-cb1160f-1.jpg | partes-cb1160f-2.jpg | partes-cb1160f-3.jpg | partes-cb1160f-4.jpg | partes-cb1160f-5.jpg | partes-cb1160f-6.jpg | negro.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[negro ]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO]]></tipodeproducto>
+		<trx420><![CDATA[CB160 F]]></trx420>
+		<nombre><![CDATA[CB160 F Rojo]]></nombre>
+		<descripcincorta><![CDATA[MOTOR: 4 tiempos, monocilíndrico, OHC, 2 válvulas                                                                               
+POTENCIA: 15.66 Hp / 8,500 rpm                                                                                                ]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+ PESO EN ORDEN DE MARCHA: 142 Kg (incluyendo equipo estándar, todos los fluidos y tanque de combustible lleno)                                                                                                                                  ]]></descripcinlarga>
+		<categoria><![CDATA[DEPORTIVA]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[39999]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cb160-f-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[partes-cb1160f-1.jpg | partes-cb1160f-2.jpg | partes-cb1160f-3.jpg | partes-cb1160f-4.jpg | partes-cb1160f-5.jpg | partes-cb1160f-6.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[Rojo]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO PADRE ]]></tipodeproducto>
+		<trx420><![CDATA[CB 190 R]]></trx420>
+		<nombre><![CDATA[CB 190 R]]></nombre>
+		<descripcincorta><![CDATA[MOTOR                                                                                                                                                       
+Descripción: Monocilíndrico, OHC, 2 válvulas                                                      ]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR                                                                                                                                              
+ Capacidad de aceite de motor: 1.0 lt (al drenar) / 1.2 lt (al desarmar)                ]]></descripcinlarga>
+		<categoria><![CDATA[DEPORTIVA]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[48500]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cb190-r-roja.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[parte-cb190-roja.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO PADRE ]]></tipodeproducto>
+		<trx420><![CDATA[CB190 REPSOL]]></trx420>
+		<nombre><![CDATA[CB190 REPSOL]]></nombre>
+		<descripcincorta><![CDATA[MOTOR Descripción: Monocilíndrico, OHC, 2 válvulas  Desplazamiento: 184.4 CC  Diámetro por carrera: 61.0 X 63.096 mm 
+  Potencia máxima: 15.7 Hp / 8,000 rpm  Torque: 15.0 N.m / 7,000 rpm 
+Relación de compresión: 9.5:1
+ Sistema de enfriamiento: Por aire na]]></descripcincorta>
+		<descripcinlarga><![CDATA[
+ ESPECIFICACIONES / MOTOR Capacidad de aceite de motor: 1.0 lt (al drenar) / 1.2 lt (al desarmar)  Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903:
+ MA ENCENDIDO Sistema de encendido: Completamente transis]]></descripcinlarga>
+		<categoria><![CDATA[DEPORTIVA]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[51900]]></precioneto>
+		<inventario><![CDATA[1]]></inventario>
+		<imagen><![CDATA[cb1190repsol.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[parte-repsol.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[NARANJA]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[CBR250 REPSOL]]></trx420>
+		<nombre><![CDATA[CBR250 REPSOL]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR
+4 tiempos, monocilíndrico, DOHC, 4 válvulas
+POTENCIA
+26.0 Hp / 8,500 rpm
+CILINDRADA
+249 cc
+TORQUE
+22.9 Nm / 7,000 rpm
+TRANSMISIÓN
+6 velocidades, tipo retorno
+SISTEMA DE ENFRIAMIENTO
+Por líquido
+SISTEMA DE LUBRICACIÓN
+Forzada por bomba trocoida]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN ORDEN DE MARCHA
+163.00 kg, incluye equipo estándar, todos los fluidos requeridos y tanque de combustible lleno
+LARGO / ANCHO / ALTO
+2,030 / 720 / 1,127 mm
+ALTURA DEL ASIENTO
+784 mm
+DISTANCIA ENTRE EJES
+1,369 mm
+DISTANCIA LIBRE AL PI]]></descripcinlarga>
+		<categoria><![CDATA[DEPORTIVA]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[64,900]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cbr250-repsol.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cbr250-1.jpg | cbr250-2.jpg | cbr250-3.jpg | cbr250-4.jpg | cbr250-5.jpg | cbr250-6.jpg | cbr250-7.jpg | cbr250-8.jpg | naranja.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[NARANJA]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[CBR250R]]></trx420>
+		<nombre><![CDATA[CBR250R]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR
+4 tiempos, monocilíndrico, DOHC, 4 válvulas
+POTENCIA
+26.0 Hp / 8,500 rpm
+CILINDRADA
+249 cc
+TORQUE
+22.9 Nm / 7,000 rpm
+TRANSMISIÓN
+6 velocidades, tipo retorno
+SISTEMA DE ENFRIAMIENTO
+Por líquido
+SISTEMA DE LUBRICACIÓN
+Forzada por bomba trocoida]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN ORDEN DE MARCHA
+163.00 kg, incluye equipo estándar, todos los fluidos requeridos y tanque de combustible lleno
+LARGO / ANCHO / ALTO
+2,030 / 720 / 1,127 mm
+ALTURA DEL ASIENTO
+784 mm
+DISTANCIA ENTRE EJES
+1,369 mm
+DISTANCIA LIBRE AL PI]]></descripcinlarga>
+		<categoria><![CDATA[DEPORTIVA]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[64,900]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cbr250-negra.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cbr250-r-1.jpg | cbr250-r-2.jpg | cbr250-r-3.jpg | cbr250-r-4.jpg | cbr250-r-5.jpg | negro.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[Negro]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[CBR250R]]></trx420>
+		<nombre><![CDATA[CBR250R]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR
+4 tiempos, monocilíndrico, DOHC, 4 válvulas
+POTENCIA
+26.0 Hp / 8,500 rpm
+CILINDRADA
+249 cc
+TORQUE
+22.9 Nm / 7,000 rpm
+TRANSMISIÓN
+6 velocidades, tipo retorno
+SISTEMA DE ENFRIAMIENTO
+Por líquido
+SISTEMA DE LUBRICACIÓN
+Forzada por bomba trocoida]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN ORDEN DE MARCHA
+163.00 kg, incluye equipo estándar, todos los fluidos requeridos y tanque de combustible lleno
+LARGO / ANCHO / ALTO
+2,030 / 720 / 1,127 mm
+ALTURA DEL ASIENTO
+784 mm
+DISTANCIA ENTRE EJES
+1,369 mm
+DISTANCIA LIBRE AL PI]]></descripcinlarga>
+		<categoria><![CDATA[DEPORTIVA]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[64,900]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cbr250-roja.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cbr250-r-1.jpg | cbr250-r-2.jpg | cbr250-r-3.jpg | cbr250-r-4.jpg | cbr250-r-5.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[Rojo]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[CGL 125 TOOL BLANCO]]></trx420>
+		<nombre><![CDATA[CGL 125 TOOL BLANCO]]></nombre>
+		<descripcincorta><![CDATA[MOTOR MOTOR: 4 tiempos, monocilíndrico,
+ OHV POTENCIA: 9.7 Hp / 8,500 rpm 
+CILINDRADA: 124.1 cc  TORQUE: 8.8 nm / 7,500 rpm 
+TRANSMISIÓN: 5 velocidades, tipo rotatorio 
+SISTEMA DE ENFRIAMIENTO: Aire 
+SISTEMA DE LUBRICACIÓN: Forzada por bomba trocoidal con]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO PESO
+ EN ORDEN DE MARCHA: 109 Kg
+ LARGO / ANCHO / ALTO: 2,010 mm / 795 mm / 1,055 mm
+ ALTURA DEL ASIENTO: 755 mm
+ DISTANCIA ENTRE EJES: 1,280 mm
+ DISTANCIA LIBRE AL PISO: 140 mm 
+NEUMÁTICO DELANTERO Y TRASERO: 2.75-18 42P 90/90-18 51P 
+CAPA]]></descripcinlarga>
+		<categoria><![CDATA[TRABAJO ]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[19400]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cgl125-blanco.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cgl125-tool-1.jpg | cgl125-tool-2.jpg | cgl125-tool-3.jpg | cgl125-tool-4.jpg | cgl125-tool-5.jpg | cgl125-tool-6.jpg | blanco.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[BLANCA ]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[CGL 125 TOOL ROJA]]></trx420>
+		<nombre><![CDATA[CGL 125 TOOL ROJA]]></nombre>
+		<descripcincorta><![CDATA[MOTOR MOTOR: 4 tiempos, monocilíndrico,
+ OHV POTENCIA: 9.7 Hp / 8,500 rpm 
+CILINDRADA: 124.1 cc  TORQUE: 8.8 nm / 7,500 rpm 
+TRANSMISIÓN: 5 velocidades, tipo rotatorio 
+SISTEMA DE ENFRIAMIENTO: Aire 
+SISTEMA DE LUBRICACIÓN: Forzada por bomba trocoidal con]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO PESO
+ EN ORDEN DE MARCHA: 109 Kg
+ LARGO / ANCHO / ALTO: 2,010 mm / 795 mm / 1,055 mm
+ ALTURA DEL ASIENTO: 755 mm
+ DISTANCIA ENTRE EJES: 1,280 mm
+ DISTANCIA LIBRE AL PISO: 140 mm 
+NEUMÁTICO DELANTERO Y TRASERO: 2.75-18 42P 90/90-18 51P 
+CAPA]]></descripcinlarga>
+		<categoria><![CDATA[TRABAJO ]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[19400]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cgl-125-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cgl125-tool-1.jpg | cgl125-tool-2.jpg | cgl125-tool-3.jpg | cgl125-tool-4.jpg | cgl125-tool-5.jpg | cgl125-tool-6.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJA]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[CGL 125 TOOL GRIS]]></trx420>
+		<nombre><![CDATA[CGL 125 TOOL GRIS]]></nombre>
+		<descripcincorta><![CDATA[MOTOR MOTOR: 4 tiempos, monocilíndrico,
+ OHV POTENCIA: 9.7 Hp / 8,500 rpm 
+CILINDRADA: 124.1 cc  TORQUE: 8.8 nm / 7,500 rpm 
+TRANSMISIÓN: 5 velocidades, tipo rotatorio 
+SISTEMA DE ENFRIAMIENTO: Aire 
+SISTEMA DE LUBRICACIÓN: Forzada por bomba trocoidal con]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO PESO
+ EN ORDEN DE MARCHA: 109 Kg
+ LARGO / ANCHO / ALTO: 2,010 mm / 795 mm / 1,055 mm
+ ALTURA DEL ASIENTO: 755 mm
+ DISTANCIA ENTRE EJES: 1,280 mm
+ DISTANCIA LIBRE AL PISO: 140 mm 
+NEUMÁTICO DELANTERO Y TRASERO: 2.75-18 42P 90/90-18 51P 
+CAPA]]></descripcinlarga>
+		<categoria><![CDATA[TRABAJO ]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[19400]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cgl125-gris.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cgl125-tool-1.jpg | cgl125-tool-2.jpg | cgl125-tool-3.jpg | cgl125-tool-4.jpg | cgl125-tool-5.jpg | cgl125-tool-6.jpg | gris.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[GRIS]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[CRUISING 125 GRIS]]></trx420>
+		<nombre><![CDATA[CRUISING 125 GRIS]]></nombre>
+		<descripcincorta><![CDATA[MOTORMOTOR: 4 tiempos, monocilíndrico, 
+SOHC  POTENCIA: 8.7 Hp / 7,500 rpm 
+CILINDRADA: 124.6 cc 
+TORQUE: N/D TRANSMISIÓN: Tipo V-MATIC (por banda)
+ SISTEMA DE ENFIRAMIENTO: Por aire forzado 
+SISTEMA DE LUBRICACIÓN: Forzada por bomba trocoidal con cárter ]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO 
+PESO EN ORDEN DE MARCHA: 111 Kg (incluye equipo estándar, todos los fluidos requeridos y tanque de combustible lleno
+LARGO / ANCHO / ALTO: 1,845 / 670 / 1,110 mm 
+ALTURA DEL ASIENTO: 758 mm 
+DISTANCIA ENTRE EJES: 1,235 mm  DISTANCIA LIBRE ]]></descripcinlarga>
+		<categoria><![CDATA[MOTONETAS ]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[26400]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cruising-125-plata.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cruising-1.jpg | cruising-2.jpg | cruising-3.jpg | cruising-4.jpg | cruising-5.jpg | cruising-6.jpg | gris.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[GRIS]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[CRUISING 125 BLANCA]]></trx420>
+		<nombre><![CDATA[CRUISING 125 BLANCA]]></nombre>
+		<descripcincorta><![CDATA[MOTORMOTOR: 4 tiempos, monocilíndrico, 
+SOHC  POTENCIA: 8.7 Hp / 7,500 rpm 
+CILINDRADA: 124.6 cc 
+TORQUE: N/D TRANSMISIÓN: Tipo V-MATIC (por banda)
+ SISTEMA DE ENFIRAMIENTO: Por aire forzado 
+SISTEMA DE LUBRICACIÓN: Forzada por bomba trocoidal con cárter ]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO 
+PESO EN ORDEN DE MARCHA: 111 Kg (incluye equipo estándar, todos los fluidos requeridos y tanque de combustible lleno
+LARGO / ANCHO / ALTO: 1,845 / 670 / 1,110 mm 
+ALTURA DEL ASIENTO: 758 mm 
+DISTANCIA ENTRE EJES: 1,235 mm  DISTANCIA LIBRE ]]></descripcinlarga>
+		<categoria><![CDATA[MOTONETAS ]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[26400]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cruising-125-blanco.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cruising-1.jpg | cruising-2.jpg | cruising-3.jpg | cruising-4.jpg | cruising-5.jpg | cruising-6.jpg | blanco.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[BLANCO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[CRUISING  125  NEGRA]]></trx420>
+		<nombre><![CDATA[CRUISING  125  NEGRA]]></nombre>
+		<descripcincorta><![CDATA[MOTORMOTOR: 4 tiempos, monocilíndrico, 
+SOHC  POTENCIA: 8.7 Hp / 7,500 rpm 
+CILINDRADA: 124.6 cc 
+TORQUE: N/D TRANSMISIÓN: Tipo V-MATIC (por banda)
+ SISTEMA DE ENFIRAMIENTO: Por aire forzado 
+SISTEMA DE LUBRICACIÓN: Forzada por bomba trocoidal con cárter ]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO 
+PESO EN ORDEN DE MARCHA: 111 Kg (incluye equipo estándar, todos los fluidos requeridos y tanque de combustible lleno
+LARGO / ANCHO / ALTO: 1,845 / 670 / 1,110 mm 
+ALTURA DEL ASIENTO: 758 mm 
+DISTANCIA ENTRE EJES: 1,235 mm  DISTANCIA LIBRE ]]></descripcinlarga>
+		<categoria><![CDATA[MOTONETAS ]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[26400]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[cruising-125-negro.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cruising-1.jpg | cruising-2.jpg | cruising-3.jpg | cruising-4.jpg | cruising-5.jpg | cruising-6.jpg | negro.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[NEGRO ]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[Producto padre]]></tipodeproducto>
+		<trx420><![CDATA[TRX250 TM]]></trx420>
+		<nombre><![CDATA[TRX250 TM]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+4 tiempos, monocilíndrico, OHV 2 válvulas
+POTENCIA
+15.8 Hp / 6,500 rpm
+CILINDRADA
+229.2 c.c.
+TORQUE
+18.7 nm / 5,000 rpm
+TRANSMISIÓN
+5 velocidades más reversa, pedal
+SISTEMA DE ENFRIAMIENTO
+Aire, enfriador de aceite
+CARBURADOR
+Válvula de pistón / ven]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN SECO
+190 kg
+LARGO / ANCHO / ALTO
+1,905 mm / 1,035 mm / 1,070 mm
+ALTURA DEL ASIENTO
+973 mm
+DISTANCIA ENTRE EJES
+1,131 mm
+NEUMÁTICO DELANTERO Y TRASERO
+AT22X7-11 AT22X10-9
+
+SISTEMA DE IGNICIÓN
+SISTEMA DE ENCENDIDO
+AC-CDI
+SISTEMA DE AR]]></descripcinlarga>
+		<categoria><![CDATA[ATVS]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[108000]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[trx250-tm-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[trx250-tm-1.jpg | trx250-tm-2.jpg | trx250-tm-3.jpg | trx250-tm-4.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[Producto padre]]></tipodeproducto>
+		<trx420><![CDATA[TRX420FE]]></trx420>
+		<nombre><![CDATA[TRX420FE]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR
+4 tiempos, monocilíndrico, OHV
+POTENCIA
+26.5 Hp / 6,000 rpm
+CILINDRADA
+420.2 c.c.
+TORQUE
+32.3 nm / 5,500 rpm
+TRANSMISIÓN
+5 velocidades más reversa, ESP
+SISTEMA DE ENFRIAMIENTO
+Líquido
+SISTEMA DE COMBUSTIBLE
+Inyección electrónica PGM-FI, cuerpo]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN SECO
+255 kg
+LARGO / ANCHO / ALTO
+2,055 mm / 1,172 mm / 1,146 mm
+ALTURA DEL ASIENTO
+822 mm
+DISTANCIA ENTRE EJES
+1,249 mm
+DISTANCIA LIBRE AL PISO
+165 mm
+NEUMÁTICO DELANTERO Y TRASERO
+AT24X8-12 AT24X10-11
+
+SISTEMA DE IGNICIÓN
+SISTEMA D]]></descripcinlarga>
+		<categoria><![CDATA[ATVS]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[154900]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[trx420-fe-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[trx420-fe-1.jpg | trx420-fe-2.jpg | trx420-fe-3.jpg | trx420-fe-4.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[Producto padre]]></tipodeproducto>
+		<trx420><![CDATA[TRX420FM]]></trx420>
+		<nombre><![CDATA[TRX420FM]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR
+4 tiempos, monocilíndrico, OHV
+POTENCIA
+26.5 Hp / 6,000 rpm
+CILINDRADA
+420.2 c.c.
+TORQUE
+32.3 nm / 5,500 rpm
+TRANSMISIÓN
+5 velocidades más reversa, pedal
+SISTEMA DE ENFRIAMIENTO
+Líquido
+SISTEMA DE COMBUSTIBLE
+Inyección electrónica PGM-FI, cuer]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN SECO
+254 kg
+LARGO / ANCHO / ALTO
+2,055 mm / 1,172 mm / 1,146 mm
+ALTURA DEL ASIENTO
+822 mm
+DISTANCIA ENTRE EJES
+1,249 mm
+DISTANCIA LIBRE AL PISO
+165 mm
+NEUMÁTICO DELANTERO Y TRASERO
+AT24X8-12 AT24X10-11
+
+SISTEMA DE IGNICIÓN
+SISTEMA D]]></descripcinlarga>
+		<categoria><![CDATA[ATVS]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[147900]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[trx420-fm-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[trx420-fm-1.jpg | trx420-fm-2.jpg | trx420-fm-3.jpg | trx420-fm-4.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[Producto padre]]></tipodeproducto>
+		<trx420><![CDATA[TRX420 TM]]></trx420>
+		<nombre><![CDATA[TRX420 TM]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR
+4 tiempos, monocilíndrico, OHV
+POTENCIA
+26.5 Hp / 6,000 rpm
+CILINDRADA
+420.2 c.c.
+TORQUE
+32.3 nm / 5,500 rpm
+TRANSMISIÓN
+5 velocidades más reversa, pedal
+SISTEMA DE ENFRIAMIENTO
+Líquido
+SISTEMA DE COMBUSTIBLE
+Inyección electrónica PGM-FI, cuer]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN SECO
+237 kg
+LARGO / ANCHO / ALTO
+2,055 mm / 1,172 mm / 1,146 mm
+ALTURA DEL ASIENTO
+822 mm
+DISTANCIA ENTRE EJES
+1,249 mm
+DISTANCIA LIBRE AL PISO
+165 mm
+NEUMÁTICO DELANTERO Y TRASERO
+AT24X8-12 AT24X10-11
+
+SISTEMA DE IGNICIÓN
+SISTEMA D]]></descripcinlarga>
+		<categoria><![CDATA[ATVS]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[133,900]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[trx420-tm-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[trx420-tm-1.jpg | trx420-tm-2.jpg | trx420-tm-3.jpg | trx420-tm-4.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[Producto padre]]></tipodeproducto>
+		<trx420><![CDATA[TRX500FE]]></trx420>
+		<nombre><![CDATA[TRX500FE]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR
+4 tiempos, monocilíndrico, OHV
+POTENCIA
+N/D
+CILINDRADA
+475 c.c.
+TORQUE
+N/D
+TRANSMISIÓN
+5 velocidades más reversa, ESP
+SISTEMA DE ENFRIAMIENTO
+Aire natural / ventilador 2 radiadores aceite
+SISTEMA DE COMBUSTIBLE
+Válvula de pistón / 33 mm]]></descripcincorta>
+		<descripcinlarga><![CDATA[PESO EN SECO
+279 kg
+LARGO / ANCHO / ALTO
+2,108 mm / 1,189 mm / 1,181 mm
+ALTURA DEL ASIENTO
+861 mm
+DISTANCIA ENTRE EJES
+1,287 mm
+DISTANCIA LIBRE AL PISO
+190.5 mm
+NEUMÁTICO DELANTERO Y TRASERO
+25X8-12 25X10-12
+
+SISTEMA DE IGNICIÓN
+SISTEMA DE ENCENDIDO
+CDI c]]></descripcinlarga>
+		<categoria><![CDATA[ATVS]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[16699]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[trx500-fe-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[trx500-fe-1.jpg | trx500-fe-2.jpg | trx500-fe-3.jpg | trx500-fe-4.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[Producto Padre]]></tipodeproducto>
+		<trx420><![CDATA[TRX500FM]]></trx420>
+		<nombre><![CDATA[TRX500FM]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR
+4 tiempos, monocilíndrico, OHV
+POTENCIA
+N/D
+CILINDRADA
+475 c.c.
+TORQUE
+N/D
+TRANSMISIÓN
+5 velocidades más reversa
+SISTEMA DE ENFRIAMIENTO
+Aire natural / ventilador 2 radiadores aceite
+SISTEMA DE COMBUSTIBLE
+Válvula de pistón / 33 mm]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN SECO
+FM: 269 kg
+LARGO / ANCHO / ALTO
+2,108 mm / 1,189 mm / 1,181 mm
+ALTURA DEL ASIENTO
+861 mm
+DISTANCIA ENTRE EJES
+1,287 mm
+DISTANCIA LIBRE AL PISO
+190.5 mm
+NEUMÁTICO DELANTERO Y TRASERO
+25X8-12 25X10-12
+
+SISTEMA DE IGNICIÓN
+SISTEMA]]></descripcinlarga>
+		<categoria><![CDATA[ATVS]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[159900]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[trx500-fm-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[trx500-fm-1.jpg | trx500-fm-2.jpg | trx500-fm-3.jpg | trx500-fm-4.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[Producto Padre]]></tipodeproducto>
+		<trx420><![CDATA[TRX680FA]]></trx420>
+		<nombre><![CDATA[TRX680FA]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR Y C.C.
+4 tiempos, monocilíndrico, OHV
+POTENCIA
+33 Hp / 6,000 rpm
+CILINDRADA
+674.9 c.c.
+TORQUE
+50.1 nm / 5,000 rpm
+TRANSMISIÓN
+Automática: 3 velocidades más reversa, con convertidor de torque hidráulico. Manual: 3 velocidades más reversa, opera]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN SECO
+277 kg
+LARGO / ANCHO / ALTO
+2,113 mm / 1,189 mm / 1,207 mm
+ALTURA DEL ASIENTO
+875 mm
+DISTANCIA ENTRE EJES
+1,289 mm
+DISTANCIA LIBRE AL PISO
+234 mm
+NEUMÁTICO DELANTERO Y TRASERO
+AT25X8R - 12 AT25X10R - 12
+
+SISTEMA DE IGNICIÓN
+SIS]]></descripcinlarga>
+		<categoria><![CDATA[ATVS]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[238990]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[trx680-fa-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[trx680-fa-1.jpg | trx680-fa-2.jpg | trx680-fa-3.jpg | trx680-fa-4.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[CBX250 TWISTER ]]></trx420>
+		<nombre><![CDATA[CBX250 TWISTER ROJA]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, DOHC, 4 válvulas.
+Desplazamiento 249.0 CC
+Diametro por carrera 73.0 X 59.5 mm
+Potencia máxima 23.7 Hp / 8,000 rpm.
+Torque 24.0 N.m / 10,000 rpm.
+Relación de compresion 9.3:1
+Sistema de enfriamiento Por aire nat]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.5 (al drenar ) / 1.8 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.12 ± 0.03 mm / ESC: 0.15 ± 0.03 mm]]></descripcinlarga>
+		<categoria><![CDATA[OFF ROAD]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[twister-roja.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cbx250-twister-1.jpg | cbx250-twister-2.jpg | cbx250-twister-3.jpg | cbx250-twister-4.jpg | cbx250-twister-5.jpg | cbx250-twister-6.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[CBX250 TWISTER ]]></trx420>
+		<nombre><![CDATA[CBX250 TWISTER NEGRA]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, DOHC, 4 válvulas.
+Desplazamiento 249.0 CC
+Diametro por carrera 73.0 X 59.5 mm
+Potencia máxima 23.7 Hp / 8,000 rpm.
+Torque 24.0 N.m / 10,000 rpm.
+Relación de compresion 9.3:1
+Sistema de enfriamiento Por aire nat]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.5 (al drenar ) / 1.8 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.12 ± 0.03 mm / ESC: 0.15 ± 0.03 mm]]></descripcinlarga>
+		<categoria><![CDATA[OFF ROAD]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[twister-negra.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cbx250-twister-1.jpg | cbx250-twister-2.jpg | cbx250-twister-3.jpg | cbx250-twister-4.jpg | cbx250-twister-5.jpg | cbx250-twister-6.jpg | negro.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[NEGRO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[CBX250 TWISTER ]]></trx420>
+		<nombre><![CDATA[CBX250 TWISTER BLANCA]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, DOHC, 4 válvulas.
+Desplazamiento 249.0 CC
+Diametro por carrera 73.0 X 59.5 mm
+Potencia máxima 23.7 Hp / 8,000 rpm.
+Torque 24.0 N.m / 10,000 rpm.
+Relación de compresion 9.3:1
+Sistema de enfriamiento Por aire nat]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.5 (al drenar ) / 1.8 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.12 ± 0.03 mm / ESC: 0.15 ± 0.03 mm]]></descripcinlarga>
+		<categoria><![CDATA[OFF ROAD]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[twister-blanca.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[cbx250-twister-1.jpg | cbx250-twister-2.jpg | cbx250-twister-3.jpg | cbx250-twister-4.jpg | cbx250-twister-5.jpg | cbx250-twister-6.jpg | blanco.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[BLANCO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[CRF 230F]]></trx420>
+		<nombre><![CDATA[CRF 230F]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, SOHC / 2 válvulas.
+Desplazamiento 223.0 cc
+Diametro por carrera 65.5 X 66.2 mm
+Potencia máxima 18.6 Hp / 8,000 rpm
+Torque 18.8 N•m / 6,000 rpm
+Relación de compresion 9.0:1
+Sistema de enfriamiento Por aire.
+Sist]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.0 lt (al drenar) / 1.2 lt (al desarmar)
+Aceite de motor recomendado 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA.
+ENCENDIDO
+Sistema de encendido Por CDI.
+Tipo de bujía std]]></descripcinlarga>
+		<categoria><![CDATA[OFF ROAD]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[crf-230f-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[crf230-f-1.jpg | crf230-f-2.jpg | crf230-f-3.jpg | crf230-f-4.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[XR250 TORNADO]]></trx420>
+		<nombre><![CDATA[XR250 TORNADO ROJA]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, DOHC / 4 válvs.
+Desplazamiento 249 CC
+Diametro por carrera 73.0 X 59.5 mm
+Potencia máxima 23.0 Hp / 7,500 rpm.
+Torque 23.8 N.m / 6,000 rpm.
+Relación de compresion 9.3:1
+Sistema de enfriamiento Por aire con radi]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.5 lt (al drenar + filtro) / 1.8 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.12 mm / ESC: 0.15 mm
+EN]]></descripcinlarga>
+		<categoria><![CDATA[DONLE PROPOSITO]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[76,000]]></inventario>
+		<imagen><![CDATA[xr250-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[parte-xr150.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO ]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[XR250 TORNADO]]></trx420>
+		<nombre><![CDATA[XR250 TORNADO BLANCA]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, DOHC / 4 válvs.
+Desplazamiento 249 CC
+Diametro por carrera 73.0 X 59.5 mm
+Potencia máxima 23.0 Hp / 7,500 rpm.
+Torque 23.8 N.m / 6,000 rpm.
+Relación de compresion 9.3:1
+Sistema de enfriamiento Por aire con radi]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.5 lt (al drenar + filtro) / 1.8 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.12 mm / ESC: 0.15 mm
+EN]]></descripcinlarga>
+		<categoria><![CDATA[DONLE PROPOSITO]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[76,000]]></inventario>
+		<imagen><![CDATA[xr250-blanco.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[parte-xr150.jpg | blanco.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[BLANCO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[PRODUCTO HIJO ]]></tipodeproducto>
+		<trx420><![CDATA[XR250 TORNADO]]></trx420>
+		<nombre><![CDATA[XR250 TORNADO NEGRO]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, DOHC / 4 válvs.
+Desplazamiento 249 CC
+Diametro por carrera 73.0 X 59.5 mm
+Potencia máxima 23.0 Hp / 7,500 rpm.
+Torque 23.8 N.m / 6,000 rpm.
+Relación de compresion 9.3:1
+Sistema de enfriamiento Por aire con radi]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.5 lt (al drenar + filtro) / 1.8 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.12 mm / ESC: 0.15 mm
+EN]]></descripcinlarga>
+		<categoria><![CDATA[DOBLE PROPOSITO]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[76,000]]></inventario>
+		<imagen><![CDATA[xr250-negro.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[parte-xr150.jpg | negro.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[NEGRO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[Producto Padre]]></tipodeproducto>
+		<trx420><![CDATA[XR150]]></trx420>
+		<nombre><![CDATA[XR150 BLANCA]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, SOHC
+Desplazamiento 149.2 CC
+Diametro por carrera 57.3 X 57.8 mm
+Potencia máxima 13.8 Hp / 8,000 rpm.
+Torque 13.39 N.m / 6,000 rpm.
+Relación de compresion 9.5:1
+Sistema de enfriamiento Por aire.
+Sistema de lubr]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.0 lt (al drenar) / 1.2 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.08 mm / ESC: 0.12 mm
+ENCENDIDO
+S]]></descripcinlarga>
+		<categoria><![CDATA[DOBLE PROPOSITO]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[xr150-blanco.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[xr150-lek-1.jpg | xr150-lek-2.jpg | xr150-lek-3.jpg | xr150-lek-4.jpg | xr150-lek-5.jpg | xr150-lek-6.jpg | blanco.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[BLANCO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[Producto Hijo]]></tipodeproducto>
+		<trx420><![CDATA[XR151]]></trx420>
+		<nombre><![CDATA[XR150 NEGRA]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, SOHC
+Desplazamiento 149.2 CC
+Diametro por carrera 57.3 X 57.8 mm
+Potencia máxima 13.8 Hp / 8,000 rpm.
+Torque 13.39 N.m / 6,000 rpm.
+Relación de compresion 9.5:1
+Sistema de enfriamiento Por aire.
+Sistema de lubr]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.0 lt (al drenar) / 1.2 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.08 mm / ESC: 0.12 mm
+ENCENDIDO
+S]]></descripcinlarga>
+		<categoria><![CDATA[DOBLE PROPOSITO]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[xr150-negro.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[xr150-lek-1.jpg | xr150-lek-2.jpg | xr150-lek-3.jpg | xr150-lek-4.jpg | xr150-lek-5.jpg | xr150-lek-6.jpg | negro.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[NEGRO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[Producto Hijo]]></tipodeproducto>
+		<trx420><![CDATA[XR152]]></trx420>
+		<nombre><![CDATA[XR150 Roja]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, SOHC
+Desplazamiento 149.2 CC
+Diametro por carrera 57.3 X 57.8 mm
+Potencia máxima 13.8 Hp / 8,000 rpm.
+Torque 13.39 N.m / 6,000 rpm.
+Relación de compresion 9.5:1
+Sistema de enfriamiento Por aire.
+Sistema de lubr]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.0 lt (al drenar) / 1.2 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.08 mm / ESC: 0.12 mm
+ENCENDIDO
+S]]></descripcinlarga>
+		<categoria><![CDATA[DOBLE PROPOSITO]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[xr150-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[xr150-lek-1.jpg | xr150-lek-2.jpg | xr150-lek-3.jpg | xr150-lek-4.jpg | xr150-lek-5.jpg | xr150-lek-6.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[DIO 111]]></trx420>
+		<nombre><![CDATA[DIO 111 ROJO]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR Y C.C.
+4 tiempos, monocilíndrico, SOHC
+POTENCIA
+7.65 Hp / 7,5 00 rpm
+CILINDRADA
+108.9 c.c.
+TORQUE
+8.7 Nm / 5,500 rpm
+TRANSMISIÓN
+Tipo V-MATIC (por banda)
+SISTEMA DE ENFRIAMIENTO
+Aire
+SISTEMA DE LUBRICACIÒN
+Forzada por bomba trocoidal / cárter ]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN SECO
+105 kg
+LARGO / ANCHO / ALTO
+1,781 mm / 710 mm / 1,133 mm
+ALTURA DEL ASIENTO
+765 mm
+DISTANCIA ENTRE EJES
+1,238 mm
+DISTANCIA LIBRE AL PISO
+158 mm
+NEUMÁTICO DELANTERO Y TRASERO
+90 / 100 - 10 53j (sin cámara) / 90 / 100 - 10 53j (s]]></descripcinlarga>
+		<categoria><![CDATA[MOTONETAS ]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[21490]]></inventario>
+		<imagen><![CDATA[dio-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[dio110-1.jpg | dio110-2.jpg | dio110-3.jpg | dio110-4.jpg | dio110-5.jpg | dio110-6.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[DIO 112]]></trx420>
+		<nombre><![CDATA[DIO 112 VERDE]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR Y C.C.
+4 tiempos, monocilíndrico, SOHC
+POTENCIA
+7.65 Hp / 7,5 00 rpm
+CILINDRADA
+108.9 c.c.
+TORQUE
+8.7 Nm / 5,500 rpm
+TRANSMISIÓN
+Tipo V-MATIC (por banda)
+SISTEMA DE ENFRIAMIENTO
+Aire
+SISTEMA DE LUBRICACIÒN
+Forzada por bomba trocoidal / cárter ]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN SECO
+105 kg
+LARGO / ANCHO / ALTO
+1,781 mm / 710 mm / 1,133 mm
+ALTURA DEL ASIENTO
+765 mm
+DISTANCIA ENTRE EJES
+1,238 mm
+DISTANCIA LIBRE AL PISO
+158 mm
+NEUMÁTICO DELANTERO Y TRASERO
+90 / 100 - 10 53j (sin cámara) / 90 / 100 - 10 53j (s]]></descripcinlarga>
+		<categoria><![CDATA[MOTONETAS ]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[21490]]></inventario>
+		<imagen><![CDATA[dio-verde.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[dio110-1.jpg | dio110-2.jpg | dio110-3.jpg | dio110-4.jpg | dio110-5.jpg | dio110-6.jpg | verde.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[VERDE]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[DIO 113]]></trx420>
+		<nombre><![CDATA[DIO 113 BLANCO]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR Y C.C.
+4 tiempos, monocilíndrico, SOHC
+POTENCIA
+7.65 Hp / 7,5 00 rpm
+CILINDRADA
+108.9 c.c.
+TORQUE
+8.7 Nm / 5,500 rpm
+TRANSMISIÓN
+Tipo V-MATIC (por banda)
+SISTEMA DE ENFRIAMIENTO
+Aire
+SISTEMA DE LUBRICACIÒN
+Forzada por bomba trocoidal / cárter ]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN SECO
+105 kg
+LARGO / ANCHO / ALTO
+1,781 mm / 710 mm / 1,133 mm
+ALTURA DEL ASIENTO
+765 mm
+DISTANCIA ENTRE EJES
+1,238 mm
+DISTANCIA LIBRE AL PISO
+158 mm
+NEUMÁTICO DELANTERO Y TRASERO
+90 / 100 - 10 53j (sin cámara) / 90 / 100 - 10 53j (s]]></descripcinlarga>
+		<categoria><![CDATA[MOTONETAS ]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[21490]]></inventario>
+		<imagen><![CDATA[dio-blanco.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[dio110-1.jpg | dio110-2.jpg | dio110-3.jpg | dio110-4.jpg | dio110-5.jpg | dio110-6.jpg | blanco.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[BLANCO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[WAVE 111]]></trx420>
+		<nombre><![CDATA[WAVE 110 BLANCO]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR
+4 tiempos, monocilíndrico
+POTENCIA
+8.0 Hp / 8,000 rpm
+CILINDRADA
+97.1 c.c.
+TRANSMISION
+4 velocidades, tipo rotatorio
+SISTEMA DE ENFRIAMIENTO
+Aire
+CARBURADOR
+Válvula de pistón (PD) con venturi de15 mm.Válvula de pistón, accionado por cable 
+
+]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN SECO
+99kg
+LARGO / ANCHO / ALTO
+1,870 mm / 715 mm / 1,050 mm
+ALTURA DEL ASIENTO
+750 mm
+DISTANCIA ENTRE EJES
+1,208 mm
+DISTANCIA LIBRE AL PISO
+130 mm
+NEUMÁTICO DELANTERO Y TRASERO
+2.5 - 17 38L / 2.75 - 17 47P
+
+SISTEMA DE IGNICIÓN
+SISTE]]></descripcinlarga>
+		<categoria><![CDATA[MOTONETAS ]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[19900]]></inventario>
+		<imagen><![CDATA[blanco.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[wave110-1.jpg | wave110-2.jpg | wave110-3.jpg | wave110-4.jpg | wave110-5.jpg | wave110-6.jpg | wave110-7.jpg | wave110-8.jpg | blanco.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[BLANCO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[WAVE 112]]></trx420>
+		<nombre><![CDATA[WAVE 110 NEGRO]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+MOTOR
+4 tiempos, monocilíndrico
+POTENCIA
+8.0 Hp / 8,000 rpm
+CILINDRADA
+97.1 c.c.
+TRANSMISION
+4 velocidades, tipo rotatorio
+SISTEMA DE ENFRIAMIENTO
+Aire
+CARBURADOR
+Válvula de pistón (PD) con venturi de15 mm.Válvula de pistón, accionado por cable 
+
+]]></descripcincorta>
+		<descripcinlarga><![CDATA[MEDIDAS Y PESO
+PESO EN SECO
+99kg
+LARGO / ANCHO / ALTO
+1,870 mm / 715 mm / 1,050 mm
+ALTURA DEL ASIENTO
+750 mm
+DISTANCIA ENTRE EJES
+1,208 mm
+DISTANCIA LIBRE AL PISO
+130 mm
+NEUMÁTICO DELANTERO Y TRASERO
+2.5 - 17 38L / 2.75 - 17 47P
+
+SISTEMA DE IGNICIÓN
+SISTE]]></descripcinlarga>
+		<categoria><![CDATA[MOTONETAS ]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[HONDA]]></marcafabricante2>
+		<precioneto><![CDATA[]]></precioneto>
+		<inventario><![CDATA[19900]]></inventario>
+		<imagen><![CDATA[big-wave.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[wave110-1.jpg | wave110-2.jpg | wave110-3.jpg | wave110-4.jpg | wave110-5.jpg | wave110-6.jpg | wave110-7.jpg | wave110-8.jpg | negro.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[NEGRO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[XRE ROJO]]></trx420>
+		<nombre><![CDATA[XRE ROJO]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, SOHC
+Desplazamiento 149.2 CC
+Diametro por carrera 57.3 X 57.8 mm
+Potencia máxima 13.8 Hp / 8,000 rpm.
+Torque 13.39 N.m / 6,000 rpm.
+Relación de compresion 9.5:1
+Sistema de enfriamiento Por aire.
+Sistema de lubr]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.0 lt (al drenar) / 1.2 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.08 mm / ESC: 0.12 mm
+ENCENDIDO
+S]]></descripcinlarga>
+		<categoria><![CDATA[DOBLE PROPOSITO]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[]]></marcafabricante2>
+		<precioneto><![CDATA[HONDA]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[xre-300-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[xre300-1.jpg | xre300-2.jpg | xre300-3.jpg | xre300-4.jpg | xre300-5.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[GL CARGO 150]]></trx420>
+		<nombre><![CDATA[GL CARGO 150 BLANCO]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, SOHC.
+Desplazamiento 149.2 CC
+Diametro por carrera 57.3 X 57.8 mm
+Potencia máxima 11. Hp / 7,000 rpm.
+Torque 11.9 N.m / 5,000 rpm.
+Relación de compresion 9.1:1
+Sistema de enfriamiento Por aire natural.
+Sistema ]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.0 (al drenar ) / 1.2 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.08 mm / ESC: 0.12 mm
+ENCENDIDO
+Sis]]></descripcinlarga>
+		<categoria><![CDATA[TRABAJO]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[]]></marcafabricante2>
+		<precioneto><![CDATA[HONDA]]></precioneto>
+		<inventario><![CDATA[26400]]></inventario>
+		<imagen><![CDATA[cargo-blanco.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[gl150-cargo-1.jpg | gl150-cargo-2.jpg | gl150-cargo-3.jpg | gl150-cargo-4.jpg | gl150-cargo-5.jpg | gl150-cargo-6.jpg | gl150-cargo-7.jpg | gl150-cargo-8.jpg | blanco.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[BLANCO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[GL CARGO 150]]></trx420>
+		<nombre><![CDATA[GL CARGO 150 ROJO]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, SOHC.
+Desplazamiento 149.2 CC
+Diametro por carrera 57.3 X 57.8 mm
+Potencia máxima 11. Hp / 7,000 rpm.
+Torque 11.9 N.m / 5,000 rpm.
+Relación de compresion 9.1:1
+Sistema de enfriamiento Por aire natural.
+Sistema ]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.0 (al drenar ) / 1.2 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.08 mm / ESC: 0.12 mm
+ENCENDIDO
+Sis]]></descripcinlarga>
+		<categoria><![CDATA[TRABAJO]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[]]></marcafabricante2>
+		<precioneto><![CDATA[HONDA]]></precioneto>
+		<inventario><![CDATA[26400]]></inventario>
+		<imagen><![CDATA[cargo-rojo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[gl150-cargo-1.jpg | gl150-cargo-2.jpg | gl150-cargo-3.jpg | gl150-cargo-4.jpg | gl150-cargo-5.jpg | gl150-cargo-6.jpg | gl150-cargo-7.jpg | gl150-cargo-8.jpg | rojo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[ROJO ]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[]]></trx420>
+		<nombre><![CDATA[]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, SOHC.
+Desplazamiento 149.2 CC
+Diametro por carrera 57.3 X 57.8 mm
+Potencia máxima 11. Hp / 7,000 rpm.
+Torque 11.9 N.m / 5,000 rpm.
+Relación de compresion 9.1:1
+Sistema de enfriamiento Por aire natural.
+Sistema ]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.0 (al drenar ) / 1.2 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.08 mm / ESC: 0.12 mm
+ENCENDIDO
+Sis]]></descripcinlarga>
+		<categoria><![CDATA[TRABAJO]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[]]></marcafabricante2>
+		<precioneto><![CDATA[HONDA]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[zoomerx-amarillo.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[zoomerx-1.jpg | zoomerx-2.jpg | zoomerx-3.jpg | zoomerx-4.jpg | zoomerx-5.jpg | amarillo.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[AMARILLO]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+	<node>
+		<tipodeproducto><![CDATA[]]></tipodeproducto>
+		<trx420><![CDATA[]]></trx420>
+		<nombre><![CDATA[]]></nombre>
+		<descripcincorta><![CDATA[MOTOR
+Descripción 4 tiempos, monocilindrico, SOHC.
+Desplazamiento 149.2 CC
+Diametro por carrera 57.3 X 57.8 mm
+Potencia máxima 11. Hp / 7,000 rpm.
+Torque 11.9 N.m / 5,000 rpm.
+Relación de compresion 9.1:1
+Sistema de enfriamiento Por aire natural.
+Sistema ]]></descripcincorta>
+		<descripcinlarga><![CDATA[ESPECIFICACIONES / MOTOR
+Capacidad de aceite de motor 1.0 (al drenar ) / 1.2 (al desarmar)
+Aceite de motor recomendado: 4 tiempos Honda GN4 / SAE: 10W-30 / API: SG ó superior / JASO T 903 : MA
+Holgura de Válvulas: ADM: 0.08 mm / ESC: 0.12 mm
+ENCENDIDO
+Sis]]></descripcinlarga>
+		<categoria><![CDATA[TRABAJO]]></categoria>
+		<subcategoria><![CDATA[]]></subcategoria>
+		<marcafabricante2><![CDATA[]]></marcafabricante2>
+		<precioneto><![CDATA[HONDA]]></precioneto>
+		<inventario><![CDATA[]]></inventario>
+		<imagen><![CDATA[zoomerx-azul.jpg]]></imagen>
+		<imgenesdegalera><![CDATA[zoomerx-1.jpg | zoomerx-2.jpg | zoomerx-3.jpg | zoomerx-4.jpg | zoomerx-5.jpg | azul.jpg]]></imgenesdegalera>
+		<atributo1ejcolor><![CDATA[AZUL]]></atributo1ejcolor>
+		<desctacado><![CDATA[]]></desctacado>
+	</node>
+</data>

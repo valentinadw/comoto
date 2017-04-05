@@ -1,0 +1,144 @@
+.welcome-panel .welcome-panel-content h1 {
+  font-size: 30px;
+}
+.welcome-panel .welcome-panel-content .theme-setup .logo {
+  padding-top: 30px;
+}
+.welcome-panel .welcome-panel-content .theme-setup .logo p {
+  font-size: 16px;
+}
+#tabs-container {
+  background-color: #fff;
+}
+#tabs-container .nav-tab-wrapper a:focus {
+  box-shadow: none;
+}
+#tabs-container .nav-tab-wrapper a.yolo-disabled {
+  opacity: 0.4;
+  cursor: no-drop;
+  background: #e5e5e5;
+}
+#tabs-container .nav-tab-wrapper a.yolo-disabled:hover {
+  background: #e5e5e5;
+}
+#tabs-container .nav-tab-wrapper a.active {
+  background-color: #fff;
+}
+#tabs-container .tab-content .tab-pane {
+  display: none;
+}
+#tabs-container .tab-content .tab-pane.active {
+  display: block;
+}
+.yolo-purchase-code-active #yolo-purchase-code label {
+  font-size: 16px;
+  font-weight: 600;
+  float: left;
+}
+.yolo-purchase-code-active #yolo-purchase-code input[type="text"] {
+  min-width: 180px;
+  width: 60%;
+  display: inline-block;
+  margin-right: 8px;
+  line-height: 26px;
+  margin-left: 20px;
+  float: left;
+}
+.yolo-purchase-code-active #yolo-purchase-code .get_license_key {
+  margin-top: 5px;
+  float: left;
+}
+.yolo-purchase-code-active #yolo-purchase-code .get_license_key a {
+  font-size: 14px;
+}
+.yolo-purchase-code-active #yolo-purchase-code .get_license_key a:before {
+  margin-top: 4px;
+}
+.yolo-purchase-code-active #yolo-purchase-code button {
+  border: none;
+  margin: 30px 0px;
+  margin-left: 30%;
+  line-height: 26px;
+  padding: 5px 30px;
+  text-transform: uppercase;
+  font-weight: 500;
+  background: #0085BA;
+  color: #fff;
+  cursor: pointer;
+}
+.yolo-purchase-code-active #yolo-purchase-code button > span {
+  margin: 3px;
+}
+.yolo-purchase-code-active #yolo-purchase-code button:focus {
+  outline: none;
+}
+.yolo-purchase-code-active #yolo-purchase-code button:hover {
+  background: #006187;
+}
+.yolo-purchase-code-active #yolo-purchase-code span.dashicons.dashicons-editor-help {
+  width: auto;
+  height: auto;
+}
+.yolo-purchase-code-active #yolo-purchase-code span.dashicons.dashicons-editor-help:before {
+  vertical-align: middle;
+  color: #006187;
+}
+.yolo-purchase-code-active #yolo-purchase-code span a {
+  font-size: 14px;
+}
+.yolo-notice-fixed {
+  position: fixed;
+  top: 70px;
+  right: 30px;
+  z-index: 9;
+  padding: 15px 30px;
+  color: #fff;
+}
+.yolo-notice-fixed.warning {
+  background: #ff0000;
+}
+.yolo-notice-fixed.success {
+  background: #54EF50;
+}
+.yolo-spin-icon {
+  -webkit-animation: yolo-spin-icon 2s infinite linear;
+  animation: yolo-spin-icon 2s infinite linear;
+}
+.yolo-puls-icone {
+  -webkit-animation: yolo-spin-icon 1s infinite steps(8);
+  animation: yolo-spin-icon 1s infinite steps(8);
+}
+@-webkit-keyframes yolo-spin-icon {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes yolo-spin-icon {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+.dashicons-dribbble:before {
+  content: '';
+  display: inline-block;
+  background: url(../../../../assets/images/dribbble.svg) no-repeat 0 0;
+  width: 20px;
+  height: 20px;
+}
+/*
+*
+* Install Plugin Style
+ */
+#plugin .yolo-install-plugin {
+  padding: 30px;
+}

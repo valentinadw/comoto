@@ -1,0 +1,530 @@
+/* YOLO HEADER SIDEBAR STYLE */
+#yolo-wrapper {
+  position: relative;
+  .yolo-top-bar {
+    z-index: 999;
+  }
+}
+#yolo-header.header-sidebar {
+  background-color: @header_background_color ;
+  width: 300px;
+  height: 100%;
+  position: fixed;
+  z-index: 888;
+  .box-shadow( 0px 0px 10px 0px rgba(0, 0, 0, 0.2));
+  .vertical-header-wrapper{
+    .header-customize {
+      padding: 20px;
+      width: 100%;
+      margin: 0;
+      .header-customize-item {
+        width: 100%;
+        > form {
+          width: 100%;
+          input {
+            width: 100%;
+            height: 40px;
+            line-height: 40px;
+            color: fade(@header_nav_text_color, 85%);
+            &::-webkit-input-placeholder {
+              color: fade(@header_nav_text_color, 60%);
+            }
+            &::-moz-placeholder {
+              color: fade(@header_nav_text_color, 60%);
+            }
+          } 
+          button{
+            i{
+              color: @header_nav_text_color;
+              .transition(all 0.35s ease);
+              &:hover{
+                color: @primary_color;
+              }
+            }
+          }
+        }
+        &.header-social-profile-wrapper {
+          position: relative;
+          color: @header_text_color;
+          margin-left: 0;
+          text-align: center;
+          li{
+            margin: 0px;
+            a {
+              background-color: @white;
+              margin-right: 10px;
+              width: 40px;
+              height: 40px;
+              text-align: center;
+              line-height: 40px;
+              display: inline-block;
+              i {
+                font-size: 18px;
+                vertical-align: middle;
+                padding-right: 0;
+                .transition(all 0.25s ease-in-out);
+              }
+              &:hover {
+                i {
+                  color: @primary_color;
+                }
+              }
+            }
+          }
+          
+        }
+        + .header-customize-item {
+          position: relative;
+          color: @header_text_color;
+          margin-left: 0;
+          a {
+            background-color: @white;
+            margin-right: 10px;
+            width: 40px;
+            height: 40px;
+            text-align: center;
+            line-height: 40px;
+            display: inline-block;
+            i {
+              color: @header_background_color;
+              font-size: 18px;
+              vertical-align: middle;
+              padding-right: 0;
+              .transition(all 0.25s ease-in-out);
+            }
+            &:hover {
+              i {
+                color: @primary_color;
+              }
+            }
+          }
+        }
+      }
+    }
+    height: 100%;
+    .header-top{
+      text-align: center;
+      .header-logo{
+        img {
+          max-width: 100%;
+          padding: 5px 20px;
+          box-sizing: border-box;
+        }
+      }
+    }
+    .header-bottom {
+      .menu-wrapper {
+        width: 100%;
+        .navbar-nav.vertical-megamenu { // Style vertical mega menu
+         width: 100%;
+         padding: 0;
+         > li{
+          font-size: 12px;
+          border-bottom: 1px solid fade(@white, 12%);
+          letter-spacing: 0.1em;
+          font-weight: bold;
+          position: relative;
+          .transition(all 0.2s ease-in-out);
+          li.current-menu-item {
+            > a{
+              color: @primary_color;
+            }
+          }
+          > a {
+            padding: 15px 20px;
+            display: inline-block;
+            text-transform: uppercase;
+            color: @header_nav_text_color;
+            line-height: 1.2;
+            &:hover {
+              color: @primary_color;
+            }
+            &:after {
+              content: none;
+            }
+          }
+          > b.menu-caret {
+            color: @white;
+            float: right;
+            right: 0;
+            position: absolute;
+            .transition(all 0.3s ease-in-out 0s);
+            &:before {
+              content: "\f107";
+              display: inline-block;
+              font-family: FontAwesome;
+              text-align: center;
+              line-height: 45px;
+              width: 45px;
+            }
+          }
+          &:not(.sub-menu-open):hover {
+            background-color: lighten(#333, 5%);
+          }
+          &.sub-menu-open {
+            border-bottom-width: 0px;
+            > ul.sub-menu:before {
+              content: "";
+              display: block;
+              position: absolute;
+              top: -6px;
+              left: 15px;
+              z-index: 1;
+              border-style: solid;
+              border-width: 0 6px 6px 6px;
+              border-color: transparent transparent lighten(#333, 10%);;
+            }
+          }
+          &:hover {
+            > a {
+              color: @primary_color;
+            }
+            > b.menu-caret {
+              cursor: pointer;
+              color: @primary_color;
+              .rotate(-90deg);
+            }
+          }
+        }
+        li {
+          float: none;
+          position: relative;
+        }
+        /* 1. Style dropdown menu */ 
+              // Hidden sub menu
+              > li.menu_style_dropdown {
+
+                > ul {
+                  position: absolute;
+                  display: none;
+                    top: 0; // change only this for vertical menu
+                    left: 100%;
+                    opacity: 0;
+                    visibility: hidden;
+                    overflow: hidden;
+                    border-radius: 0 0 3px 3px;
+                    .transition(all .3s ease .15s);
+                    // Start level 1
+                    > li {
+                      min-width: 244px;
+                      float: none;
+                      display: list-item;
+                      position: relative;
+                      display: block;
+                      > ul {
+                        display: none;
+                        position: absolute;
+                        top:0;
+                        left:100%;
+                        opacity: 0;
+                        visibility: hidden;
+                        overflow: hidden;
+                        .transition(all .3s ease .15s);
+                        // Start level 2
+                        > li {
+                          min-width: 244px;
+                          float: none;
+                          display: list-item;
+                          position: relative;
+                          > ul {
+                            display: none;
+                            position: absolute;
+                            top:0;
+                            left:100%;
+                            opacity: 0;
+                            visibility: hidden;
+                            overflow: hidden;
+                            .transition(all .3s ease .15s);
+                            // Start level 3
+                            > li {
+                              min-width: 244px;
+                              float: none;
+                              display: list-item;
+                              position: relative;
+                              > ul {
+                                display: none;
+                                position: absolute;
+                                top:0;
+                                left:100%;
+                                opacity: 0;
+                                visibility: hidden;
+                                overflow: hidden;
+                                .transition(all .3s ease .15s);
+                                // Start level 4
+                                > li {
+                                  min-width: 244px;
+                                  float: none;
+                                  display: list-item;
+                                  position: relative;
+                                  > ul {
+                                    display: none;
+                                    position: absolute;
+                                    top:0;
+                                    left:100%;
+                                    opacity: 0;
+                                    visibility: hidden;
+                                    overflow: hidden;
+                                    .transition(all .3s ease .15s);
+                                    // Start level 5
+                                    > li {
+                                      min-width: 244px;
+                                      float: none;
+                                      display: list-item;
+                                      position: relative;
+                                      > ul {
+                                        display: none;
+                                        position: absolute;
+                                        top:0;
+                                        left:100%;
+                                        opacity: 0;
+                                        visibility: hidden;
+                                        overflow: hidden;
+                                        .transition(all .3s ease .15s);
+                                        // Start level 6
+                                        > li {
+                                          min-width: 244px;
+                                          float: none;
+                                          display: list-item;
+                                          position: relative;
+                                          > ul {
+                                            display: none;
+                                            position: absolute;
+                                            top:0;
+                                            left:100%;
+                                            opacity: 0;
+                                            visibility: hidden;
+                                            overflow: hidden;
+                                            .transition(all .3s ease .15s);
+                                          }
+                                          &:hover {
+                                            > ul {
+                                              display: block;
+                                              opacity: 1;
+                                              visibility: visible;
+                                              overflow: visible;
+                                            }
+                                          }
+                                        }
+                                        // End level 6
+                                      }
+                                      &:hover {
+                                        > ul {
+                                          display: block;
+                                          opacity: 1;
+                                          visibility: visible;
+                                          overflow: visible;
+                                        }
+                                      }
+                                    }
+                                    // End level 5
+                                  }
+                                  &:hover {
+                                    > ul {
+                                      display: block;
+                                      opacity: 1;
+                                      visibility: visible;
+                                      overflow: visible;
+                                    }
+                                  }
+                                }
+                                // End level 4
+                              }
+                              &:hover {
+                                > ul {
+                                  display: block;
+                                  opacity: 1;
+                                  visibility: visible;
+                                  overflow: visible;
+                                }
+                              }
+                            }
+                            // End level 3
+                          }
+                          &:hover {
+                            > ul {
+                              display: block;
+                              opacity: 1;
+                              visibility: visible;
+                              overflow: visible;
+                            }
+                          }
+                        }
+                        // End level 2
+                      }
+                      &:hover {
+                        > ul {
+                          display: block;
+                          opacity: 1;
+                          visibility: visible;
+                          overflow: visible;
+                        }
+                      }
+                    }
+                    // End level 1
+                  }
+                }
+
+              // Display submenu when hover
+              > li.menu_style_dropdown:hover > ul {
+                display: block;
+                opacity: 1;
+                visibility: visible;
+                overflow: visible;
+              }
+              /* End dropdown menu */ 
+
+              /* 2. MEGA MENU STYLE COLUMN */
+              // Hidden sub menu
+              > li.menu_style_column > ul {
+                position: absolute;
+                display: none;
+                min-width: 970px;
+                width: 100%;
+                top: 0;
+                left: 100%;
+                opacity: 0;
+                visibility: hidden;
+                overflow: hidden;
+                border-radius: 0 0 3px 3px;
+                .transition(all .3s ease .15s);
+              }
+
+              // Display submenu when hover
+              > li.menu_style_column:hover > ul {
+                display: block;
+                opacity: 1;
+                visibility: visible;
+                overflow: visible;
+              }
+
+              // Number of columns dropdown
+              > li.menu_style_column {
+                // 2 columns
+                &.mega-col-columns-2 {
+                  > ul > li {
+                    float: left;
+                    width: 50%;
+                  }
+                }
+                // 3 columns
+                &.mega-col-columns-3 {
+                  > ul > li {
+                    float: left;
+                    width: 33.3333333%;
+                  }
+                }
+                // 4 columns
+                &.mega-col-columns-4 {
+                  > ul > li {
+                    float: left;
+                    width: 25%;
+                  }
+                }
+                // 5 columns
+                &.mega-col-columns-5 {
+                  > ul > li {
+                    float: left;
+                    width: 20%; 
+                  }
+                }
+                // 6 columns
+                &.mega-col-columns-6 {
+                  > ul > li {
+                    float: left;
+                    width: 16.6666666%; 
+                  }
+                }
+              }
+              /* End Style column menu */ 
+              /* 3. MEGA MENU STYLE TAB */ 
+              // Hidden sub menu
+              > li.menu_style_tab > ul {
+                position: absolute;
+                display: none;
+                width: 100%;
+                min-width: 970px;
+                top: 0;
+                left: 100%;
+                opacity: 0;
+                visibility: hidden;
+                overflow: hidden;
+                border-radius: 0 0 3px 3px;
+                .transition(.3s ease .15s);
+                > li {
+                  display: block;
+                  width: 25%;
+                  position: static;
+                  clear: none;
+                  .yolo_megamenu_widget_area, > ul {
+                    position: absolute;
+                    width: auto;
+                    height: auto;
+                    left: 25%;
+                    top: 100%;
+                    opacity: 0;
+                    right: 0;
+                    visibility: hidden;
+                    .transition( all 0.35s ease);    
+                  }
+                  // Show widget menu if is active (default active first tab)
+                  &.active  {
+                    .yolo_megamenu_widget_area, > ul {
+                      opacity: 1;
+                      top: 0;
+                      visibility: visible;
+                    }
+                  }
+                }
+              }
+
+              // Display submenu when hover
+              > li.menu_style_tab:hover > ul {
+                opacity: 1;
+                visibility: visible;
+                overflow: visible;
+                display: block;
+              }
+            }
+          }
+        }
+        .header-customize{
+          .canvas-menu-toggle-wrapper{
+            margin-left: 30px;
+            a{
+              &:hover{
+                i{
+                  color: @primary_color;
+                }
+
+              }
+            }
+          }
+        }
+        .fb{
+          .header-customize-right{
+            height: auto;
+          }
+        }
+      }
+    }
+
+// Padding main content
+.header-sidebar {
+  .yolo-top-bar{
+    position: fixed;
+    width: 100%;
+  }
+  #yolo-content-wrapper {
+    padding-top: 0;
+    padding-left: 300px !important;
+    @media screen and (max-width: 991px) { 
+      padding-left: 0!important;
+    }
+  }
+  footer {
+    margin-left: 300px !important;
+    @media screen and (max-width: 991px) { 
+      margin-left: 0!important;
+    }
+  }
+}

@@ -1,0 +1,36 @@
+/*
+Theme Name: Yolo Motor Child Theme
+Theme URI: http://demo.yolotheme.com/motor
+Author: YoloTheme
+Author URI: http://facebook.com/yolotheme/
+Description: This is a custom child theme for Yolo Motor
+Template: yolo-motor
+Version: 1.0.8
+Tags: two-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, sticky-post, theme-options, translation-ready
+Text Domain: yolo-motor
+*/
+.yolo-top-bar{ background: #000 !important; }
+.yolo-top-bar .top-sidebar { color: #fff !important; font-size: 12px !important; }
+.yolo-top-bar .top-sidebar i{ color: #cf112b !important; }
+#yolo-header > div.yolo-header-nav-above.text-left > div > div.fr{ width: 857px; }
+.countdown-number, .countdown-content{ color: #30352e; }
+#yolo-footer-wrapper a, #yolo-footer-wrapper{ color: #FFF; }
+.footer-11{color: #FFF !important;}
+.icon-box-shortcode-wrap.style_1 .icon-box-container .icon-title{font-size: 15px !important;}
+.icon-box-shortcode-wrap.style_1:after{background-color: #cf112b !important;position: absolute; bottom: -87px;}
+.form-control{
+  background: #FFF !important;
+  border: solid 1px #ddd !important;
+  border-radius: 0px !important;
+  margin-top: 1px !important;
+  margin-bottom: 15px !important;
+}
+.btn-full-width{
+  background: #cf112b !important;
+  width: 100% !important;
+}
+input.news, button.news{
+  background: transparent !important;
+  border: solid 1px #FFF !important;
+  border-radius: 0px !important;
+}

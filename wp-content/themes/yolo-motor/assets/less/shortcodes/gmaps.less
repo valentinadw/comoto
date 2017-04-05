@@ -1,0 +1,34 @@
+/* GMaps Shortcode CSS */
+.gmaps-shortcode-wrap {
+	.map-info {
+		max-width: 280px;
+		.info-image {
+			float: left;
+			max-width: 200px;
+		    padding: 10px;
+		}
+		.info-address {
+			padding: 15px 0 10px 0;
+		}
+	}
+	// Style Show Map
+	&.show_map {
+
+	}	
+	// Style Toggle Button
+	&.toggle_button {	
+		.gmaps-button-wrap {
+			.gmaps-toggle-button {
+				width: 200px;
+				margin: 0 auto;
+				padding: 15px 0;
+				border: 1px solid @primary_color;
+				text-align: center;
+				&:hover {
+					background: @primary_color;
+					cursor: pointer;
+				}
+			}
+		}
+	}
+}

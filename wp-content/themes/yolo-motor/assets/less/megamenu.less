@@ -1,0 +1,1004 @@
+/* Style for Mega Menu */
+/***** TABLE OF CONTENTS *****
+*** 1. GENERAL
+*** 2. MEGA MENU STYLE COLUMN
+*** 3. MEGA MENU STYLE DROPDOWN
+*** 4. MEGA MENU STYLE TAB
+*/
+
+/* RESET MENU STYLE */
+.navbar-nav,
+.navbar-nav a,
+.navbar-nav ul,
+.navbar-nav li,
+.navbar-nav div,
+.navbar-nav form,
+.navbar-nav input {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+}
+ 
+.navbar-nav a { 
+  text-decoration: none; 
+}
+
+.navbar-nav {
+  display: inline-block;
+  cursor: default;
+  li {
+    list-style: none;
+  }
+}
+
+.navbar-nav > li > a {
+  position: relative;
+  display: block;
+  z-index: 510;
+  padding: 20px;
+  text-transform: uppercase;
+  .transition(all .3s ease); 
+  span.yolo_sub_label {
+    font-size: 11px;
+  }
+}
+
+/* Change ' +' in order to change the Dropdown symbol */
+.navbar-nav {
+  // Icon level 1
+  li > a:after {
+    font-family: FontAwesome;
+    content: ' \f107'; 
+  }
+  li > a:only-child:after { 
+    content: ''; 
+  }
+}
+
+span.yolo_sub_label {
+    font-size: 10px;
+    font-weight: normal;
+    color: @gray-lighter;
+    letter-spacing: 0;
+    line-height: 1;
+    display: inline-block;
+    padding: 1px 2px;
+    vertical-align: baseline;
+    margin-left: 4px;
+    .border-radius-all(2px);
+    position: relative;
+    top: -1px;
+}
+
+/* 1. MEGA MENU STYLE COLUMN */ 
+// Hidden sub menu
+.navbar-nav > li.menu_style_column > ul {
+  .box-shadow(0 0px 4px 0 rgba(0, 0, 0, 0.2));
+  position: absolute;
+  display: none;
+  width: 100%;
+  top: 98%;
+  left: 0;
+  opacity: 0;
+  visibility: hidden;
+  overflow: hidden;
+  background-color:@menu_sub_bg_color;
+
+  // Animate css @TODO: need change to config
+  .animation-duration(0.5s);
+  .animation-delay(0.1s);
+}
+
+// Display submenu when hover
+.navbar-nav > li.menu_style_column:hover > ul {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+    overflow: visible;
+}
+
+// Number of columns dropdown
+.navbar-nav > li.menu_style_column {
+
+  // 2 columns
+  &.mega-col-columns-2 {
+    > ul > li {
+      float: left;
+      width: 50%;
+    }
+  }
+  // 3 columns
+  &.mega-col-columns-3 {
+    > ul > li {
+      float: left;
+      width: 33.3333333%; 
+    }
+  }
+  // 4 columns
+  &.mega-col-columns-4 {
+    > ul > li {
+      float: left;
+      width: 25%;
+    }
+  }
+  // 5 columns
+  &.mega-col-columns-5 {
+    > ul > li {
+      float: left;
+      width: 20%;
+    }
+  }
+  // 6 columns
+  &.mega-col-columns-6 {
+    > ul > li {
+      float: left;
+      width: 16.6666666%; 
+    }
+  }
+}
+
+.yolo-main-menu .navbar-nav > li {
+
+}
+
+
+/* 2. MEGA MENU STYLE DROPDOWN */ 
+// Hide Dropdowns by Default and giving it a position of absolute
+// .navbar-nav > li.menu_style_dropdown ul {
+.navbar-nav > li.menu_style_dropdown{
+  z-index: 9999;
+  > a{
+    > i{
+      line-height: 20px;
+      &.left{
+        padding-right: 10px;
+        float: left;
+      }
+      &.center{
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+      &.right{
+        padding-left: 10px;
+        padding-right: 10px;
+        float: right;
+      }
+    }
+    > span{
+      font-size: 9px;
+      line-height: 14px;
+      position: relative;
+      top: -2px;
+      margin-left: 5px;
+      color: @white;
+      padding: 0 5px;
+      display: inline-block;
+    }
+  }
+  > ul {
+    position: absolute;
+    display: none;
+    top: 98%;
+    opacity: 0;
+    visibility: hidden;
+    overflow: hidden;
+    background-color: @white;
+    .box-shadow(0 0px 4px 0 rgba(0, 0, 0, 0.2));
+    // Animate css @TODO: need change to config
+    .animation-duration(0.5s);
+    .animation-delay(0.1s);
+    // -webkit-animation-iteration-count: infinite;
+    // Start level 1
+    > li {
+      min-width: 250px;
+      float: none;
+      display: list-item;
+      position: relative;
+      display: block;
+      border-bottom: 1px solid @border_color;
+      &:last-child{
+        border-bottom: none;
+      }
+      a{
+        padding-left: 20px !important;
+
+        > i{
+          line-height: 25px;
+          &.left{
+            padding-right: 10px;
+            float: left;
+          }
+          &.center{
+            padding-left: 10px;
+            padding-right: 10px;
+          }
+          &.right{
+            padding-left: 10px;
+            padding-right: 10px;
+            float: right;
+          }
+        }
+        > span{
+          font-size: 9px;
+          line-height: 12px;
+          position: relative;
+          top: -2px;
+          margin-left: 5px;
+          color: @white;
+          padding: 0 5px;
+          display: inline-block;
+        }
+      }
+      > ul {
+        .box-shadow(0 0px 4px 0 rgba(0, 0, 0, 0.2));
+        position: absolute;
+        top: 0;
+        left: 90%;
+        display: none;
+        opacity: 0;
+        background-color: @white;
+        visibility: hidden;
+        overflow: hidden;
+        // Animate css @TODO: need change to config
+        .animation-duration(0.5s);
+        .animation-delay(0.1s);
+        // Start level 2
+        > li {
+          text-align: left;
+          min-width: 250px;
+          float: none;
+          display: list-item;
+          position: relative;
+          border-bottom: 1px solid @border_color;
+          &:last-child{
+            border-bottom: none;
+          }
+          > i{
+            line-height: 25px;
+            &.left{
+              padding-right: 10px;
+              float: left;
+            }
+            &.center{
+              padding-left: 10px;
+              padding-right: 10px;
+            }
+            &.right{
+              padding-left: 10px;
+              padding-right: 10px;
+              float: right;
+            }
+          }
+          > span{
+            font-size: 10px;
+            line-height: 18px;
+            position: relative;
+            top: -2px;
+            margin-left: 5px;
+            color: @white;
+            padding: 0 5px;
+            display: inline-block;
+          }
+          > ul {
+            .box-shadow(0 0px 4px 0 rgba(0, 0, 0, 0.2));
+            position: absolute;
+            top:0;
+            left:90%;
+            display: none;
+            opacity: 0;
+            background-color: @white;
+            visibility: hidden;
+            overflow: hidden;
+            // Animate css @TODO: need change to config
+            .animation-duration(0.5s);
+            .animation-delay(0.1s);
+            // Start level 3
+            > li {
+              min-width: 250px;
+              float: none;
+              display: list-item;
+              position: relative;
+              border-bottom: 1px solid @border_color;
+              &:last-child{
+                border-bottom: none;
+              }
+              > i{
+                line-height: 25px;
+                &.left{
+                  padding-right: 10px;
+                  float: left;
+                }
+                &.center{
+                  padding-left: 10px;
+                  padding-right: 10px;
+                }
+                &.right{
+                  padding-left: 10px;
+                  padding-right: 10px;
+                  float: right;
+                }
+              }
+              > span{
+                font-size: 10px;
+                line-height: 18px;
+                position: relative;
+                top: -2px;
+                margin-left: 5px;
+                color: @white;
+                padding: 0 5px;
+                display: inline-block;
+              }
+              > ul {
+                .box-shadow(0 0px 4px 0 rgba(0, 0, 0, 0.2));
+                position: absolute;
+                top:0;
+                left: 90%;
+                display: none;
+                opacity: 0;
+                background-color: @white;
+                visibility: hidden;
+                overflow: hidden;
+                // Animate css @TODO: need change to config
+                .animation-duration(0.5s);
+                .animation-delay(0.1s);
+                // Start level 4
+                > li {
+                  min-width: 250px;
+                  float: none;
+                  display: list-item;
+                  position: relative;
+                  border-bottom: 1px solid @border_color;
+                  &:last-child{
+                    border-bottom: none;
+                  }
+                  > i{
+                    line-height: 25px;
+                    &.left{
+                      padding-right: 10px;
+                      float: left;
+                    }
+                    &.center{
+                      padding-left: 10px;
+                      padding-right: 10px;
+                    }
+                    &.right{
+                      padding-left: 10px;
+                      padding-right: 10px;
+                      float: right;
+                    }
+                  }
+                  > span{
+                    font-size: 10px;
+                    line-height: 18px;
+                    position: relative;
+                    top: -2px;
+                    margin-left: 5px;
+                    color: @white;
+                    padding: 0 5px;
+                    display: inline-block;
+                  }
+                  > ul {
+                    .box-shadow(0 0px 4px 0 rgba(0, 0, 0, 0.2));
+                    position: absolute;
+                    top:0;
+                    left: 90%;
+                    display: none;
+                    opacity: 0;
+                    background-color: @white;
+                    visibility: hidden;
+                    overflow: hidden;
+                    // Animate css @TODO: need change to config
+                    .animation-duration(0.5s);
+                    .animation-delay(0.1s);
+                    // Start level 5
+                    > li {
+                      min-width: 250px;
+                      float: none;
+                      display: list-item;
+                      position: relative;
+                      border-bottom: 1px solid @border_color;
+                      &:last-child{
+                        border-bottom: none;
+                      }
+                      > i{
+                        line-height: 25px;
+                        &.left{
+                          padding-right: 10px;
+                          float: left;
+                        }
+                        &.center{
+                          padding-left: 10px;
+                          padding-right: 10px;
+                        }
+                        &.right{
+                          padding-left: 10px;
+                          padding-right: 10px;
+                          float: right;
+                        }
+                      }
+                      > span{
+                        font-size: 10px;
+                        line-height: 18px;
+                        position: relative;
+                        top: -2px;
+                        margin-left: 5px;
+                        color: @white;
+                        padding: 0 5px;
+                        display: inline-block;
+                      }
+                      > ul {
+                        .box-shadow(0 0px 4px 0 rgba(0, 0, 0, 0.2));
+                        position: absolute;
+                        top:0;
+                        left: 90%;
+                        display: none;
+                        opacity: 0;
+                        background-color: @white;
+                        visibility: hidden;
+                        overflow: hidden;
+                        // Animate css @TODO: need change to config
+                        .animation-duration(0.5s);
+                        .animation-delay(0.1s);
+                        // Start level 6
+                        > li {
+                          min-width: 250px;
+                          float: none;
+                          display: list-item;
+                          position: relative;
+                          border-bottom: 1px solid @border_color;
+                          &:last-child{
+                            border-bottom: none;
+                          }
+                          > i{
+                            line-height: 25px;
+                            &.left{
+                              padding-right: 10px;
+                              float: left;
+                            }
+                            &.center{
+                              padding-left: 10px;
+                              padding-right: 10px;
+                            }
+                            &.right{
+                              padding-left: 10px;
+                              padding-right: 10px;
+                              float: right;
+                            }
+                          }
+                          > span{
+                            font-size: 10px;
+                            line-height: 18px;
+                            position: relative;
+                            top: -2px;
+                            margin-left: 5px;
+                            color: @white;
+                            padding: 0 5px;
+                            display: inline-block;
+                          }
+                          > ul {
+                            position: absolute;
+                            top:0;
+                            left:90%;
+                            display: none;
+                            opacity: 0;
+                            background-color: @white;
+                            visibility: hidden;
+                            overflow: hidden;
+                            // Animate css @TODO: need change to config
+                            .animation-duration(0.5s);
+                            .animation-delay(0.1s);
+                          }
+                          &:hover {
+                            > ul {
+                              display: block;
+                              opacity: 1;
+                              visibility: visible;
+                              overflow: visible;
+                            }
+                          }
+                        }
+                        // End level 6
+                      }
+                      &:hover {
+                        > ul {
+                          display: block;
+                          opacity: 1;
+                          visibility: visible;
+                          overflow: visible;
+                        }
+                      }
+                    }
+                    // End level 5
+                  }
+                  &:hover {
+                    > ul {
+                      display: block;
+                      opacity: 1;
+                      visibility: visible;
+                      overflow: visible;
+                    }
+                  }
+                }
+                // End level 4
+              }
+              &:hover {
+                > ul {
+                  display: block;
+                  opacity: 1;
+                  visibility: visible;
+                  overflow: visible;
+                }
+              }
+            }
+            // End level 3
+          }
+          &:hover {
+            > ul {
+              display: block;
+              opacity: 1;
+              visibility: visible;
+              overflow: visible;
+            }
+          }
+        }
+        // End level 2
+      }
+      &:hover {
+        > ul {
+          display: block;
+          opacity: 1;
+          visibility: visible;
+          overflow: visible;
+        }
+      }
+    }
+    // End level 1
+  }
+}
+
+
+/* Display Dropdowns on Hover */
+// .navbar-nav > li.menu_style_dropdown:hover ul {
+.navbar-nav > li.menu_style_dropdown:hover > ul {
+  opacity: 1;
+  display: block;
+  visibility: visible;
+  overflow: visible;
+}
+
+/* 3. MEGA MENU STYLE TAB */ 
+// Hidden sub menu
+.navbar-nav > li.menu_style_tab > ul {
+  .box-shadow(0 0px 4px 0 rgba(0, 0, 0, 0.2));
+  position: absolute;
+  display: none;
+  width: 100%;
+  top: 98%;
+  left: 0;
+  opacity: 0;
+  visibility: hidden;
+  overflow: hidden;
+  background-color: @menu_sub_bg_color;
+  &:after{
+    content: '';
+    position: absolute;
+    left: 25%;
+    width: 1px;
+    top: 0;
+    bottom: 0;
+    background-color: @border_color;
+  }
+
+  // Animate css @TODO: need change to config
+  .animation-duration(0.5s);
+  .animation-delay(0.1s);
+  > li {
+    display: block;
+    width: 25%;
+    position: static;
+    clear: none;
+    color: @menu_sub_text_color;
+    border-bottom: 1px solid @border_color;
+    &:hover,&.active{
+      a{
+        &:before{
+          height: 100%;
+        }
+      }
+      
+    }
+    > a{
+      padding: 15px 20px;
+      display: block;
+      position: relative;
+      text-transform: uppercase;
+      font-weight: 700;
+      &:after{
+        content: '';
+      } 
+      &:before{
+        content: '';
+        position: absolute;
+        height: 0;
+        width: 2px;
+        top: 0;
+        left: 0;
+        background-color: @primary_color;
+        .transition(all 0.35s ease);
+      }
+    }
+    &.active{
+      > a{
+        color: @primary_color;
+      }
+    }
+    ul.social-profile{
+      > li{
+        a{
+          i{
+            padding-right: 10px;
+          }
+        }
+      }
+    }
+    .yolo_megamenu_widget_area, ul {
+      // padding-left: 20px;
+      // padding-right: 20px;
+      padding: 20px 20px;
+      opacity: 0;
+      visibility: hidden;
+      position: absolute;
+      width: auto;
+      height: auto;
+      left: 25%;
+      top: 100%;
+      right: 0;
+      .transition(all 0.35s ease-in-out);
+      &.columns-1 {
+        section {
+          width: 100%;
+        }
+      }
+      &.columns-2 {
+        section {
+          width: 50%;
+          float: left;
+          padding: 0 10px;
+        }
+      }
+      &.columns-3 {
+        section {
+          width: 33.3333%;
+          float: left;
+          padding: 0 10px;
+        }
+      }
+      &.columns-4 {
+        section {
+          width: 25%;
+          float: left;
+          padding: 0 10px;
+        }
+      }
+    }
+    // Show widget menu if is active (default active first tab)
+    &.active {
+      .yolo_megamenu_widget_area, ul {
+        opacity: 1;
+        visibility: visible;
+        top: 0;
+      }
+    }
+    
+  }
+}
+// Fullwidth menu
+.navbar-nav > li.menu_style_tab.mega-fullwidth > ul {
+
+}
+// Display submenu when hover
+.navbar-nav > li.menu_style_tab:hover > ul {
+  display: block;
+  opacity: 1;
+  visibility: visible;
+}
+
+/* YOLO MOBILE MENU */
+.yolo-nav-mobile-menu {
+  li {
+    list-style-type: none;
+  }
+}
+.yolo-nav-mobile-menu li > ul.sub-menu {
+  background-color: #444;
+  position: relative;
+  list-style: none;
+  padding: 0;
+  padding-left: 20px;
+  margin: 0;
+  display: none;
+  background: transparent;
+}
+
+.yolo_widget_area{
+  >.yolo_megamenu_widget_area{
+    // padding: 0 !important;
+    // width: 75% !important;
+    section{
+      &:hover{
+        .widget-title-wrapper{
+          h3{
+            color: @primary_color;
+          }
+        }
+      }
+      position: relative;
+      .widget-title-wrapper{
+        margin: 0;
+        h3{
+          position: relative;
+          font-size: 14px;
+          text-transform: uppercase;
+          font-weight: bold;
+          margin: 0;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          text-align: left;
+          .transition( all 0.35s ease );
+          &:before{
+            content: '';
+            background-color: @primary_color;
+            position: absolute;
+            bottom: 0;
+            left: 0px;
+            height: 2px;
+            width: 46px;
+          }
+        }
+      }
+      .product_list_widget{
+        width: 100%;
+        left: 0;
+        padding: 0;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        position: relative;
+        >li{
+          color: #333;
+          .transition( all 0.35s ease );
+          border-bottom: 1px solid @border_color;
+          &:last-child{
+            border: none;
+          }
+          &:hover{
+            .translate3d(0,-3px, 0);
+          }
+          a{
+            img{
+              width: 33.33%;
+              float: left;
+              margin: 0;
+              padding-right: 10px;
+            }
+            &:after{
+              content: '';
+            }
+          }
+          .star-rating {
+            margin: 10px 0;
+            text-align:  left;
+            &:before{
+              left: 0;
+              .translateX(0);
+            }
+          }
+        }
+      }
+    }
+  }
+
+}
+.yolo_megamenu_widget_area {
+  ul.instagram-pics {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+
+    li {
+      display: inline-block;
+      padding: 0;
+      margin: 0;
+    }
+    a {
+      display: block;
+      position: relative;
+      overflow: hidden;
+      &:before {
+        content:"";
+        position: absolute;
+        width: 101%;
+        height: 101%;
+        background-color: rgba(0,0,0,0.5);
+        .transition(all 0.2s linear);
+        opacity: 0;
+      }
+      &:hover:before {
+        opacity: 1;
+      }
+    }
+  }
+
+  .instagram-col-2 ul.instagram-pics li{ width: 100%/2; }
+  .instagram-col-3 ul.instagram-pics li{ width: 100%/3; }
+  .instagram-col-4 ul.instagram-pics li{ width: 100%/4; }
+  .instagram-col-6 ul.instagram-pics li{ width: 100%/6; }
+  .instagram-col-8 ul.instagram-pics li{ width: 100%/8; }
+
+  .padding-2 ul.instagram-pics {
+    margin-left: -2px;
+    margin-right: -2px;
+    margin-top: -2px;
+    padding: 15px 15px 50px 0;
+    li {
+      padding: 4px;
+    }
+  }
+  .padding-3 ul.instagram-pics {
+    margin-left: -3px;
+    margin-right: -3px;
+    margin-top: -3px;
+    padding: 15px 15px 50px 0;
+    li {
+      padding: 3px;
+    }
+  }
+  .padding-4 ul.instagram-pics {
+    margin-left: -4px;
+    margin-right: -4px;
+    margin-top: -4px;
+    padding: 15px 15px 50px 0;
+    li {
+      padding: 4px;
+    }
+  }
+  .title-center .widget-title{
+    text-align: center;
+  }
+  ul.instagram-pics + p {
+    margin: 0;
+    font-size: 13px;
+    font-style: italic;
+    letter-spacing: 0.02em;
+  }
+  .widget-text-center {
+    text-align: center;
+  }
+}
+
+.menu-wrapper {
+    #main-menu {
+        /*> li:first-child{
+            > a{
+                padding-left: 0;
+            }
+        }*/
+        li.menu_style_dropdown {
+            .sub-menu {
+                li {
+                    position: relative;
+                    &:before {
+                        position: absolute;
+                        content: '';
+                        top: 0;
+                        left: 0;
+                        right: 0;
+                        bottom: 0;
+                        width: 2px;
+                        height: 0%;
+                        background: @primary_color;
+                        .transition(all .3s);
+                    }
+                    &:hover:before {
+                        height: 100%;
+                    }
+                    a {
+                        position: relative;
+                        display: block;
+                        padding: 10px 20px;
+                    }
+                }
+            }
+        }
+        li.menu_style_column{
+            >.sub-menu{
+                padding:40px 0px;
+                background-color: @menu_sub_bg_color;
+                > li{
+                    border-left: 2px solid @border_color;
+                    &:first-child{
+                      border: none;
+                      padding-left: 2px;
+                    }
+                    > a{
+                        position: relative;
+                        display: block;
+                        padding: 0 20px 15px 20px !important;
+                        margin-bottom: 20px;
+                        color: @menu_sub_text_color;
+                        font-family: @secondary_font;
+                        font-weight: 700;
+                        text-transform: uppercase;
+                        &:hover {
+                            color: @primary_color;
+                        }
+                        &:after{
+                            content: '';
+                            background-color: @primary_color;
+                            position: absolute;
+                            bottom: 0;
+                            left: 20px;
+                            height: 2px;
+                            width: 46px;
+                        }
+                    }
+                    ul{
+                        li{
+                            &:before{
+                                width: 2px;
+                                left: -2px;
+                            }
+                            a{
+                                padding: 10px 20px !important;
+                            }
+                        }
+                    }
+                    .yolo_megamenu_widget_area{
+                        >.widget-social-profile{
+                            > span{
+                                padding: 10px 20px;
+                                display: block;
+                            }
+                            ul{
+                                li{
+                                    i{
+                                        padding-right: 10px;
+                                    }
+                                }
+                            }
+                        }   
+                    }
+                }
+            }
+        }
+    }
+}
+
+/* Menu Tagcloud */
+.yolo_widget_area .tagcloud {
+  font-size: 0;
+  margin-top: 20px;
+  a {
+    color: @secondary_color !important;
+    .transition(all 0.2s);
+    display: inline-block;
+    padding: 7px 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    line-height: 1;
+    font-size: 14px;
+    border: 1px solid @border_color;
+    font-weight: 500;
+  }
+  a:last-child {
+    margin-right: 0;
+  }
+  a:hover {
+    color: @white !important;
+    text-decoration: none;
+    background-color: @primary_color !important;
+    border-color: @primary_color;
+  }
+}
+

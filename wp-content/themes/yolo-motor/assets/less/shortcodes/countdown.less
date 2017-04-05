@@ -1,0 +1,47 @@
+// Variables
+.countdown-shortcode-wrap {
+    .countdown-content {
+        // Number style
+        .list-time {
+            list-style: none;
+            list-style-type: none;
+            padding: 0;
+            text-align: center;
+            color: @white;
+            li {
+                position: relative;
+                display: inline-block;
+                padding: 10px 0;
+                background: #c3c3c3;
+                width: 80px;
+                height: 90px;
+                &:before {
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    height: 2px;
+                    width: 15px;
+                    background: #f6f6f6;
+                    z-index: 10;
+                    left: 50%;
+                    transform: translateX(-50%);
+                }
+                p {
+                    margin: 0;
+                    &.countdown-number {
+                        font-size: 24px;
+                    }
+                }
+            }
+        }
+        // Circles Style
+        .time_circles {
+             color: @white;
+            .textDiv_Days, .textDiv_Hours, .textDiv_Minutes, .textDiv_Seconds  {
+                h4, span {
+                    color: @white;
+                }
+            }
+        }
+    }
+}

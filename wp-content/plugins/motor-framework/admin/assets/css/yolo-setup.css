@@ -1,0 +1,62 @@
+#yolo_tools {
+  width: 99%;
+}
+#yolo_tools .item_tools {
+  background: #fff;
+  padding: 6px;
+  cursor: pointer;
+}
+#yolo_tools .item_tools:before {
+  content: "→";
+}
+#yolo_tools .item_tools:hover {
+  font-weight: bold;
+}
+#yolo_tools .yolo_hide {
+  display: none;
+  background: #fff;
+  padding: 10px;
+  margin-top: 15px;
+}
+#yolo_tools .yolo_hide .item {
+  width: 32%;
+  position: relative;
+  text-align: center;
+  float: left;
+  border: 1px solid #ddd;
+  margin: 5px;
+}
+#yolo_tools .yolo_hide .item .button-install {
+  display: none;
+  position: absolute;
+  top: 45%;
+  left: 40%;
+}
+#yolo_tools .yolo_hide .item img {
+  max-width: 100%;
+}
+#yolo_tools .yolo_hide .item .item_footer {
+  border: 1px solid #ddd;
+  padding: 8px 20px;
+}
+#yolo_tools .yolo_hide .item .item_footer .more-detail {
+  float: left;
+}
+.yolo-load-ajax{
+    background-image: url("../images/spinner.gif");
+    bottom: 0;
+    height: 48px;
+    width: 125px;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center center;
+    border-left: 1px solid rgba(0, 0, 0, 0.05);
+    background-color: #FAFAFA ;
+}
+.yolo-load-show{
+    opacity: 1;
+    z-index: 22;
+}

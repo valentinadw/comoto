@@ -1,0 +1,166 @@
+.welcome-panel{
+    .welcome-panel-content{
+        h1{
+            font-size: 30px;
+        }
+        .theme-setup{
+            .logo{
+                padding-top: 30px;
+                p{
+                    font-size: 16px;
+                }
+            }
+        }
+    }
+}
+#tabs-container{
+    background-color: #fff;
+    .nav-tab-wrapper{
+        a{
+            &:focus {
+                box-shadow: none;
+            }
+            &.yolo-disabled{
+                opacity: 0.4;
+                cursor: no-drop;
+                background: #e5e5e5;
+                &:hover{
+                    background: #e5e5e5;
+                }
+            }
+            &.active{
+                background-color: #fff;
+            }
+        }
+    }
+    .tab-content{
+        .tab-pane{
+            display: none;
+            &.active{
+                display: block;
+            }
+        }
+    }
+}
+.yolo-purchase-code-active {
+    #yolo-purchase-code {
+        label{
+            font-size: 16px;
+            font-weight: 600;
+            float: left;
+        }
+		input[type="text"] {
+			min-width: 180px;
+		    width: 60%;
+			display: inline-block;
+			margin-right: 8px;
+			line-height: 26px;
+            margin-left: 20px;
+            float: left;
+		}
+        .get_license_key {
+            margin-top: 5px;
+            float: left;
+            a {
+                font-size: 14px;
+                &:before {
+                    margin-top: 4px;
+                }
+            }
+        }
+		button {
+		    border: none;
+            margin: 30px 0px;
+            margin-left: 30%;
+		    line-height: 26px;
+		    padding: 5px 30px;
+		    text-transform: uppercase;
+		    font-weight: 500;
+		    background: #0085BA;
+		    color: #fff;
+		    cursor: pointer;
+		    > span {
+	    	    margin: 3px;
+		    }
+		    &:focus {
+		    	outline: none;
+		    }
+		    &:hover {
+		    	background: darken(#0085BA, 10%);
+		    }
+		}
+        span{
+            &.dashicons.dashicons-editor-help{
+                width: auto;
+                height: auto;
+                &:before{
+                    vertical-align: middle;
+                    color: #006187;
+                }
+            }
+            a{
+                font-size: 14px;
+            }
+        }
+    }
+}
+.yolo-notice-fixed {
+    position: fixed;
+    top: 70px;
+    right: 30px;
+    z-index: 9;
+    padding: 15px 30px;
+    color: #fff;
+    &.warning {
+	    background: #ff0000;
+    }
+    &.success {
+    	background: #54EF50;
+    }
+}
+
+.yolo-spin-icon {
+  -webkit-animation: yolo-spin-icon 2s infinite linear;
+  animation: yolo-spin-icon 2s infinite linear;
+}
+.yolo-puls-icone {
+  -webkit-animation: yolo-spin-icon 1s infinite steps(8);
+  animation: yolo-spin-icon 1s infinite steps(8);
+}
+@-webkit-keyframes yolo-spin-icon {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes yolo-spin-icon {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+
+.dashicons-dribbble:before {
+    content: '';
+    display: inline-block;
+    background: url(../../../../assets/images/dribbble.svg) no-repeat 0 0;
+    width: 20px;
+    height: 20px;
+}
+/*
+*
+* Install Plugin Style
+ */
+#plugin{
+    .yolo-install-plugin{
+        padding: 30px;
+    }
+}

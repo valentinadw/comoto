@@ -1,0 +1,5201 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Yolo Motor\n"
+"POT-Creation-Date: 2017-03-20 09:18+0700\n"
+"PO-Revision-Date: 2017-03-20 09:18+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: framework/core/functions/action.php:57
+#: framework/core/functions/action.php:136
+msgid "View More"
+msgstr ""
+
+#: framework/core/functions/action.php:77
+#: framework/core/functions/action.php:157
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: framework/core/functions/action.php:374
+msgid "Contact"
+msgstr ""
+
+#: framework/core/functions/action.php:427
+msgid "Specialty"
+msgstr ""
+
+#: framework/core/functions/action.php:435
+msgid "Certificates"
+msgstr ""
+
+#: framework/core/functions/base.php:286
+msgid "Login / Register"
+msgstr ""
+
+#: framework/core/functions/base.php:314
+msgid "My Account"
+msgstr ""
+
+#: framework/core/functions/base.php:317
+msgid "Edit Profile"
+msgstr ""
+
+#: framework/core/functions/base.php:320
+msgid "Logout"
+msgstr ""
+
+#: framework/core/functions/blog.php:20
+msgid "Format"
+msgstr ""
+
+#: framework/core/functions/blog.php:79
+#: framework/core/functions/woocommerce.php:1008
+msgid "Loading..."
+msgstr ""
+
+#: framework/core/functions/blog.php:80
+#: framework/core/functions/woocommerce.php:1009
+#: framework/includes/options-config.php:723
+msgid "Load More"
+msgstr ""
+
+#: framework/core/functions/blog.php:520
+msgid "play"
+msgstr ""
+
+#: framework/core/functions/blog.php:521
+msgid "pause"
+msgstr ""
+
+#: framework/core/functions/blog.php:532
+msgid "mute"
+msgstr ""
+
+#: framework/core/functions/blog.php:535
+msgid "unmute"
+msgstr ""
+
+#: framework/core/functions/blog.php:550
+msgid "shuffle"
+msgstr ""
+
+#: framework/core/functions/blog.php:553
+msgid "shuffle off"
+msgstr ""
+
+#: framework/core/functions/blog.php:556
+msgid "repeat"
+msgstr ""
+
+#: framework/core/functions/blog.php:559
+msgid "repeat off"
+msgstr ""
+
+#: framework/core/functions/blog.php:565
+#, php-format
+msgid ""
+"<span>Update Required</span> To play the media you will need to either "
+"update your browser to a recent version or update your <a href=\"%s\" target="
+"\"_blank\">Flash plugin</a>."
+msgstr ""
+
+#: framework/core/functions/blog.php:632 templates/content-page.php:18
+msgid "Pages:"
+msgstr ""
+
+#: framework/core/functions/blog.php:674
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/core/functions/blog.php:677
+#, php-format
+msgid "%1$s ago"
+msgstr ""
+
+#: framework/core/functions/blog.php:684
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/core/functions/blog.php:689
+msgid "Edit"
+msgstr ""
+
+#: framework/core/functions/blog.php:719
+msgid "Enter Your Name*"
+msgstr ""
+
+#: framework/core/functions/blog.php:720
+msgid "Enter Your Email*"
+msgstr ""
+
+#: framework/core/functions/blog.php:721 framework/core/functions/blog.php:736
+msgid "Enter Your Comment"
+msgstr ""
+
+#: framework/core/functions/blog.php:725
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: framework/core/functions/blog.php:726
+msgid "Leave your thought"
+msgstr ""
+
+#: framework/core/functions/blog.php:727
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: framework/core/functions/blog.php:728
+msgid "Click here to cancel the reply"
+msgstr ""
+
+#: framework/core/functions/blog.php:731
+msgid "Post Comments"
+msgstr ""
+
+#: framework/core/functions/breadcrumb.php:48
+#: framework/core/functions/breadcrumb.php:53 templates/breadcrumb.php:18
+msgid "Home"
+msgstr ""
+
+#: framework/core/functions/breadcrumb.php:118
+#: framework/core/functions/breadcrumb.php:121
+#: framework/core/functions/breadcrumb.php:124
+msgid "Archives for "
+msgstr ""
+
+#: framework/core/functions/breadcrumb.php:126
+msgid "Archives by: "
+msgstr ""
+
+#: framework/core/functions/breadcrumb.php:130
+msgid "Search results for \""
+msgstr ""
+
+#: framework/core/functions/breadcrumb.php:134
+msgid "Page Not Found"
+msgstr ""
+
+#: framework/core/functions/filter.php:19
+msgid "Search Here..."
+msgstr ""
+
+#: framework/core/functions/generate-less.php:48
+msgid "Could not save file"
+msgstr ""
+
+#: framework/core/functions/resize-image.php:43
+msgid "No image URL has been entered."
+msgstr ""
+
+#: framework/core/functions/resize-image.php:82
+msgid "Image is BMP. Please use either JPG or PNG."
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:46
+msgid "Sale"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:76
+#: woocommerce/quick-view/rating.php:29
+#: woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:83
+msgid "out of 5"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:139
+#: framework/includes/meta-boxes.php:845 framework/includes/meta-boxes.php:949
+#: framework/includes/meta-boxes.php:1050
+#: framework/includes/options-config.php:1632
+#: framework/includes/options-config.php:1747
+#: framework/includes/options-config.php:1862
+msgid "Wishlist"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:166
+msgid "Color"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:167
+#: framework/includes/meta-boxes.php:48
+msgid "Image"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:168
+msgid "Label"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:206
+msgid "Select terms"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:218
+msgid "Select all"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:219
+msgid "Select none"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:220
+msgid "Add new"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:252
+#: framework/core/functions/woocommerce.php:336
+#: framework/core/functions/woocommerce.php:421
+msgid "Choose an option"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:728
+msgid "Continue shopping"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:865
+msgid "Product New"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:871
+msgid "Product Hot"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:894
+#: woocommerce/loop/sale-flash.php:25
+#: woocommerce/single-product/sale-flash.php:24
+msgid "New"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:895
+#: woocommerce/loop/sale-flash.php:29
+#: woocommerce/single-product/sale-flash.php:28
+msgid "Hot"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:1068
+msgid "Prev"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:1069
+msgid "Next"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:1114
+msgid "No product categories exist."
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:1117
+#: templates/header/search-with-category.php:23
+msgid "Categories"
+msgstr ""
+
+#: framework/core/functions/woocommerce.php:1119
+msgid "All"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:84
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:88
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:111
+msgid "Move up"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:124
+msgid "Move down"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:126
+#: framework/core/megamenu/edit_custom_walker.php:128
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:137
+msgid "URL"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:144
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:150
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:157
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:162
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:168
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:174
+msgid "Description"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:176
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:186
+msgid "Sub Label"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:192
+msgid "Sub Label Color"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:198
+msgid "Icon"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:214
+msgid "Ex: balance-scale"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:222
+msgid "Size"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:229
+msgid "Icon Alignment"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:231
+#: framework/includes/meta-boxes.php:1388
+#: framework/includes/options-config.php:736
+#: framework/includes/options-config.php:957
+msgid "Left"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:232
+#: framework/includes/meta-boxes.php:1390
+#: framework/includes/options-config.php:738
+#: framework/includes/options-config.php:959
+msgid "Right"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:233
+#: framework/includes/meta-boxes.php:1389
+#: framework/includes/options-config.php:737
+#: framework/includes/options-config.php:958
+msgid "Center"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:246
+msgid "Enable megamenu"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:264
+msgid "Megamenu style"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:267
+msgid "Column"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:268
+msgid "Tab"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:275
+msgid "Megamenu columns"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:278
+#: framework/core/megamenu/edit_custom_walker.php:335
+msgid "Two"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:279
+#: framework/core/megamenu/edit_custom_walker.php:336
+msgid "Three"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:280
+#: framework/core/megamenu/edit_custom_walker.php:337
+msgid "Four"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:281
+msgid "Five"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:282
+msgid "Six"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:290
+#: framework/includes/meta-boxes.php:1332
+msgid "Background Image"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:300
+msgid "Sub menu fullwidth? (only use with Column style)"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:308
+msgid "Hide Mega menu heading?"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:315
+msgid "Mega Menu Widget Area"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:317
+msgid "Select Widget Area"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:331
+msgid "Tab columns (only use with tab style)"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:334
+msgid "One"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:352
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:365
+#: framework/core/tax-meta-class/tax-meta-class.php:373
+#: framework/core/tax-meta-class/tax-meta-class.php:420
+#: woocommerce/wishlist-view.php:251
+msgid "Remove"
+msgstr ""
+
+#: framework/core/megamenu/edit_custom_walker.php:366
+#: woocommerce/wishlist-view.php:41
+msgid "Cancel"
+msgstr ""
+
+#: framework/core/megamenu/megamenu.php:318
+msgid "Caught exception:"
+msgstr ""
+
+#: framework/core/megamenu/megamenu.php:330
+msgid "No menu assigned"
+msgstr ""
+
+#: framework/core/option-extensions/extensions/footer/footer/field_footer.php:102
+#: framework/core/option-extensions/extensions/menu/menu/field_menu.php:93
+msgid "Select an item"
+msgstr ""
+
+#: framework/core/option-extensions/extensions/footer/footer/field_footer.php:126
+msgid ""
+"No items of this type were found. Please activate Yolo Motor Framework "
+"plugin and create footer at Footer Block"
+msgstr ""
+
+#: framework/core/option-extensions/extensions/menu/menu/field_menu.php:118
+msgid "No items of this type were found."
+msgstr ""
+
+#: framework/core/tax-meta-class/tax-meta-class.php:386
+msgid "Add"
+msgstr ""
+
+#: framework/core/tax-meta-class/tax-meta-class.php:719
+msgid "Remove Image"
+msgstr ""
+
+#: framework/core/tax-meta-class/tax-meta-class.php:721
+msgid "Upload Image"
+msgstr ""
+
+#: framework/core/tax-meta-class/tax-meta-class.php:741
+msgid "Select a color"
+msgstr ""
+
+#: framework/core/templates/panel/footer.tpl.php:48
+#: framework/core/templates/panel/header.tpl.php:58
+msgid "Save & Generate CSS"
+msgstr ""
+
+#: framework/core/templates/panel/footer.tpl.php:50
+#: framework/core/templates/panel/header.tpl.php:60
+msgid "Save Changes"
+msgstr ""
+
+#: framework/core/templates/panel/footer.tpl.php:54
+#: framework/core/templates/panel/header.tpl.php:63
+msgid "Reset Section"
+msgstr ""
+
+#: framework/core/templates/panel/footer.tpl.php:55
+#: framework/core/templates/panel/header.tpl.php:64
+msgid "Reset All"
+msgstr ""
+
+#: framework/core/templates/panel/footer.tpl.php:60
+#: framework/core/templates/panel/header.tpl.php:67
+msgid "Working..."
+msgstr ""
+
+#: framework/core/templates/panel/header.tpl.php:11
+#: framework/core/templates/panel/header.tpl.php:46
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: framework/core/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: framework/core/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: framework/core/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: framework/core/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: framework/core/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: framework/core/templates/panel/header.tpl.php:54
+msgid "Expand"
+msgstr ""
+
+#: framework/core/yolo_reduxframework.php:25
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: framework/core/yolo_reduxframework.php:34
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: framework/core/yolo_reduxframework.php:103
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: framework/ct_plugins/meta-box/custom-fields/custom-fields.php:132
+msgid "Yes"
+msgstr ""
+
+#: framework/ct_plugins/meta-box/custom-fields/custom-fields.php:132
+#: framework/vc_extension/update_params.php:24
+msgid "No"
+msgstr ""
+
+#: framework/ct_plugins/meta-box/custom-fields/custom-fields.php:174
+#: framework/includes/meta-boxes.php:159 framework/includes/meta-boxes.php:172
+#: framework/includes/meta-boxes.php:229 framework/includes/meta-boxes.php:342
+#: framework/includes/meta-boxes.php:353 framework/includes/meta-boxes.php:520
+#: framework/includes/meta-boxes.php:677 framework/includes/meta-boxes.php:705
+#: framework/includes/meta-boxes.php:728 framework/includes/meta-boxes.php:773
+#: framework/includes/meta-boxes.php:787 framework/includes/meta-boxes.php:799
+#: framework/includes/meta-boxes.php:858 framework/includes/meta-boxes.php:869
+#: framework/includes/meta-boxes.php:918 framework/includes/meta-boxes.php:961
+#: framework/includes/meta-boxes.php:972 framework/includes/meta-boxes.php:1020
+#: framework/includes/meta-boxes.php:1062
+#: framework/includes/meta-boxes.php:1073
+#: framework/includes/meta-boxes.php:1121
+#: framework/includes/meta-boxes.php:1240
+#: framework/includes/meta-boxes.php:1253
+#: framework/includes/meta-boxes.php:1387
+#: framework/includes/meta-boxes.php:1402
+#: framework/includes/meta-boxes.php:1427
+#: framework/includes/options-config.php:722
+#: framework/includes/options-config.php:1349
+#: framework/includes/options-config.php:1411
+#: framework/includes/options-config.php:1648
+#: framework/includes/options-config.php:1662
+#: framework/includes/options-config.php:1764
+#: framework/includes/options-config.php:1777
+#: framework/includes/options-config.php:1877
+#: framework/includes/options-config.php:1890
+#: framework/includes/options-config.php:2168
+msgid "Default"
+msgstr ""
+
+#: framework/includes/frontend-enqueue.php:147 woocommerce/loop/compare.php:18
+#: woocommerce/loop/compare.php:19
+#: woocommerce/single-product/product-function.php:17
+#: woocommerce/single-product/product-function.php:18
+msgid "Compare"
+msgstr ""
+
+#: framework/includes/frontend-enqueue.php:148
+msgid "WishList"
+msgstr ""
+
+#: framework/includes/frontend-enqueue.php:149
+msgid "Browse WishList"
+msgstr ""
+
+#: framework/includes/frontend-enqueue.php:150
+msgid "Quick View"
+msgstr ""
+
+#: framework/includes/frontend-enqueue.php:151
+msgid "Add To Cart"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:43
+msgid "Post Format: Image"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:52
+msgid "Select a image for post"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:60
+msgid "Post Format: Gallery"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:65 templates/archive-heading.php:47
+msgid "Images"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:68
+msgid "Select images gallery for post"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:76
+msgid "Post Format: Video"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:81
+msgid "Video URL or Embeded Code"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:91
+msgid "Post Format: Audio"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:96
+msgid "Audio URL or Embeded Code"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:106
+msgid "Post Format: Quote"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:111
+msgid "Quote"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:116
+msgid "Author"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:121
+msgid "Author Url"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:130
+msgid "Post Format: Link"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:135
+msgid "Url"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:140
+msgid "Text"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:150 framework/includes/meta-boxes.php:168
+msgid "Page Layout"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:155
+#: framework/includes/options-config.php:179
+msgid "Layout Style"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:160 templates/switch-selector.php:45
+msgid "Boxed"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:161 templates/switch-selector.php:43
+msgid "Wide"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:162
+msgid "Float"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:173 framework/includes/meta-boxes.php:1254
+#: framework/includes/options-config.php:469
+#: framework/includes/options-config.php:657
+#: framework/vc_extension/update_params.php:128
+msgid "Full Width"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:174 framework/includes/meta-boxes.php:354
+#: framework/includes/meta-boxes.php:678 framework/includes/meta-boxes.php:1255
+#: framework/includes/options-config.php:470
+#: framework/includes/options-config.php:658
+#: framework/includes/options-config.php:1258
+#: framework/includes/options-config.php:1449
+#: framework/vc_extension/update_params.php:127
+msgid "Container"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:175 framework/includes/meta-boxes.php:1256
+#: framework/includes/options-config.php:471
+#: framework/includes/options-config.php:659
+#: framework/vc_extension/update_params.php:129
+msgid "Container Fluid"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:182
+msgid "Page background color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:184
+msgid "Optionally set background color for the page."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:189
+msgid "Page Sidebar"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:205
+#: framework/includes/options-config.php:512
+#: framework/includes/options-config.php:696
+#: framework/includes/options-config.php:922
+#: framework/includes/options-config.php:1013
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:209 framework/includes/meta-boxes.php:219
+#: framework/includes/meta-boxes.php:395 framework/includes/meta-boxes.php:406
+#: framework/includes/meta-boxes.php:416
+msgid "Select Sidebar"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:215
+#: framework/includes/options-config.php:522
+#: framework/includes/options-config.php:707
+#: framework/includes/options-config.php:933
+#: framework/includes/options-config.php:1024
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:225
+#: framework/includes/options-config.php:501
+#: framework/includes/options-config.php:682
+#: framework/includes/options-config.php:911
+#: framework/includes/options-config.php:1001
+#: framework/includes/options-config.php:3027
+msgid "Sidebar Width"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:230
+#: framework/includes/options-config.php:686
+msgid "Small (1/4)"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:231
+#: framework/includes/options-config.php:687
+msgid "Large (1/3)"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:239
+msgid "Page Class Extra"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:332
+msgid "Page Top"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:337
+#: framework/includes/options-config.php:1249
+msgid "Show/Hide Top Bar"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:343 framework/includes/meta-boxes.php:1241
+#: framework/includes/meta-boxes.php:1428
+msgid "Show"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:344 framework/includes/meta-boxes.php:1242
+#: framework/includes/meta-boxes.php:1429
+msgid "Hide"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:349
+#: framework/includes/options-config.php:1256
+msgid "Top bar layout width"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:355 framework/includes/meta-boxes.php:679
+#: framework/includes/options-config.php:1259
+#: framework/includes/options-config.php:1450
+msgid "Full width"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:361
+#: framework/includes/options-config.php:1267
+msgid "Top bar padding left/right (px)"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:374
+msgid "Top Bar Layout"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:390
+#: framework/includes/options-config.php:1292
+msgid "Top Left Sidebar"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:401
+#: framework/includes/options-config.php:1302
+msgid "Top Right Sidebar"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:411
+#: framework/includes/options-config.php:1312
+msgid "Top Center Sidebar"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:420
+msgid "Top Bar Scheme"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:425
+msgid "Customize Top Bar Color?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:432
+msgid "Top bar text color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:434
+msgid "Set top bar text color."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:440
+msgid "Top bar background color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:442
+msgid "Set top bar background color."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:448
+msgid "Top bar background color opacity"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:450
+msgid "Set the opacity level of the top bar background color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:469
+msgid "Page Header"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:474
+msgid "Header On/Off?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:477
+msgid "Switch header ON or OFF?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:482
+msgid "Header Customize On/Off?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:485
+msgid "Switch header customize ON or OFF?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:490
+#: framework/includes/options-config.php:1323
+#: framework/includes/options-config.php:1968
+msgid "Header Layout"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:508
+#: framework/includes/options-config.php:1341
+msgid "Header Scheme"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:516
+#: framework/includes/options-config.php:1347
+msgid "Header scheme"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:521 framework/includes/meta-boxes.php:729
+#: framework/includes/options-config.php:1350
+#: framework/includes/options-config.php:1412
+#: framework/includes/options-config.php:2169
+msgid "Customize"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:528
+msgid "Header border color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:529 framework/includes/meta-boxes.php:554
+msgid "Set header border color."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:537
+msgid "Header border color opacity"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:538
+msgid "Set the opacity level of the header border color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:553
+#: framework/includes/options-config.php:1390
+msgid "Header text color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:562
+msgid "Header background color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:563
+msgid "Set header background color."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:571
+#: framework/includes/options-config.php:1369
+msgid "Header background color opacity"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:572
+msgid "Set the opacity level of the header background color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:587
+msgid "Header Background Image"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:588
+msgid "Set header background image"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:597
+msgid "Header Background Repeat"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:598
+msgid "Set header background repeat"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:600
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:603
+msgid "No Repeat"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:604
+msgid "Repeat"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:605
+msgid "Repeat-x"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:606
+msgid "Repeat-y"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:607 framework/includes/meta-boxes.php:620
+#: framework/includes/meta-boxes.php:637 framework/includes/meta-boxes.php:800
+#: framework/includes/options-config.php:1512
+msgid "Inherit"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:614
+msgid "Header Background Size"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:615
+msgid "Set header background size"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:617
+msgid "Background size"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:621
+msgid "Cover"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:622
+msgid "Contain"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:629
+msgid "Header Background Attachment"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:630
+msgid "Set header background attachment"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:632
+msgid "Background attachment"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:635
+msgid "Fixed"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:636
+msgid "Scroll"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:644
+msgid "Header Background Position"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:645
+msgid "Set header background position"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:647
+msgid "Background position"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:650
+msgid "Left top"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:651
+msgid "Left center"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:652
+msgid "Left bottom"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:653
+msgid "Center top"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:654
+msgid "Center center"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:655
+msgid "Center bottom"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:656
+msgid "Right top"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:657
+msgid "Right center"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:658
+msgid "Right bottom"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:665
+#: framework/includes/options-config.php:1400
+msgid "Header Navigation"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:673
+#: framework/includes/options-config.php:1447
+msgid "Header navigation layout"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:686
+#: framework/includes/options-config.php:1458
+msgid "Header navigation padding left/right (px)"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:701
+#: framework/includes/options-config.php:1469
+msgid "Header navigation hover"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:715
+#: framework/includes/options-config.php:1480
+msgid "Header navigation distance"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:716
+#: framework/includes/options-config.php:1481
+msgid "You can set distance between navigation items. Empty value to default"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:723
+#: framework/includes/options-config.php:1407
+msgid "Header navigation scheme"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:725
+#: framework/includes/options-config.php:1408
+msgid "Set header navigation scheme"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:735
+#: framework/includes/options-config.php:1419
+msgid "Header navigation background color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:737
+msgid "Set header navigation background color."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:744 framework/includes/meta-boxes.php:1360
+msgid "Overlay Opacity"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:746
+msgid "Set the opacity level of the header navigation background color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:759
+#: framework/includes/options-config.php:1437
+msgid "Header navigation text color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:761
+msgid "Set header navigation text color."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:768
+#: framework/includes/options-config.php:1492
+msgid "Header Float"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:774 framework/includes/meta-boxes.php:1403
+msgid "Enable"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:775 framework/includes/meta-boxes.php:1404
+msgid "Disable"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:777
+msgid "Enable/disable header float."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:782
+msgid "Header Sticky"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:788
+msgid "Enable Header Sticky"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:789
+msgid "Disable Header Sticky"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:795
+#: framework/includes/options-config.php:1508
+msgid "Header sticky scheme"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:801
+#: framework/includes/options-config.php:1513
+msgid "Gray"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:802
+#: framework/includes/options-config.php:1514
+msgid "Light"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:803
+#: framework/includes/options-config.php:1515
+msgid "Dark"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:814
+msgid "Page Header Customize"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:820 framework/includes/meta-boxes.php:833
+#: framework/includes/options-config.php:1616
+msgid "Header Customize Navigation"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:826
+msgid "Set header customize navigation?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:837
+msgid ""
+"Select element for header customize navigation. Drag to change element order"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:839 framework/includes/meta-boxes.php:943
+#: framework/includes/meta-boxes.php:1044
+#: framework/includes/options-config.php:1630
+#: framework/includes/options-config.php:1745
+#: framework/includes/options-config.php:1861
+#: framework/includes/options-config.php:2066
+msgid "Shopping Cart"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:840 framework/includes/meta-boxes.php:944
+#: framework/includes/meta-boxes.php:1045
+#: framework/includes/options-config.php:1631
+#: framework/includes/options-config.php:1746
+#: framework/includes/options-config.php:1857
+msgid "Shopping Cart With Price"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:841 framework/includes/meta-boxes.php:945
+#: framework/includes/meta-boxes.php:1046
+#: framework/includes/options-config.php:1633
+#: framework/includes/options-config.php:1748
+#: framework/includes/options-config.php:1863
+msgid "Search Button"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:842 framework/includes/meta-boxes.php:946
+#: framework/includes/meta-boxes.php:1047
+#: framework/includes/options-config.php:1634
+#: framework/includes/options-config.php:1749
+#: framework/includes/options-config.php:1864
+#: framework/includes/options-config.php:2059
+msgid "Search Box"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:843 framework/includes/meta-boxes.php:947
+#: framework/includes/meta-boxes.php:1048
+#: framework/includes/options-config.php:1635
+#: framework/includes/options-config.php:1742
+#: framework/includes/options-config.php:1860
+msgid "Search Box With Shop Category"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:844 framework/includes/meta-boxes.php:948
+#: framework/includes/meta-boxes.php:1049
+#: framework/includes/options-config.php:1626
+#: framework/includes/options-config.php:1751
+#: framework/includes/options-config.php:1865
+msgid "Social Profile"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:846 framework/includes/meta-boxes.php:950
+#: framework/includes/meta-boxes.php:1051
+#: framework/includes/options-config.php:1636
+#: framework/includes/options-config.php:1752
+#: framework/includes/options-config.php:1856
+msgid "Custom Text"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:847 framework/includes/meta-boxes.php:951
+#: framework/includes/meta-boxes.php:1052
+#: framework/includes/options-config.php:1627
+#: framework/includes/options-config.php:1753
+#: framework/includes/options-config.php:1866
+msgid "Canvas Menu"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:853 framework/includes/meta-boxes.php:956
+#: framework/includes/meta-boxes.php:1057
+msgid "Search button style"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:859 framework/includes/meta-boxes.php:870
+#: framework/includes/meta-boxes.php:962 framework/includes/meta-boxes.php:973
+#: framework/includes/meta-boxes.php:1063
+#: framework/includes/meta-boxes.php:1074
+#: framework/includes/options-config.php:1649
+#: framework/includes/options-config.php:1663
+#: framework/includes/options-config.php:1765
+#: framework/includes/options-config.php:1778
+#: framework/includes/options-config.php:1878
+#: framework/includes/options-config.php:1891
+msgid "Round"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:860 framework/includes/meta-boxes.php:871
+#: framework/includes/meta-boxes.php:963 framework/includes/meta-boxes.php:974
+#: framework/includes/meta-boxes.php:1064
+#: framework/includes/meta-boxes.php:1075
+#: framework/includes/options-config.php:1650
+#: framework/includes/options-config.php:1664
+#: framework/includes/options-config.php:1766
+#: framework/includes/options-config.php:1779
+#: framework/includes/options-config.php:1879
+#: framework/includes/options-config.php:1892
+msgid "Bordered"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:864 framework/includes/meta-boxes.php:967
+#: framework/includes/meta-boxes.php:1068
+#: framework/includes/options-config.php:1658
+#: framework/includes/options-config.php:1773
+#: framework/includes/options-config.php:1886
+msgid "Shopping cart Style"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:875
+#: framework/includes/options-config.php:1674
+#: framework/includes/options-config.php:1788
+#: framework/includes/options-config.php:1901
+msgid "Custom social profiles"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:878 framework/includes/meta-boxes.php:981
+#: framework/includes/meta-boxes.php:1082
+msgid "Select social profiles"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:882 framework/includes/meta-boxes.php:985
+#: framework/includes/meta-boxes.php:1086
+#: framework/includes/options-config.php:332
+#: framework/includes/options-config.php:1677
+#: framework/includes/options-config.php:1791
+#: framework/includes/options-config.php:1904
+#: framework/includes/yolo-dash/yolo-setup-install.php:134
+#: framework/includes/yolo-dash/yolo-setup-install.php:283
+msgid "Twitter"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:883 framework/includes/meta-boxes.php:986
+#: framework/includes/meta-boxes.php:1087
+#: framework/includes/options-config.php:333
+#: framework/includes/options-config.php:1678
+#: framework/includes/options-config.php:1792
+#: framework/includes/options-config.php:1905
+#: framework/includes/yolo-dash/yolo-setup-install.php:136
+#: framework/includes/yolo-dash/yolo-setup-install.php:284
+msgid "Facebook"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:884 framework/includes/meta-boxes.php:987
+#: framework/includes/meta-boxes.php:1088
+#: framework/includes/options-config.php:334
+#: framework/includes/options-config.php:1679
+#: framework/includes/options-config.php:1793
+#: framework/includes/options-config.php:1906
+#: framework/includes/yolo-dash/yolo-setup-install.php:135
+msgid "Dribbble"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:885 framework/includes/meta-boxes.php:988
+#: framework/includes/meta-boxes.php:1089
+#: framework/includes/options-config.php:335
+#: framework/includes/options-config.php:1680
+#: framework/includes/options-config.php:1794
+#: framework/includes/options-config.php:1907
+msgid "Vimeo"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:886 framework/includes/meta-boxes.php:989
+#: framework/includes/meta-boxes.php:1090
+#: framework/includes/options-config.php:336
+#: framework/includes/options-config.php:1681
+#: framework/includes/options-config.php:1795
+#: framework/includes/options-config.php:1908
+msgid "Tumblr"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:887 framework/includes/meta-boxes.php:990
+#: framework/includes/meta-boxes.php:1091
+#: framework/includes/options-config.php:337
+#: framework/includes/options-config.php:1682
+#: framework/includes/options-config.php:1796
+#: framework/includes/options-config.php:1909
+msgid "Skype"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:888 framework/includes/meta-boxes.php:991
+#: framework/includes/meta-boxes.php:1092
+#: framework/includes/options-config.php:338
+#: framework/includes/options-config.php:1683
+#: framework/includes/options-config.php:1797
+#: framework/includes/options-config.php:1910
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:889 framework/includes/meta-boxes.php:992
+#: framework/includes/meta-boxes.php:1093
+#: framework/includes/options-config.php:339
+#: framework/includes/options-config.php:1684
+#: framework/includes/options-config.php:1798
+#: framework/includes/options-config.php:1911
+msgid "Google+"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:890 framework/includes/meta-boxes.php:993
+#: framework/includes/meta-boxes.php:1094
+#: framework/includes/options-config.php:340
+#: framework/includes/options-config.php:1685
+#: framework/includes/options-config.php:1799
+#: framework/includes/options-config.php:1912
+msgid "Flickr"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:891 framework/includes/meta-boxes.php:994
+#: framework/includes/meta-boxes.php:1095
+#: framework/includes/options-config.php:341
+#: framework/includes/options-config.php:1686
+#: framework/includes/options-config.php:1800
+#: framework/includes/options-config.php:1913
+msgid "YouTube"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:892 framework/includes/meta-boxes.php:995
+#: framework/includes/meta-boxes.php:1096
+#: framework/includes/options-config.php:342
+#: framework/includes/options-config.php:1687
+#: framework/includes/options-config.php:1801
+#: framework/includes/options-config.php:1914
+msgid "Pinterest"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:893 framework/includes/meta-boxes.php:996
+#: framework/includes/meta-boxes.php:1097
+#: framework/includes/options-config.php:343
+#: framework/includes/options-config.php:1688
+#: framework/includes/options-config.php:1802
+#: framework/includes/options-config.php:1915
+msgid "Foursquare"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:894 framework/includes/meta-boxes.php:997
+#: framework/includes/meta-boxes.php:1098
+#: framework/includes/options-config.php:344
+#: framework/includes/options-config.php:1689
+#: framework/includes/options-config.php:1803
+#: framework/includes/options-config.php:1916
+msgid "Instagram"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:895 framework/includes/meta-boxes.php:998
+#: framework/includes/meta-boxes.php:1099
+#: framework/includes/options-config.php:345
+#: framework/includes/options-config.php:1690
+#: framework/includes/options-config.php:1804
+#: framework/includes/options-config.php:1917
+msgid "GitHub"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:896 framework/includes/meta-boxes.php:999
+#: framework/includes/meta-boxes.php:1100
+#: framework/includes/options-config.php:346
+#: framework/includes/options-config.php:1691
+#: framework/includes/options-config.php:1805
+#: framework/includes/options-config.php:1918
+msgid "Xing"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:897 framework/includes/meta-boxes.php:1000
+#: framework/includes/meta-boxes.php:1101
+#: framework/includes/options-config.php:347
+#: framework/includes/options-config.php:1692
+#: framework/includes/options-config.php:1806
+#: framework/includes/options-config.php:1919
+msgid "Behance"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:898 framework/includes/meta-boxes.php:1001
+#: framework/includes/meta-boxes.php:1102
+#: framework/includes/options-config.php:348
+#: framework/includes/options-config.php:1693
+#: framework/includes/options-config.php:1807
+#: framework/includes/options-config.php:1920
+msgid "Deviantart"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:899 framework/includes/meta-boxes.php:1002
+#: framework/includes/meta-boxes.php:1103
+#: framework/includes/options-config.php:349
+#: framework/includes/options-config.php:1694
+#: framework/includes/options-config.php:1808
+#: framework/includes/options-config.php:1921
+msgid "SoundCloud"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:900 framework/includes/meta-boxes.php:1003
+#: framework/includes/meta-boxes.php:1104
+#: framework/includes/options-config.php:350
+#: framework/includes/options-config.php:1695
+#: framework/includes/options-config.php:1809
+#: framework/includes/options-config.php:1922
+msgid "Yelp"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:901 framework/includes/meta-boxes.php:1004
+#: framework/includes/meta-boxes.php:1105
+#: framework/includes/options-config.php:351
+#: framework/includes/options-config.php:1696
+#: framework/includes/options-config.php:1810
+#: framework/includes/options-config.php:1923
+msgid "RSS Feed"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:902 framework/includes/meta-boxes.php:1005
+#: framework/includes/meta-boxes.php:1106
+#: framework/includes/options-config.php:352
+#: framework/includes/options-config.php:1697
+#: framework/includes/options-config.php:1811
+#: framework/includes/options-config.php:1924
+#: framework/includes/options-config.php:2693
+#: woocommerce/myaccount/form-login.php:93
+msgid "Email address"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:906
+msgid "Custom text content"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:913 framework/includes/meta-boxes.php:1015
+#: framework/includes/meta-boxes.php:1116
+#: framework/includes/options-config.php:1720
+#: framework/includes/options-config.php:1834
+#: framework/includes/options-config.php:1947
+msgid "Header customize separate"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:919 framework/includes/meta-boxes.php:1021
+#: framework/includes/meta-boxes.php:1122
+#: framework/includes/options-config.php:146
+#: framework/includes/options-config.php:1723
+#: framework/includes/options-config.php:1837
+#: framework/includes/options-config.php:1950
+msgid "Off"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:920 framework/includes/meta-boxes.php:1022
+#: framework/includes/meta-boxes.php:1123
+#: framework/includes/options-config.php:145
+#: framework/includes/options-config.php:1724
+#: framework/includes/options-config.php:1838
+#: framework/includes/options-config.php:1951
+msgid "On"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:925 framework/includes/meta-boxes.php:937
+#: framework/includes/options-config.php:1732
+msgid "Header Customize Left"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:931
+msgid "Set header customize left?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:941
+msgid "Select element for header customize left. Drag to change element order"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:978
+msgid "Custom social profiles left"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1009
+msgid "Custom text content left"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1027
+#: framework/includes/meta-boxes.php:1038
+#: framework/includes/options-config.php:1846
+msgid "Header Customize Right"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1032
+msgid "Set header customize right?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1042
+msgid "Select element for header customize right. Drag to change element order"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1079
+msgid "Custom social profiles right"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1110
+msgid "Custom text content right"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1132
+#: framework/includes/options-config.php:1168
+msgid "Logo"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1138
+msgid "Custom Logo"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1139
+msgid "Upload custom logo in header."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1145
+msgid "Customize Logo Position"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1152
+msgid "Logo max height"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1153
+msgid "Logo max height. Insert number only (empty to set default value)"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1161
+msgid "Logo padding top"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1162
+msgid "Logo padding top. Insert number only (empty to set default value)"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1170
+msgid "Logo padding bottom"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1171
+msgid "Logo padding bottom. Insert number only (empty to set default value)"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1179
+#: framework/includes/options-config.php:1221
+msgid "Sticky Logo"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1180
+msgid "Upload sticky logo in header (empty to default)"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1190
+msgid "Menu"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1195
+msgid "Page menu"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1199
+#: framework/includes/meta-boxes.php:1210
+msgid "Select Menu"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1202
+msgid "Optionally you can choose to override the menu that is used on the page"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1206
+msgid "Page menu mobile"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1213
+msgid ""
+"Optionally you can choose to override the menu mobile that is used on the "
+"page"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1230
+msgid "Page Title"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1235
+msgid "Show/Hide Page Title?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1249
+#: framework/includes/options-config.php:547
+msgid "Page Title Layout"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1265
+msgid "Custom Page Title"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1267
+#: framework/includes/meta-boxes.php:1277
+msgid "Enter a custom page title if you'd like."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1275
+msgid "Custom Page Subtitle"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1284
+msgid "Page Title Scheme"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1292
+msgid "Page Title Text Color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1294
+msgid "Optionally set a text color for the page title."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1302
+msgid "Page Sub Title Text Color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1304
+msgid "Optionally set a text color for the page sub title."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1313
+#: framework/includes/options-config.php:2196
+#: framework/includes/options-config.php:2203
+msgid "Page Title Background Color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1315
+msgid "Optionally set a background color for the page title."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1322
+msgid "Custom Background Image?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1333
+msgid "Background Image for page title."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1342
+msgid "Page Title Overlay Color"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1343
+msgid "Set an overlay color for page title image."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1350
+msgid "Custom Overlay Opacity?"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1362
+msgid ""
+"Set the opacity level of the overlay. This will lighten or darken the image "
+"depening on the color selected."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1375
+msgid "Page Title Style"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1382
+#: framework/includes/options-config.php:582
+msgid "Page Title Text Align"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1384
+#: framework/includes/options-config.php:583
+msgid "Set Page Title Text Align"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1397
+#: framework/includes/options-config.php:593
+msgid "Page Title Parallax"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1399
+#: framework/includes/options-config.php:594
+msgid "Enable Page Title Parallax"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1412
+#: framework/includes/options-config.php:604 framework/includes/tax-meta.php:42
+msgid "Page Title Height"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1414
+msgid "Enter a page title height value (not include unit)."
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1422
+#: framework/includes/options-config.php:629
+#: framework/includes/options-config.php:869
+#: framework/includes/options-config.php:1151
+msgid "Breadcrumbs"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1424
+msgid "Show/Hide Breadcrumbs"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1434
+msgid "Remove Margin Top"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1440
+msgid "Remove Margin Bottom"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1452
+msgid "Page Footer"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1457
+msgid "Select Footer"
+msgstr ""
+
+#: framework/includes/meta-boxes.php:1460
+msgid "Select footer to override footer selected in Theme Options"
+msgstr ""
+
+#: framework/includes/options-config.php:83
+msgid "General Setting"
+msgstr ""
+
+#: framework/includes/options-config.php:84
+msgid "Welcome to Motor theme options panel! Have fun customize the theme!"
+msgstr ""
+
+#: framework/includes/options-config.php:90
+msgid "Page Preloader"
+msgstr ""
+
+#: framework/includes/options-config.php:91
+msgid "Select Page Preloader. Leave empty if you don't want to use."
+msgstr ""
+
+#: framework/includes/options-config.php:120
+msgid "Preloader background color"
+msgstr ""
+
+#: framework/includes/options-config.php:121
+msgid "Set Preloader background color."
+msgstr ""
+
+#: framework/includes/options-config.php:131
+msgid "Preloader spinner color"
+msgstr ""
+
+#: framework/includes/options-config.php:132
+msgid "Pick a preloader spinner color for the Top Bar"
+msgstr ""
+
+#: framework/includes/options-config.php:141
+msgid "Switch Demo Options"
+msgstr ""
+
+#: framework/includes/options-config.php:142
+msgid "Enable/Disable Switch Demo Options at front-end"
+msgstr ""
+
+#: framework/includes/options-config.php:154
+msgid "Smooth Scroll"
+msgstr ""
+
+#: framework/includes/options-config.php:155
+msgid "Enable/Disable Smooth Scroll"
+msgstr ""
+
+#: framework/includes/options-config.php:162
+msgid "Back To Top"
+msgstr ""
+
+#: framework/includes/options-config.php:163
+msgid "Enable/Disable Back to top button"
+msgstr ""
+
+#: framework/includes/options-config.php:170
+msgid "Enable RTL mode"
+msgstr ""
+
+#: framework/includes/options-config.php:171
+msgid "Enable/Disable RTL mode"
+msgstr ""
+
+#: framework/includes/options-config.php:180
+msgid "Select the layout style"
+msgstr ""
+
+#: framework/includes/options-config.php:193
+msgid "Body Background Mode"
+msgstr ""
+
+#: framework/includes/options-config.php:194
+msgid "Chose Background Mode"
+msgstr ""
+
+#: framework/includes/options-config.php:208
+msgid "Body Background"
+msgstr ""
+
+#: framework/includes/options-config.php:209
+msgid "Body background (Apply for Boxed layout style)."
+msgstr ""
+
+#: framework/includes/options-config.php:224
+msgid "Background Pattern"
+msgstr ""
+
+#: framework/includes/options-config.php:225
+msgid "Body background pattern(Apply for Boxed layout style)"
+msgstr ""
+
+#: framework/includes/options-config.php:248
+msgid "Google API Key"
+msgstr ""
+
+#: framework/includes/options-config.php:249
+msgid "Set google API Key for Map"
+msgstr ""
+
+#: framework/includes/options-config.php:257
+msgid "Enhancement"
+msgstr ""
+
+#: framework/includes/options-config.php:265
+msgid "Coming Soon / Maintenance Mode"
+msgstr ""
+
+#: framework/includes/options-config.php:266
+msgid "Enable/Disable your site coming soon / maintenance mode."
+msgstr ""
+
+#: framework/includes/options-config.php:280
+msgid "Custom Maintenance Mode Page"
+msgstr ""
+
+#: framework/includes/options-config.php:281
+msgid ""
+"If you would like to show a custom page instead of the standard Maintenance "
+"page, select the page that is your maintenace page, ."
+msgstr ""
+
+#: framework/includes/options-config.php:291
+msgid "Maintenance title"
+msgstr ""
+
+#: framework/includes/options-config.php:292
+msgid "Insert coming soon title."
+msgstr ""
+
+#: framework/includes/options-config.php:300
+msgid "Maintenance Background"
+msgstr ""
+
+#: framework/includes/options-config.php:301
+msgid "Select maintenance background image."
+msgstr ""
+
+#: framework/includes/options-config.php:311
+msgid "Online time"
+msgstr ""
+
+#: framework/includes/options-config.php:312
+msgid "Your page will automatic end maintenance mode after this time."
+msgstr ""
+
+#: framework/includes/options-config.php:319
+msgid "Timezone"
+msgstr ""
+
+#: framework/includes/options-config.php:320
+msgid ""
+"You can change timezone from here. More details: http://php.net/manual/en/"
+"timezones.php"
+msgstr ""
+
+#: framework/includes/options-config.php:329
+msgid "Maintenance social profiles"
+msgstr ""
+
+#: framework/includes/options-config.php:330
+msgid "Select social profile for maintenance page."
+msgstr ""
+
+#: framework/includes/options-config.php:360
+msgid "Enable Minifier HTML File"
+msgstr ""
+
+#: framework/includes/options-config.php:361
+msgid "Enable/Disable Minifier HTML File"
+msgstr ""
+
+#: framework/includes/options-config.php:367
+msgid "Enable Minifier JS File"
+msgstr ""
+
+#: framework/includes/options-config.php:368
+msgid "Enable/Disable Minifier JS File"
+msgstr ""
+
+#: framework/includes/options-config.php:374
+msgid "Enable Minifier CSS File"
+msgstr ""
+
+#: framework/includes/options-config.php:375
+msgid "Enable/Disable Minifier CSS File"
+msgstr ""
+
+#: framework/includes/options-config.php:382
+msgid "CDN Font Awesome"
+msgstr ""
+
+#: framework/includes/options-config.php:383
+#: framework/includes/options-config.php:391
+#: framework/includes/options-config.php:399
+msgid "If you leave this field empty, theme will use version in theme folder."
+msgstr ""
+
+#: framework/includes/options-config.php:390
+msgid "CDN Bootstrap CSS"
+msgstr ""
+
+#: framework/includes/options-config.php:398
+msgid "CDN Bootstrap JS"
+msgstr ""
+
+#: framework/includes/options-config.php:407
+msgid "404 Setting"
+msgstr ""
+
+#: framework/includes/options-config.php:415
+msgid "Page Title 404"
+msgstr ""
+
+#: framework/includes/options-config.php:416
+msgid "The page"
+msgstr ""
+
+#: framework/includes/options-config.php:421
+msgid "SubPage Title 404"
+msgstr ""
+
+#: framework/includes/options-config.php:422
+msgid "You are looking for does not exist"
+msgstr ""
+
+#: framework/includes/options-config.php:428
+msgid "Background 404 page"
+msgstr ""
+
+#: framework/includes/options-config.php:429
+msgid "Upload your background image here."
+msgstr ""
+
+#: framework/includes/options-config.php:438
+msgid "404 Heading"
+msgstr ""
+
+#: framework/includes/options-config.php:439
+msgid "404 error"
+msgstr ""
+
+#: framework/includes/options-config.php:444
+msgid "Go back label"
+msgstr ""
+
+#: framework/includes/options-config.php:445
+msgid "Please return to homepage"
+msgstr ""
+
+#: framework/includes/options-config.php:450
+msgid "Go back link"
+msgstr ""
+
+#: framework/includes/options-config.php:458
+msgid "Pages Setting"
+msgstr ""
+
+#: framework/includes/options-config.php:465
+#: framework/includes/options-config.php:653
+#: framework/includes/options-config.php:886
+#: framework/includes/options-config.php:976
+#: framework/vc_extension/update_params.php:124
+#: templates/switch-selector.php:39
+msgid "Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:466
+msgid "Select Page Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:479
+msgid "Page Background Color"
+msgstr ""
+
+#: framework/includes/options-config.php:480
+msgid "Select page background color."
+msgstr ""
+
+#: framework/includes/options-config.php:487
+#: framework/includes/options-config.php:667
+#: framework/includes/options-config.php:896
+#: framework/includes/options-config.php:986
+msgid "Sidebar"
+msgstr ""
+
+#: framework/includes/options-config.php:488
+#: framework/includes/options-config.php:668
+#: framework/includes/options-config.php:897
+#: framework/includes/options-config.php:987
+msgid "Set Sidebar Style"
+msgstr ""
+
+#: framework/includes/options-config.php:502
+#: framework/includes/options-config.php:683
+#: framework/includes/options-config.php:912
+#: framework/includes/options-config.php:1002
+#: framework/includes/options-config.php:3028
+#: framework/includes/options-config.php:3225
+msgid "Set Sidebar width"
+msgstr ""
+
+#: framework/includes/options-config.php:533
+msgid "Page Title Setting"
+msgstr ""
+
+#: framework/includes/options-config.php:540
+msgid "Show Page Title"
+msgstr ""
+
+#: framework/includes/options-config.php:541
+msgid "Show/Hide Page Title"
+msgstr ""
+
+#: framework/includes/options-config.php:548
+msgid "Select Page Title Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:565
+msgid "Page Title Margin"
+msgstr ""
+
+#: framework/includes/options-config.php:566
+msgid "This must be numeric (no px). Leave blank for default value."
+msgstr ""
+
+#: framework/includes/options-config.php:567
+msgid ""
+"If you would like to override the default page title top/bottom margin, "
+"please set it here."
+msgstr ""
+
+#: framework/includes/options-config.php:605
+msgid "You can set a height for the page title here"
+msgstr ""
+
+#: framework/includes/options-config.php:617
+msgid "Page Title Background"
+msgstr ""
+
+#: framework/includes/options-config.php:618
+msgid "Upload page title background."
+msgstr ""
+
+#: framework/includes/options-config.php:630
+msgid "Enable/Disable Breadcrumbs In Pages"
+msgstr ""
+
+#: framework/includes/options-config.php:636
+msgid "Page Comment"
+msgstr ""
+
+#: framework/includes/options-config.php:637
+msgid "Enable/Disable page comment"
+msgstr ""
+
+#: framework/includes/options-config.php:645
+msgid "Archive Page"
+msgstr ""
+
+#: framework/includes/options-config.php:654
+msgid "Select Archive Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:697
+msgid "Choose the default left sidebar"
+msgstr ""
+
+#: framework/includes/options-config.php:708
+msgid "Choose the default right sidebar"
+msgstr ""
+
+#: framework/includes/options-config.php:718
+#: framework/includes/options-config.php:944
+msgid "Paging Style"
+msgstr ""
+
+#: framework/includes/options-config.php:719
+msgid "Select archive paging style"
+msgstr ""
+
+#: framework/includes/options-config.php:724
+msgid "Infinity Scroll"
+msgstr ""
+
+#: framework/includes/options-config.php:732
+#: framework/includes/options-config.php:953
+msgid "Paging Align"
+msgstr ""
+
+#: framework/includes/options-config.php:733
+msgid "Select archive paging align"
+msgstr ""
+
+#: framework/includes/options-config.php:746
+msgid "Archive Display Type"
+msgstr ""
+
+#: framework/includes/options-config.php:747
+msgid "Select archive display type"
+msgstr ""
+
+#: framework/includes/options-config.php:750
+msgid "Large Image"
+msgstr ""
+
+#: framework/includes/options-config.php:751
+msgid "Medium Image"
+msgstr ""
+
+#: framework/includes/options-config.php:752
+msgid "Grid"
+msgstr ""
+
+#: framework/includes/options-config.php:753
+#: framework/includes/options-config.php:2974
+msgid "Masonry"
+msgstr ""
+
+#: framework/includes/options-config.php:761
+msgid "Archive Display Columns"
+msgstr ""
+
+#: framework/includes/options-config.php:762
+msgid "Choose the number of columns to display on archive pages."
+msgstr ""
+
+#: framework/includes/options-config.php:776
+msgid "Archive Title Setting"
+msgstr ""
+
+#: framework/includes/options-config.php:783
+#: framework/includes/options-config.php:3071
+msgid "Show Archive Title"
+msgstr ""
+
+#: framework/includes/options-config.php:784
+msgid "Enable/Disable Archive Title"
+msgstr ""
+
+#: framework/includes/options-config.php:791
+msgid "Archive Title Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:792
+msgid "Select Archive Title Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:805
+msgid "Archive Title Margin"
+msgstr ""
+
+#: framework/includes/options-config.php:806
+#: framework/includes/options-config.php:1084
+#: framework/includes/options-config.php:3098
+#: framework/includes/options-config.php:3293
+msgid "This must be numeric (no px). Leave balnk for default."
+msgstr ""
+
+#: framework/includes/options-config.php:807
+msgid ""
+"If you would like to override the default archive title top/bottom margin, "
+"then you can do so here."
+msgstr ""
+
+#: framework/includes/options-config.php:822
+msgid "Archive Title Text Align"
+msgstr ""
+
+#: framework/includes/options-config.php:823
+msgid "Set Archive Title Text Align"
+msgstr ""
+
+#: framework/includes/options-config.php:833
+msgid "Archive Title Parallax"
+msgstr ""
+
+#: framework/includes/options-config.php:834
+msgid "Enable Archive Title Parallax"
+msgstr ""
+
+#: framework/includes/options-config.php:842
+msgid "Archive Title Height"
+msgstr ""
+
+#: framework/includes/options-config.php:843
+msgid "You can set a height for the archive title here"
+msgstr ""
+
+#: framework/includes/options-config.php:857
+msgid "Archive Title Background"
+msgstr ""
+
+#: framework/includes/options-config.php:858
+msgid "Upload archive title background."
+msgstr ""
+
+#: framework/includes/options-config.php:870
+msgid "Enable/Disable Breadcrumbs In Archive"
+msgstr ""
+
+#: framework/includes/options-config.php:878
+msgid "Search Page"
+msgstr ""
+
+#: framework/includes/options-config.php:887
+msgid "Select Search Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:945
+msgid "Select search paging style"
+msgstr ""
+
+#: framework/includes/options-config.php:954
+msgid "Select search paging align"
+msgstr ""
+
+#: framework/includes/options-config.php:968
+msgid "Single Blog"
+msgstr ""
+
+#: framework/includes/options-config.php:977
+msgid "Select Single Blog Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:1035
+msgid "Show Post Navigation"
+msgstr ""
+
+#: framework/includes/options-config.php:1036
+msgid "Enable/Disable Post Navigation"
+msgstr ""
+
+#: framework/includes/options-config.php:1043
+msgid "Show Author Info"
+msgstr ""
+
+#: framework/includes/options-config.php:1044
+msgid "Enable/Disable Author Info"
+msgstr ""
+
+#: framework/includes/options-config.php:1051
+msgid "Single Blog Title Setting"
+msgstr ""
+
+#: framework/includes/options-config.php:1057
+msgid "Show Single Blog Title"
+msgstr ""
+
+#: framework/includes/options-config.php:1058
+msgid "Enable/Disable Single Blog Title"
+msgstr ""
+
+#: framework/includes/options-config.php:1065
+msgid "Single Blog Title Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:1066
+msgid "Select Single Blog Title Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:1083
+msgid "Single Blog Title Margin"
+msgstr ""
+
+#: framework/includes/options-config.php:1085
+msgid ""
+"If you would like to override the default single blog title top/bottom "
+"margin, then you can do so here."
+msgstr ""
+
+#: framework/includes/options-config.php:1100
+msgid "Single Blog Title Text Align"
+msgstr ""
+
+#: framework/includes/options-config.php:1101
+msgid "Set Single Blog Title Text Align"
+msgstr ""
+
+#: framework/includes/options-config.php:1115
+msgid "Single Blog Title Parallax"
+msgstr ""
+
+#: framework/includes/options-config.php:1116
+msgid "Enable Single Blog Title Parallax"
+msgstr ""
+
+#: framework/includes/options-config.php:1124
+msgid "Single Blog Title Height"
+msgstr ""
+
+#: framework/includes/options-config.php:1125
+msgid "You can set a height for the single blog title here"
+msgstr ""
+
+#: framework/includes/options-config.php:1139
+msgid "Single Blog Title Background"
+msgstr ""
+
+#: framework/includes/options-config.php:1140
+msgid "Upload single blog title background."
+msgstr ""
+
+#: framework/includes/options-config.php:1152
+msgid "Enable/Disable Breadcrumbs In Single Blog"
+msgstr ""
+
+#: framework/includes/options-config.php:1160
+msgid "Logo & Favicon"
+msgstr ""
+
+#: framework/includes/options-config.php:1169
+#: framework/includes/options-config.php:1999
+msgid "Upload your logo here."
+msgstr ""
+
+#: framework/includes/options-config.php:1179
+#: framework/includes/options-config.php:2009
+msgid "Logo Height"
+msgstr ""
+
+#: framework/includes/options-config.php:1180
+#: framework/includes/options-config.php:2010
+msgid "You can set a height for the logo here"
+msgstr ""
+
+#: framework/includes/options-config.php:1191
+msgid "Logo Max Height"
+msgstr ""
+
+#: framework/includes/options-config.php:1192
+msgid "You can set a max height for the logo here"
+msgstr ""
+
+#: framework/includes/options-config.php:1206
+#: framework/includes/options-config.php:2033
+msgid "Logo Top/Bottom Padding"
+msgstr ""
+
+#: framework/includes/options-config.php:1207
+msgid "This must be numeric (no px). Leave blank for default."
+msgstr ""
+
+#: framework/includes/options-config.php:1208
+msgid ""
+"If you would like to override the default logo top/bottom padding, then you "
+"can do so here."
+msgstr ""
+
+#: framework/includes/options-config.php:1222
+msgid "Upload a sticky version of your logo here"
+msgstr ""
+
+#: framework/includes/options-config.php:1233
+msgid "Custom favicon"
+msgstr ""
+
+#: framework/includes/options-config.php:1234
+msgid ""
+"Upload a 16px x 16px Png/Gif/ico image that will represent your website "
+"favicon"
+msgstr ""
+
+#: framework/includes/options-config.php:1242
+msgid "Header"
+msgstr ""
+
+#: framework/includes/options-config.php:1250
+msgid "Show Hide Top Bar."
+msgstr ""
+
+#: framework/includes/options-config.php:1277
+msgid "Top bar Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:1278
+msgid "Select the top bar column layout."
+msgstr ""
+
+#: framework/includes/options-config.php:1324
+msgid "Select a header layout option from the examples."
+msgstr ""
+
+#: framework/includes/options-config.php:1358
+msgid "Header background"
+msgstr ""
+
+#: framework/includes/options-config.php:1359
+msgid "Header background with image, color, etc."
+msgstr ""
+
+#: framework/includes/options-config.php:1370
+msgid "Set the opacity level of background color."
+msgstr ""
+
+#: framework/includes/options-config.php:1381
+msgid "Header border Color"
+msgstr ""
+
+#: framework/includes/options-config.php:1382
+msgid "Set header border Color."
+msgstr ""
+
+#: framework/includes/options-config.php:1391
+msgid "Set header text color"
+msgstr ""
+
+#: framework/includes/options-config.php:1420
+msgid "Set header navigation background color"
+msgstr ""
+
+#: framework/includes/options-config.php:1438
+msgid "Set header navigation text color"
+msgstr ""
+
+#: framework/includes/options-config.php:1471
+#: framework/includes/options-config.php:2098 templates/switch-selector.php:25
+msgid "Primary Color"
+msgstr ""
+
+#: framework/includes/options-config.php:1472
+msgid "Base Primary Color"
+msgstr ""
+
+#: framework/includes/options-config.php:1493
+msgid "Enable/Disable Header Float."
+msgstr ""
+
+#: framework/includes/options-config.php:1500
+msgid "Show/Hide Header Sticky"
+msgstr ""
+
+#: framework/includes/options-config.php:1501
+msgid "Show Hide header Sticky."
+msgstr ""
+
+#: framework/includes/options-config.php:1509
+msgid "Choose header sticky scheme"
+msgstr ""
+
+#: framework/includes/options-config.php:1523
+msgid "Shopping Cart Button"
+msgstr ""
+
+#: framework/includes/options-config.php:1524
+msgid "Select header shopping cart button"
+msgstr ""
+
+#: framework/includes/options-config.php:1539
+msgid "Search Box Type"
+msgstr ""
+
+#: framework/includes/options-config.php:1540
+msgid "Select search box type."
+msgstr ""
+
+#: framework/includes/options-config.php:1543
+msgid "Standard"
+msgstr ""
+
+#: framework/includes/options-config.php:1544
+msgid "Ajax Search"
+msgstr ""
+
+#: framework/includes/options-config.php:1552
+msgid "Post type for Ajax Search"
+msgstr ""
+
+#: framework/includes/options-config.php:1553
+msgid "Select post type for ajax search"
+msgstr ""
+
+#: framework/includes/options-config.php:1572
+msgid "Amount Of Search Result"
+msgstr ""
+
+#: framework/includes/options-config.php:1573
+msgid "This must be numeric (no px) or empty (default: 8)."
+msgstr ""
+
+#: framework/includes/options-config.php:1574
+msgid "Set mount of Search Result"
+msgstr ""
+
+#: framework/includes/options-config.php:1584
+msgid "Header Customize"
+msgstr ""
+
+#: framework/includes/options-config.php:1592
+msgid "Mega Menu Animation"
+msgstr ""
+
+#: framework/includes/options-config.php:1593
+msgid "Select animation for mega menu"
+msgstr ""
+
+#: framework/includes/options-config.php:1609
+msgid "Add register/login popup link to menu"
+msgstr ""
+
+#: framework/includes/options-config.php:1610
+msgid "Select menu to add register/login popup link."
+msgstr ""
+
+#: framework/includes/options-config.php:1644
+#: framework/includes/options-config.php:1760
+#: framework/includes/options-config.php:1873
+msgid "Search Button Style"
+msgstr ""
+
+#: framework/includes/options-config.php:1645
+#: framework/includes/options-config.php:1761
+#: framework/includes/options-config.php:1874
+msgid "Select style for search button"
+msgstr ""
+
+#: framework/includes/options-config.php:1659
+#: framework/includes/options-config.php:1774
+#: framework/includes/options-config.php:1887
+msgid "Select style for shopping cart"
+msgstr ""
+
+#: framework/includes/options-config.php:1675
+#: framework/includes/options-config.php:1789
+#: framework/includes/options-config.php:1902
+msgid "Select social profile for custom text"
+msgstr ""
+
+#: framework/includes/options-config.php:1712
+#: framework/includes/options-config.php:1826
+#: framework/includes/options-config.php:1939
+msgid "Custom Text Content"
+msgstr ""
+
+#: framework/includes/options-config.php:1713
+#: framework/includes/options-config.php:1827
+#: framework/includes/options-config.php:1940
+msgid "Add Content for Custom Text"
+msgstr ""
+
+#: framework/includes/options-config.php:1960
+msgid "Mobile Header"
+msgstr ""
+
+#: framework/includes/options-config.php:1969
+msgid "Select header mobile layout"
+msgstr ""
+
+#: framework/includes/options-config.php:1984
+msgid "Menu Drop Type"
+msgstr ""
+
+#: framework/includes/options-config.php:1985
+msgid "Set menu drop type for mobile header"
+msgstr ""
+
+#: framework/includes/options-config.php:1988
+msgid "Dropdown Menu"
+msgstr ""
+
+#: framework/includes/options-config.php:1989
+msgid "Fly Menu"
+msgstr ""
+
+#: framework/includes/options-config.php:1998
+msgid "Mobile Logo"
+msgstr ""
+
+#: framework/includes/options-config.php:2021
+msgid "Logo Mobile Max Height"
+msgstr ""
+
+#: framework/includes/options-config.php:2022
+msgid "You can set a max height for the logo mobile here"
+msgstr ""
+
+#: framework/includes/options-config.php:2034
+msgid ""
+"If you would like to override the default logo top/bottom padding, then you "
+"can do so here"
+msgstr ""
+
+#: framework/includes/options-config.php:2045
+msgid "Top Bar"
+msgstr ""
+
+#: framework/includes/options-config.php:2046
+msgid "Enable Top bar."
+msgstr ""
+
+#: framework/includes/options-config.php:2052
+msgid "Stick Mobile Header"
+msgstr ""
+
+#: framework/includes/options-config.php:2053
+msgid "Enable Stick Mobile Header."
+msgstr ""
+
+#: framework/includes/options-config.php:2060
+msgid "Enable Search Box."
+msgstr ""
+
+#: framework/includes/options-config.php:2067
+msgid "Enable Shopping Cart"
+msgstr ""
+
+#: framework/includes/options-config.php:2075
+msgid "Footer"
+msgstr ""
+
+#: framework/includes/options-config.php:2082
+msgid "Select Footer Block"
+msgstr ""
+
+#: framework/includes/options-config.php:2083
+msgid "Set Footer Block"
+msgstr ""
+
+#: framework/includes/options-config.php:2091
+msgid "Styling Options"
+msgstr ""
+
+#: framework/includes/options-config.php:2092
+#: framework/includes/options-config.php:2233
+msgid "If you change value in this section, you must \"Save & Generate CSS\""
+msgstr ""
+
+#: framework/includes/options-config.php:2099
+msgid "Set Primary Color"
+msgstr ""
+
+#: framework/includes/options-config.php:2107
+msgid "Secondary Color"
+msgstr ""
+
+#: framework/includes/options-config.php:2108
+msgid "Set Secondary Color"
+msgstr ""
+
+#: framework/includes/options-config.php:2117
+msgid "Text Color"
+msgstr ""
+
+#: framework/includes/options-config.php:2118
+msgid "Set Text Color."
+msgstr ""
+
+#: framework/includes/options-config.php:2126
+msgid "Heading Color"
+msgstr ""
+
+#: framework/includes/options-config.php:2127
+msgid "Set Heading Color."
+msgstr ""
+
+#: framework/includes/options-config.php:2135
+msgid "Top Bar background color"
+msgstr ""
+
+#: framework/includes/options-config.php:2136
+msgid "Set Top Bar background color."
+msgstr ""
+
+#: framework/includes/options-config.php:2148
+msgid "Top Bar text color"
+msgstr ""
+
+#: framework/includes/options-config.php:2149
+msgid "Pick a text color for the Top Bar"
+msgstr ""
+
+#: framework/includes/options-config.php:2157
+msgid "Sub-menu Scheme"
+msgstr ""
+
+#: framework/includes/options-config.php:2164
+msgid "Sub menu scheme"
+msgstr ""
+
+#: framework/includes/options-config.php:2165
+msgid "Set sub menu scheme"
+msgstr ""
+
+#: framework/includes/options-config.php:2176
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: framework/includes/options-config.php:2177
+msgid "Set Sub Menu Background Color."
+msgstr ""
+
+#: framework/includes/options-config.php:2186
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: framework/includes/options-config.php:2187
+msgid "Set Sub Menu Text Color."
+msgstr ""
+
+#: framework/includes/options-config.php:2204
+msgid "Pick a background color for page title."
+msgstr ""
+
+#: framework/includes/options-config.php:2211
+msgid "Page Title Background Overlay Color"
+msgstr ""
+
+#: framework/includes/options-config.php:2212
+msgid "Pick a background overlay color for page title."
+msgstr ""
+
+#: framework/includes/options-config.php:2219
+msgid "Page Title Background Overlay Opacity"
+msgstr ""
+
+#: framework/includes/options-config.php:2220
+msgid "Set the opacity level of the overlay."
+msgstr ""
+
+#: framework/includes/options-config.php:2232
+msgid "Typograhpy"
+msgstr ""
+
+#: framework/includes/options-config.php:2238
+msgid "Use Custom fonts for body"
+msgstr ""
+
+#: framework/includes/options-config.php:2239
+msgid "Turn on to use custom fonts for the theme main text."
+msgstr ""
+
+#: framework/includes/options-config.php:2247
+msgid "Body Font"
+msgstr ""
+
+#: framework/includes/options-config.php:2248
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/includes/options-config.php:2271
+msgid "Secondary Font"
+msgstr ""
+
+#: framework/includes/options-config.php:2272
+msgid "Specify the Secondary font properties."
+msgstr ""
+
+#: framework/includes/options-config.php:2297
+msgid "H1 Font"
+msgstr ""
+
+#: framework/includes/options-config.php:2298
+msgid "Specify the H1 font properties."
+msgstr ""
+
+#: framework/includes/options-config.php:2319
+msgid "H2 Font"
+msgstr ""
+
+#: framework/includes/options-config.php:2320
+msgid "Specify the H2 font properties."
+msgstr ""
+
+#: framework/includes/options-config.php:2341
+msgid "H3 Font"
+msgstr ""
+
+#: framework/includes/options-config.php:2342
+msgid "Specify the H3 font properties."
+msgstr ""
+
+#: framework/includes/options-config.php:2363
+msgid "H4 Font"
+msgstr ""
+
+#: framework/includes/options-config.php:2364
+msgid "Specify the H4 font properties."
+msgstr ""
+
+#: framework/includes/options-config.php:2385
+msgid "H5 Font"
+msgstr ""
+
+#: framework/includes/options-config.php:2386
+msgid "Specify the H5 font properties."
+msgstr ""
+
+#: framework/includes/options-config.php:2407
+msgid "H6 Font"
+msgstr ""
+
+#: framework/includes/options-config.php:2408
+msgid "Specify the H6 font properties."
+msgstr ""
+
+#: framework/includes/options-config.php:2430
+#: framework/includes/options-config.php:2431
+msgid "Use Custom fonts for Menu / Header?"
+msgstr ""
+
+#: framework/includes/options-config.php:2437
+msgid "Menu Font"
+msgstr ""
+
+#: framework/includes/options-config.php:2438
+msgid "Specify the Menu font properties."
+msgstr ""
+
+#: framework/includes/options-config.php:2462
+#: framework/includes/options-config.php:2463
+msgid "Use Custom fonts for Page Title/Sub page title?"
+msgstr ""
+
+#: framework/includes/options-config.php:2469
+msgid "Page Title Font"
+msgstr ""
+
+#: framework/includes/options-config.php:2470
+msgid "Specify the page title font properties."
+msgstr ""
+
+#: framework/includes/options-config.php:2497
+msgid "Page Sub Title Font"
+msgstr ""
+
+#: framework/includes/options-config.php:2498
+msgid "Specify the page sub title font properties."
+msgstr ""
+
+#: framework/includes/options-config.php:2526
+msgid "Social Profiles"
+msgstr ""
+
+#: framework/includes/options-config.php:2533
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2541
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2550
+msgid "Dribbble URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2558
+msgid "Vimeo URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2566
+msgid "Tumblr URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2574
+msgid "Skype ID"
+msgstr ""
+
+#: framework/includes/options-config.php:2581
+msgid "LinkedIn URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2589
+msgid "Google+ URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2597
+msgid "Flickr URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2605
+msgid "YouTube URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2613
+msgid "Pinterest URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2621
+msgid "Foursquare URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2629
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2637
+msgid "GitHub URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2645
+msgid "Xing URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2653
+msgid "Behance URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2661
+msgid "Deviantart URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2669
+msgid "SoundCloud URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2677
+msgid "Yelp URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2685
+msgid "RSS Feed URL"
+msgstr ""
+
+#: framework/includes/options-config.php:2703
+msgid "Social Share"
+msgstr ""
+
+#: framework/includes/options-config.php:2706
+msgid "Show the social sharing in blog posts"
+msgstr ""
+
+#: framework/includes/options-config.php:2733
+msgid "Promo Popup"
+msgstr ""
+
+#: framework/includes/options-config.php:2740
+msgid "Show Popup"
+msgstr ""
+
+#: framework/includes/options-config.php:2741
+msgid "Show/Hide Popup when user go to your site"
+msgstr ""
+
+#: framework/includes/options-config.php:2747
+msgid "Popup Width"
+msgstr ""
+
+#: framework/includes/options-config.php:2757
+msgid "Popup Height"
+msgstr ""
+
+#: framework/includes/options-config.php:2767
+msgid "Popup Effect"
+msgstr ""
+
+#: framework/includes/options-config.php:2768
+msgid "Choose popup effect."
+msgstr ""
+
+#: framework/includes/options-config.php:2770
+msgid "ZoomIn"
+msgstr ""
+
+#: framework/includes/options-config.php:2771
+msgid "Newspaper"
+msgstr ""
+
+#: framework/includes/options-config.php:2772
+msgid "Move Horizontal"
+msgstr ""
+
+#: framework/includes/options-config.php:2773
+msgid "Move From Top"
+msgstr ""
+
+#: framework/includes/options-config.php:2774
+msgid "3D Unfold"
+msgstr ""
+
+#: framework/includes/options-config.php:2775
+msgid "ZoomOut"
+msgstr ""
+
+#: framework/includes/options-config.php:2776
+msgid "Hinge"
+msgstr ""
+
+#: framework/includes/options-config.php:2785
+msgid "Popup Delay"
+msgstr ""
+
+#: framework/includes/options-config.php:2795
+msgid "Popup Content"
+msgstr ""
+
+#: framework/includes/options-config.php:2804
+msgid "Popup Background"
+msgstr ""
+
+#: framework/includes/options-config.php:2819 framework/includes/sidebar.php:61
+#: framework/includes/sidebar.php:63
+msgid "Woocommerce"
+msgstr ""
+
+#: framework/includes/options-config.php:2826
+msgid "Show Rating"
+msgstr ""
+
+#: framework/includes/options-config.php:2827
+msgid "Show/Hide Rating product"
+msgstr ""
+
+#: framework/includes/options-config.php:2835
+msgid "Sale Badge Mode"
+msgstr ""
+
+#: framework/includes/options-config.php:2836
+msgid "Chose Sale Badge Mode"
+msgstr ""
+
+#: framework/includes/options-config.php:2848
+msgid "Show Result Count"
+msgstr ""
+
+#: framework/includes/options-config.php:2849
+msgid "Show/Hide Result Count In Archive Product"
+msgstr ""
+
+#: framework/includes/options-config.php:2856
+msgid "Show Catalog Ordering"
+msgstr ""
+
+#: framework/includes/options-config.php:2857
+msgid "Show/Hide Catalog Ordering"
+msgstr ""
+
+#: framework/includes/options-config.php:2864
+msgid "Button Tooltip"
+msgstr ""
+
+#: framework/includes/options-config.php:2865
+msgid "Enable/Disable Button Tooltip"
+msgstr ""
+
+#: framework/includes/options-config.php:2871
+msgid "Quick View Button"
+msgstr ""
+
+#: framework/includes/options-config.php:2872
+msgid "Enable/Disable Quick View"
+msgstr ""
+
+#: framework/includes/options-config.php:2878
+msgid "Add To Cart Button"
+msgstr ""
+
+#: framework/includes/options-config.php:2879
+msgid "Enable/Disable Add To Cart Button"
+msgstr ""
+
+#: framework/includes/options-config.php:2885
+msgid "Add To Wishlist Button"
+msgstr ""
+
+#: framework/includes/options-config.php:2886
+msgid "Enable/Disable Add To Wishlist Button"
+msgstr ""
+
+#: framework/includes/options-config.php:2892
+msgid "Add To Compare Button"
+msgstr ""
+
+#: framework/includes/options-config.php:2893
+msgid "Enable/Disable Add To Compare Button"
+msgstr ""
+
+#: framework/includes/options-config.php:2901
+msgid "Archive Product"
+msgstr ""
+
+#: framework/includes/options-config.php:2909
+msgid "Show Page Shop Content"
+msgstr ""
+
+#: framework/includes/options-config.php:2910
+msgid "Enable/Disable Shop Page Content"
+msgstr ""
+
+#: framework/includes/options-config.php:2918
+msgid "Products Per Page"
+msgstr ""
+
+#: framework/includes/options-config.php:2919
+msgid "This must be numeric or empty (default 12)."
+msgstr ""
+
+#: framework/includes/options-config.php:2920
+msgid "Set Products Per Page in archive product"
+msgstr ""
+
+#: framework/includes/options-config.php:2927
+msgid "Product Display Columns"
+msgstr ""
+
+#: framework/includes/options-config.php:2928
+msgid "Choose the number of columns to display on shop/category pages."
+msgstr ""
+
+#: framework/includes/options-config.php:2944
+#: framework/includes/options-config.php:3191
+msgid "Layout Options"
+msgstr ""
+
+#: framework/includes/options-config.php:2950
+msgid "Archive Product Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:2951
+msgid "Select Archive Product Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:2959
+msgid "Shop page style"
+msgstr ""
+
+#: framework/includes/options-config.php:2960
+msgid "Select shop page style"
+msgstr ""
+
+#: framework/includes/options-config.php:2970
+msgid "Select Product Style"
+msgstr ""
+
+#: framework/includes/options-config.php:2973
+msgid "FitRows"
+msgstr ""
+
+#: framework/includes/options-config.php:2981
+msgid "Show Categories"
+msgstr ""
+
+#: framework/includes/options-config.php:2982
+msgid "Show/Hide categories"
+msgstr ""
+
+#: framework/includes/options-config.php:2989
+msgid "Show Filters"
+msgstr ""
+
+#: framework/includes/options-config.php:2990
+msgid "Show/Hide filters"
+msgstr ""
+
+#: framework/includes/options-config.php:2997
+msgid "Show Search"
+msgstr ""
+
+#: framework/includes/options-config.php:2998
+msgid "Show/Hide search"
+msgstr ""
+
+#: framework/includes/options-config.php:3005
+msgid "Ajax filter"
+msgstr ""
+
+#: framework/includes/options-config.php:3006
+msgid ""
+"Use Ajax to filter shop content (Ajax allows new content without reloading "
+"the whole page)."
+msgstr ""
+
+#: framework/includes/options-config.php:3013
+msgid "Archive Product Sidebar"
+msgstr ""
+
+#: framework/includes/options-config.php:3014
+msgid "Set Archive Product Sidebar"
+msgstr ""
+
+#: framework/includes/options-config.php:3040
+msgid "Archive Product Left Sidebar"
+msgstr ""
+
+#: framework/includes/options-config.php:3050
+msgid "Archive Product Right Sidebar"
+msgstr ""
+
+#: framework/includes/options-config.php:3065
+#: framework/includes/options-config.php:3263
+msgid "Page Title Options"
+msgstr ""
+
+#: framework/includes/options-config.php:3072
+msgid "Enable/Disable Archive Product Title"
+msgstr ""
+
+#: framework/includes/options-config.php:3079
+msgid "Archive Product Title Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:3080
+msgid "Select Archive Product Title Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:3097
+msgid "Archive Product Title Margin"
+msgstr ""
+
+#: framework/includes/options-config.php:3099
+msgid ""
+"If you would like to override the default archive product title top/bottom "
+"margin, then you can do so here."
+msgstr ""
+
+#: framework/includes/options-config.php:3114
+msgid "Archive Product Title Text Align"
+msgstr ""
+
+#: framework/includes/options-config.php:3115
+msgid "Set Archive Product Title Text Align"
+msgstr ""
+
+#: framework/includes/options-config.php:3129
+msgid "Archive Product Title Parallax"
+msgstr ""
+
+#: framework/includes/options-config.php:3130
+msgid "Enable Archive Product Title Parallax"
+msgstr ""
+
+#: framework/includes/options-config.php:3139
+msgid "Archive Product Title Height"
+msgstr ""
+
+#: framework/includes/options-config.php:3140
+msgid "You can set a height for the archive product title here"
+msgstr ""
+
+#: framework/includes/options-config.php:3154
+msgid "Archive Product Title Background"
+msgstr ""
+
+#: framework/includes/options-config.php:3155
+msgid "Upload archive product title background."
+msgstr ""
+
+#: framework/includes/options-config.php:3166
+msgid "Breadcrumbs in Archive Product"
+msgstr ""
+
+#: framework/includes/options-config.php:3167
+msgid "Enable/Disable Breadcrumbs in Archive Product"
+msgstr ""
+
+#: framework/includes/options-config.php:3175
+msgid "Single Product"
+msgstr ""
+
+#: framework/includes/options-config.php:3183
+msgid "Show Image Thumb"
+msgstr ""
+
+#: framework/includes/options-config.php:3184
+msgid "Show/Hide Image Thumb product"
+msgstr ""
+
+#: framework/includes/options-config.php:3198
+msgid "Single Product Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:3199
+msgid "Select Single Product Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:3211
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: framework/includes/options-config.php:3212
+msgid "Set Single Product Sidebar"
+msgstr ""
+
+#: framework/includes/options-config.php:3224
+msgid "Single Product Sidebar Width"
+msgstr ""
+
+#: framework/includes/options-config.php:3234
+msgid "Single Product Left Sidebar"
+msgstr ""
+
+#: framework/includes/options-config.php:3244
+msgid "Single Product Right Sidebar"
+msgstr ""
+
+#: framework/includes/options-config.php:3270
+msgid "Show Single Title"
+msgstr ""
+
+#: framework/includes/options-config.php:3271
+msgid "Enable/Disable Single Product Title"
+msgstr ""
+
+#: framework/includes/options-config.php:3278
+msgid "Single Product Title Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:3279
+msgid "Select Single Product Title Layout"
+msgstr ""
+
+#: framework/includes/options-config.php:3292
+msgid "Single Product Title Margin"
+msgstr ""
+
+#: framework/includes/options-config.php:3294
+msgid ""
+"If you would like to override the default single product title top/bottom "
+"margin, then you can do so here."
+msgstr ""
+
+#: framework/includes/options-config.php:3309
+msgid "Single Product Title Text Align"
+msgstr ""
+
+#: framework/includes/options-config.php:3310
+msgid "Set Single Product Title Text Align"
+msgstr ""
+
+#: framework/includes/options-config.php:3320
+msgid "Single Product Title Parallax"
+msgstr ""
+
+#: framework/includes/options-config.php:3321
+msgid "Enable Single Product Title Parallax"
+msgstr ""
+
+#: framework/includes/options-config.php:3329
+msgid "Single Product Title Height"
+msgstr ""
+
+#: framework/includes/options-config.php:3330
+msgid "This must be numeric (no px) or empty."
+msgstr ""
+
+#: framework/includes/options-config.php:3331
+msgid "You can set a height for the single product title here"
+msgstr ""
+
+#: framework/includes/options-config.php:3345
+msgid "Single Product Title Background"
+msgstr ""
+
+#: framework/includes/options-config.php:3346
+msgid "Upload single product title background."
+msgstr ""
+
+#: framework/includes/options-config.php:3357
+msgid "Breadcrumbs in Single Product"
+msgstr ""
+
+#: framework/includes/options-config.php:3358
+msgid "Enable/Disable Breadcrumbs in Single Product"
+msgstr ""
+
+#: framework/includes/options-config.php:3372
+msgid "Product Related Options"
+msgstr ""
+
+#: framework/includes/options-config.php:3378
+msgid "Related Product Total Record"
+msgstr ""
+
+#: framework/includes/options-config.php:3379
+msgid "Total Record Of Related Product."
+msgstr ""
+
+#: framework/includes/options-config.php:3387
+msgid "Related Product Display Columns"
+msgstr ""
+
+#: framework/includes/options-config.php:3388
+msgid "Choose the number of columns to display on related product."
+msgstr ""
+
+#: framework/includes/options-config.php:3400
+msgid "Related Product Condition"
+msgstr ""
+
+#: framework/includes/options-config.php:3402
+msgid "Same Category"
+msgstr ""
+
+#: framework/includes/options-config.php:3403
+msgid "Same Tag"
+msgstr ""
+
+#: framework/includes/options-config.php:3422
+msgid "Custom CSS & Script"
+msgstr ""
+
+#: framework/includes/options-config.php:3423
+msgid "If you change Custom CSS, you must \"Save & Generate CSS\""
+msgstr ""
+
+#: framework/includes/options-config.php:3431
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/includes/options-config.php:3432
+msgid ""
+"Add some CSS to your theme by adding it to this textarea. Please do not "
+"include any style tags."
+msgstr ""
+
+#: framework/includes/options-config.php:3442
+msgid "Custom JS"
+msgstr ""
+
+#: framework/includes/options-config.php:3443
+msgid ""
+"Add some custom JavaScript to your theme by adding it to this textarea. "
+"Please do not include any script tags."
+msgstr ""
+
+#: framework/includes/options-config.php:3476
+#: framework/includes/options-config.php:3477
+msgid "Theme Options"
+msgstr ""
+
+#: framework/includes/sidebar.php:17
+msgid "Sidebar 1"
+msgstr ""
+
+#: framework/includes/sidebar.php:19
+msgid "Widget Area 1"
+msgstr ""
+
+#: framework/includes/sidebar.php:28
+msgid "Sidebar 2"
+msgstr ""
+
+#: framework/includes/sidebar.php:30
+msgid "Widget Area 2"
+msgstr ""
+
+#: framework/includes/sidebar.php:39 framework/includes/sidebar.php:41
+msgid "Top Bar Left"
+msgstr ""
+
+#: framework/includes/sidebar.php:50 framework/includes/sidebar.php:52
+msgid "Top Bar Right"
+msgstr ""
+
+#: framework/includes/sidebar.php:72
+msgid "Woocommerce Shop Filter"
+msgstr ""
+
+#: framework/includes/sidebar.php:74
+msgid "Woocommerce Shop filter"
+msgstr ""
+
+#: framework/includes/sidebar.php:83
+msgid "Off Canvas Menu"
+msgstr ""
+
+#: framework/includes/sidebar.php:85
+msgid "Canvas Menu Widget Area"
+msgstr ""
+
+#: framework/includes/tax-meta.php:26
+msgid "Category Meta Box"
+msgstr ""
+
+#: framework/includes/tax-meta.php:45
+msgid "Page Title Background "
+msgstr ""
+
+#: framework/includes/theme-filter.php:24
+msgid "Name*"
+msgstr ""
+
+#: framework/includes/theme-filter.php:27
+msgid "Email*"
+msgstr ""
+
+#: framework/includes/theme-filter.php:47
+msgid "Message*"
+msgstr ""
+
+#: framework/includes/theme-filter.php:51
+msgid "Send us now"
+msgstr ""
+
+#: framework/includes/theme-filter.php:159
+msgid "Search..."
+msgstr ""
+
+#: framework/includes/theme-functions.php:17
+msgid "Custom Sidebar Name"
+msgstr ""
+
+#: framework/includes/theme-functions.php:18
+msgid "Add Sidebar"
+msgstr ""
+
+#: framework/includes/theme-setup.php:44
+msgid "Primary Menu"
+msgstr ""
+
+#: framework/includes/theme-setup.php:45
+msgid "Mobile Menu"
+msgstr ""
+
+#: framework/includes/widget-custom-class.php:5
+msgid "CSS Class"
+msgstr ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:203
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:204
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:205
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:206
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:207
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:208
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:209
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:210
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:211
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:212
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:254
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:274
+msgid "Motor Framework"
+msgstr ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:293
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:325
+#: framework/includes/yolo-dash/register-require-plugin.php:359
+#, php-format
+msgid ""
+"Purchase code verification failed. <a href=\"%s\">Enter Purchase Code</a>"
+msgstr ""
+
+#: framework/includes/yolo-dash/register-require-plugin.php:349
+#: framework/includes/yolo-dash/yolo-setup-install.php:310
+msgid "Some troubles with connecting to YoloTheme server."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:393
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:910
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2616
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3663
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:394
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3242
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:395
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3035
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:1017
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:1017
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:1020
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:1020
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:1204
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3031
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2065
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2356
+msgid "Required"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2359
+msgid "Recommended"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2375
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2378
+msgid "External Source"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2381
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2398
+msgid "Not Installed"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2402
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2404
+msgid "Active"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2410
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2413
+msgid "Requires Update"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2416
+msgid "Update recommended"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2425
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2471
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2475
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2479
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2565
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2573
+msgid "Installed version:"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2581
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2593
+msgid "Available version:"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2616
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2630
+msgid "Plugin"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2631
+msgid "Source"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2632
+msgid "Type"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2636
+msgid "Version"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2637
+msgid "Status"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2686
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2691
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2697
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2767
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "Install"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2806
+msgid "Update"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2809
+msgid "Activate"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2840
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2883
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:2991
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3017
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3241
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3581
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3584
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3590
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3592
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3600
+msgid "Show Details"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3592
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3600
+msgid "Hide Details"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3593
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3598
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3601
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/includes/yolo-dash/tgmpa/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:13
+msgid "Thank you for purchasing Motor Theme!"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:45
+#: framework/includes/yolo-dash/yolo-setup-install.php:46
+msgid "Motor"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:58
+msgid "Yolo Dashboard"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:59
+msgid "Dashboard"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:107
+msgid "Yolo Theme"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:111
+msgid "Welcome to Yolo Theme!"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:112
+msgid "We've assembled some links to get you started"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:116
+#: framework/includes/yolo-dash/yolo-setup-install.php:272
+msgid "Get start"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:117
+msgid "Customize Your Site"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:118
+msgid "or"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:118
+msgid "change your theme completely"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:122
+#: framework/includes/yolo-dash/yolo-setup-install.php:131
+#: framework/includes/yolo-dash/yolo-setup-install.php:280
+msgid "Keep in Touch"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:124
+msgid "View Footer Blocks"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:125
+#: framework/includes/yolo-dash/yolo-setup-install.php:274
+msgid "Read Documentation"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:126
+#: framework/includes/yolo-dash/yolo-setup-install.php:275
+msgid "Request Support"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:127
+msgid "View Your Site"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:133
+#: framework/includes/yolo-dash/yolo-setup-install.php:282
+#: templates/popup-window.php:22
+msgid "Newsletter"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:150
+#: framework/includes/yolo-dash/yolo-setup-install.php:156
+msgid "Purchase Code Verify"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:151
+#: framework/includes/yolo-dash/yolo-setup-install.php:157
+msgid "Install Plugin"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:152
+#: framework/includes/yolo-dash/yolo-setup-install.php:158
+msgid "Import Data"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:153
+#: framework/includes/yolo-dash/yolo-setup-install.php:159
+msgid "Document and Support"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:189
+#, php-format
+msgid ""
+"Input the ThemeForest purchase code to be able to download, update and fully "
+"access to %s"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:192
+msgid "ThemeForest Purchase Code:"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:193
+msgid "Enter Purchase Code *, eg. abcd-efgh-ikml-1234"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:195
+msgid "How to get License key?"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:199
+msgid "Validated"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:221
+msgid "Install All Plugins"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:225
+msgid "You installed Successfull!"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:249
+#, php-format
+msgid ""
+"Please <a href = \"%s\">Install</a> and <a href = \"%s\">Active</a> Motor "
+"Framework"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:276
+msgid "View Changelog Details"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:321
+msgid "Purchase code verification failed."
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:334
+msgid "Purchase code is activated"
+msgstr ""
+
+#: framework/includes/yolo-dash/yolo-setup-install.php:342
+msgid "Please enter purchase code."
+msgstr ""
+
+#: framework/vc_extension/update_params.php:21
+msgid "CSS Animation"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:25
+msgid "Fade In"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:26
+msgid "Fade Top to Bottom"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:27
+msgid "Fade Bottom to Top"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:28
+msgid "Fade Left to Right"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:29
+msgid "Fade Right to Left"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:30
+msgid "Bounce In"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:31
+msgid "Bounce Top to Bottom"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:32
+msgid "Bounce Bottom to Top"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:33
+msgid "Bounce Left to Right"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:34
+msgid "Bounce Right to Left"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:35
+msgid "Zoom In"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:36
+msgid "Flip Vertical"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:37
+msgid "Flip Horizontal"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:38
+msgid "Bounce"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:39
+msgid "Flash"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:40
+msgid "Shake"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:41
+msgid "Pulse"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:42
+msgid "Swing"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:43
+msgid "Rubber band"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:44
+msgid "Wobble"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:45
+msgid "Tada"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:47
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: framework/vc_extension/update_params.php:48
+#: framework/vc_extension/update_params.php:83
+#: framework/vc_extension/update_params.php:118
+#: framework/vc_extension/update_params.php:131
+#: framework/vc_extension/update_params.php:143
+#: framework/vc_extension/update_params.php:155
+#: framework/vc_extension/update_params.php:167
+#: framework/vc_extension/update_params.php:183
+msgid "Yolo Options"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:53
+msgid "Animation Duration"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:56
+msgid ""
+"Duration in seconds. You can use decimal points in the value. Use this field "
+"to specify the amount of time the animation plays. <em>The default value "
+"depends on the animation, leave blank to use the default.</em>"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:88
+msgid "Animation Delay"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:91
+msgid ""
+"Delay in seconds. You can use decimal points in the value. Use this field to "
+"delay the animation for a few seconds, this is helpful if you want to chain "
+"different effects one after another above the fold."
+msgstr ""
+
+#: framework/vc_extension/update_params.php:135
+msgid "Show background overlay"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:137
+msgid "Hide or Show overlay on background images."
+msgstr ""
+
+#: framework/vc_extension/update_params.php:139
+msgid "Hide, please"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:140
+msgid "Show Overlay Color"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:141
+msgid "Show Overlay Image"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:147
+msgid "Image Overlay:"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:150
+msgid "Upload image overlay."
+msgstr ""
+
+#: framework/vc_extension/update_params.php:159
+msgid "Overlay color"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:161
+msgid "Select color for background overlay."
+msgstr ""
+
+#: framework/vc_extension/update_params.php:172
+msgid "Overlay opacity"
+msgstr ""
+
+#: framework/vc_extension/update_params.php:178
+msgid "Select opacity for overlay."
+msgstr ""
+
+#: templates/archive-heading.php:21
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/archive-heading.php:24 templates/breadcrumb.php:19
+msgid "Blog"
+msgstr ""
+
+#: templates/archive-heading.php:31
+msgid "Tags: "
+msgstr ""
+
+#: templates/archive-heading.php:33
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: templates/archive-heading.php:35
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: templates/archive-heading.php:37
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: templates/archive-heading.php:37
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: templates/archive-heading.php:39
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: templates/archive-heading.php:39
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: templates/archive-heading.php:41
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: templates/archive-heading.php:43
+msgid "Asides"
+msgstr ""
+
+#: templates/archive-heading.php:45
+msgid "Galleries"
+msgstr ""
+
+#: templates/archive-heading.php:49
+msgid "Videos"
+msgstr ""
+
+#: templates/archive-heading.php:51
+msgid "Quotes"
+msgstr ""
+
+#: templates/archive-heading.php:53
+msgid "Links"
+msgstr ""
+
+#: templates/archive-heading.php:55
+msgid "Statuses"
+msgstr ""
+
+#: templates/archive-heading.php:57
+msgid "Audios"
+msgstr ""
+
+#: templates/archive-heading.php:59
+msgid "Chats"
+msgstr ""
+
+#: templates/archive-heading.php:61
+msgid "Archives"
+msgstr ""
+
+#: templates/archive/content-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/archive/content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: templates/archive/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: templates/archive/content-search.php:33
+msgid "View more"
+msgstr ""
+
+#: templates/archive/content.php:56
+msgid "Read more"
+msgstr ""
+
+#: templates/archive/post-meta.php:30 templates/single-blog/post-meta.php:28
+msgid "<i class=\"fa fa-comments-o p-color\"></i> 0 Comment"
+msgstr ""
+
+#: templates/archive/post-meta.php:30 templates/single-blog/post-meta.php:28
+msgid "<i class=\"fa fa-comments-o p-color\"></i> 1 Comment"
+msgstr ""
+
+#: templates/archive/post-meta.php:30 templates/single-blog/post-meta.php:28
+msgid "<i class=\"fa fa-comments-o p-color\"></i> % Comments"
+msgstr ""
+
+#: templates/comments.php:22
+msgid "No Comments"
+msgstr ""
+
+#: templates/comments.php:22
+msgid "One Comment"
+msgstr ""
+
+#: templates/comments.php:22
+#, php-format
+msgid "There are % comments"
+msgstr ""
+
+#: templates/header/search-box.php:29 templates/header/search-popup.php:23
+#: templates/header/search-with-category.php:20
+msgid "Enter keyword to search"
+msgstr ""
+
+#: templates/header/search-box.php:31 woocommerce/archive-product.php:148
+msgid "Search"
+msgstr ""
+
+#: templates/header/search-popup.php:36
+msgid "Search Products..."
+msgstr ""
+
+#: templates/maintenance.php:96
+msgid "Days"
+msgstr ""
+
+#: templates/maintenance.php:97
+msgid "Hours"
+msgstr ""
+
+#: templates/maintenance.php:98
+msgid "Minutes"
+msgstr ""
+
+#: templates/maintenance.php:99
+msgid "Seconds"
+msgstr ""
+
+#: templates/popup-window.php:28
+msgid "Don't show this popup again"
+msgstr ""
+
+#: templates/single-blog/post-nav.php:28
+msgctxt "Previous post link"
+msgid ""
+"<div class=\"post-navigation-left\"><i class=\"post-navigation-icon fa fa-"
+"angle-double-left\"></i> <div class=\"post-navigation-label\">Prev</div></"
+"div> <div class=\"post-navigation-content\"> <div class=\"post-navigation-"
+"title\">%title </div> </div> "
+msgstr ""
+
+#: templates/single-blog/post-nav.php:29
+msgctxt "Next post link"
+msgid ""
+"<div class=\"post-navigation-content\"> <div class=\"post-navigation-title\">"
+"%title</div></div> <div class=\"post-navigation-right\"><i class=\"post-"
+"navigation-icon fa fa-angle-double-right\"></i> <div class=\"post-navigation-"
+"label\">Next</div></div>"
+msgstr ""
+
+#: templates/single-blog/post-tags.php:13
+msgid "Tags"
+msgstr ""
+
+#: templates/social-share.php:24
+msgid "Share:"
+msgstr ""
+
+#: templates/switch-selector.php:21
+msgid "Purchase Now"
+msgstr ""
+
+#: templates/switch-selector.php:49
+msgid "Boxed Background"
+msgstr ""
+
+#: templates/switch-selector.php:79
+msgid "Reset"
+msgstr ""
+
+#: templates/switch-selector.php:86
+msgid "Demos"
+msgstr ""
+
+#: woocommerce/archive-product.php:93
+msgid "All products loaded"
+msgstr ""
+
+#: woocommerce/archive-product.php:140
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/archive-product.php:174
+msgid "Search Products"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:28
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:30 woocommerce/cart/cart-shipping.php:105
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:75
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:84 woocommerce/cart/cart-shipping.php:90
+#: woocommerce/cart/cart-shipping_new.php:49
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping_new.php:47
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:20
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25 woocommerce/cart/mini-cart_new.php:79
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:72 woocommerce/cart/cart.php:28
+#: woocommerce/cart/mini-cart.php:105
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:84
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:25
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:26
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:105 woocommerce/cart/mini-cart.php:86
+#: woocommerce/cart/mini-cart_new.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:121
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:121 woocommerce/checkout/form-coupon.php:28
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:121 woocommerce/checkout/form-coupon.php:32
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:130
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:53
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:96
+msgid "An empty cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:97
+msgid "You have no item in your shopping cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:111 woocommerce/cart/mini-cart_new.php:84
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:114 woocommerce/cart/mini-cart_new.php:85
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/mini-cart_new.php:71
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:67
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:84
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:89
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:28
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:39
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:42
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:68
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/title.php:12
+msgid "Returning customers?"
+msgstr ""
+
+#: woocommerce/content-product_reset.php:21
+#, php-format
+msgid "Filters active %s(%s)%s"
+msgstr ""
+
+#: woocommerce/content-product_reset.php:30
+#, php-format
+msgid "Search results for %s&ldquo;%s&rdquo;%s"
+msgstr ""
+
+#: woocommerce/content-product_reset.php:38
+#, php-format
+msgid "Products tagged: %s&ldquo;%s&rdquo;%s"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+msgid "Quantity:"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:30
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:31
+msgid "Sold out"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:12
+msgid "No products found matching your search!"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:50
+msgid "Load more"
+msgstr ""
+
+#: woocommerce/loop/quick-view.php:15
+msgid "Quick view"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:21
+#: woocommerce/single-product/sale-flash.php:20
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:33
+#: woocommerce/single-product/sale-flash.php:32
+msgid "Sold"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:37
+msgid "Sign In"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:38
+msgid "Sign in with your created account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:45
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:49
+#: woocommerce/myaccount/form-login.php:100
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:59
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+msgid "Forgot your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:76
+msgid "Create an new account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:77
+msgid "Create an account to track your orders, create a wishlist and more"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:86
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:107
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:114
+msgid "Register"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/quick-view/rating.php:27
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/quick-view/rating.php:31
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/quick-view/rating.php:32
+#: woocommerce/single-product/rating.php:30
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:97
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:24
+msgid "In stock"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:40
+msgid "Availability:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:43
+msgid "Size:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:47
+msgid "Shipping Weight:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:50
+msgid "<label>Category:</label>"
+msgid_plural "<label>Categories:</label>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:52
+msgid "<label>Tag:</label>"
+msgid_plural "<label>Tags:</label>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:33
+#, php-format
+msgid "(%s review)"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:47
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:49
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:58
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:55
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:28
+msgid "Edit title"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:37
+msgid "Save"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:78
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:85
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:98
+msgid "Stock Status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:144 woocommerce/wishlist-view.php:251
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:175
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:186
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:189
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:200
+#, php-format
+msgid "Added on : %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:219
+msgid "Move"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:231
+msgid "Shared"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:234
+msgid "Private"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:237
+msgid "Public"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:261
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:278
+msgid "Add the selected products to the cart"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:286 woocommerce/wishlist-view.php:328
+msgid "Ask for an estimate"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Yolo Motor"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://yolotheme.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Motor Vehikal is Multi-Purpose Woocomerce WordPress theme with power full "
+"customize theme options and page options. Base on Redux Framework."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YoloTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://facebook.com/yolotheme/"
+msgstr ""

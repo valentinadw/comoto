@@ -1,0 +1,78 @@
+/*-------------------------------------
+YOLO PAGE TITLE
+---------------------------------------*/
+.yolo-page-title-section {
+	margin-bottom: 40px;
+}
+.yolo-page-title-wrap {
+	height: 230px;
+	width: 100%;
+	position: relative;
+	background-color: @page_title_bg_color;
+	h1 {
+		text-transform: uppercase;
+	    font-weight: 700;
+	    font-style: normal;
+	    color: #ffffff;
+	    @media (max-width: 768px) {
+	    	font-size: 30px!important;
+	    }
+    }
+}
+
+.yolo-page-title-wrap .container {
+	height: 100%;
+}
+
+.page-title-left .block-center {
+	text-align: left;
+}
+
+.page-title-right .block-center {
+	text-align: right;
+}
+
+.page-title-inner {
+	vertical-align: middle;
+	position: relative;
+	z-index: 1;
+}
+
+.page-title-inner .page-sub-title {
+	letter-spacing: 0.05em;
+	margin-top: 0;
+	display: block;
+	color: fade(@white, 85%)
+}
+
+.page-title-wrap-bg {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.page-title-parallax {
+	background-attachment: fixed;
+	@media(max-width: @screen-sm-max){
+		background-position: center!important;
+	}
+}
+
+.yolo-page-title-overlay {
+	content: "";
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	position: absolute;
+	background-color: @page_title_overlay_color;
+	opacity: @page_title_overlay_opacity;
+}
+
+.page-title-no-margin-top {
+	margin-top: 0 !important;
+}
+
+.page-title-no-margin-bottom {
+	margin-bottom: 0 !important;
+}
+

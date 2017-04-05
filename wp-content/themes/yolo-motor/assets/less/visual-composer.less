@@ -1,0 +1,55 @@
+/* Visual Composer */ 
+/*
+ *
+ * Custom Heading
+ *
+ */
+
+ .vc_custom_heading {
+ 	&.rotate-left {
+ 		.rotate(90deg);
+ 		.transform-origin(left top);
+ 		position: absolute;
+ 		top: 7%;
+ 		left: 13%;
+ 		white-space: nowrap;    
+ 	}
+ 	&.rotate-right {
+ 		.rotate(90deg);
+ 		.transform-origin(left top);
+ 		position: absolute;
+ 		top: 7%;
+ 		left: 90%;
+ 		white-space: nowrap;    
+ 	}
+ 	&.letter-spacing-5px {
+ 		letter-spacing: 5px;
+ 	}
+ 	&.letter-spacing-10px {
+ 		letter-spacing: 10px;
+ 	}
+ 	&.text-decoration {
+ 		strong {
+ 			position: relative;
+ 			&:before {
+ 				content: "";
+ 				width: 130%;
+ 				height: 1px;
+ 				background-color: #333333;
+ 				position: absolute;
+ 				margin-left: -15%;
+ 				bottom: 50%;
+ 			}
+ 		}
+ 	}
+ }
+ .wpb_wrapper {
+ 	h2.heading-our-team {
+ 		font-weight: bold;
+ 		letter-spacing: 15px;
+ 	}
+ 	h3.heading-our-team {
+ 		font-weight: bold;
+ 		letter-spacing: 5px;
+ 	}
+ }
